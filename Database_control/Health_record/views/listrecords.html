@@ -1,0 +1,80 @@
+<html>
+    <head>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <title>Health Record System</title>
+        <style>
+            p.outset {border-style: outset;} /*add a border line under the things*/
+
+            table, th, td {
+                border-collapse: collapse; /*can be sperate, but not good*/
+                width: 100%; /*table fit all screen*/
+                border: 1px solid; /*width with border line*/
+                text-align: left; /*all thing in left side mode*/
+                padding: 10px; /*column width*/
+            }
+            tr:nth-child(odd) {background-color: #3723ec;}
+            tr:nth-child(even) {background-color: white;}
+            tr:hover {background-color: rgb(60, 216, 12);} /* when mouse touch it be green */
+
+            th:nth-child(1), /* id */
+            td:nth-child(1) {width: 15%;}
+
+            th:nth-child(2), /* workerid */
+            td:nth-child(2) {width: 3.5%;}
+
+            th:nth-child(3), /* age */
+            td:nth-child(3) {width: 3.5%;}
+
+            th:nth-child(4), /* occupation */
+            td:nth-child(4) {width: 5%;}
+
+            th:nth-child(5), /* iscurrentemployee */
+            td:nth-child(5) {width: 10%;}
+
+            th:nth-child(6), /* iscurrentemployee */
+            td:nth-child(6) {width: 24%;}
+
+            th:nth-child(7), /* iscurrentemployee */
+            td:nth-child(7) {width: 24%;}
+
+            th:nth-child(8), /* reasonforleaving */
+            td:nth-child(8) {width: 15%;}
+
+
+        </style>
+        <link rel="stylesheet" href="poms.css" />
+    </head>
+    <body>
+        <h1>Record Information Control System</h1>
+        <a href="/">Home</a>
+        <a href="/addrecord">Add New Record</a>
+        <a href="/getrecords">List All Records</a>
+        <a href="/delrecord">Delete Record</a>
+        <a href="/updaterecord">Update Record</a>
+        <p class="outset"></p>  <!-- border line here -->
+
+        <h1>Records Table</h1>
+        <table>
+            <tr>
+                <td>ID</td>
+                <td>RecordID</td>
+                <td>WorkerID</td>
+                <td>MedicalHistory</td>
+                <td>CurrentMedications</td>
+                <td>DiseaseTypes</td>
+                <td>RecordDate</td>
+            </tr>
+        <% for(let i=0; i<Health_record.length; i++){ %>
+            <tr>
+                <td><%=Health_record[i]._id %></td>
+                <td><%=Health_record[i].RecordID %></td>
+                <td><%=Health_record[i].WorkerID %></td>
+                <td><%=Health_record[i].MedicalHistory %></td>
+                <td><%=Health_record[i].CurrentMedications %></td>
+                <td><%=Health_record[i].DiseaseTypes %></td>
+                <td><%=Health_record[i].RecordDate %></td>
+            </tr>
+        <%}%>
+    </body>
+</html>
