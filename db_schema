@@ -1,0 +1,44 @@
+CREATE DATABASE MiningHealthDataScience;
+
+USE MiningHealthDataScience;
+
+-- Table for storing worker information
+CREATE TABLE Workers (
+    WorkerID INT PRIMARY KEY AUTO_INCREMENT,
+    
+    Age INT,
+    Occupation VARCHAR(100),
+    IsCurrentEmployee BOOLEAN,
+    DateJoined DATE,
+    DateLeft DATE,
+    RecordDate DATE,
+    ReasonForLeaving VARCHAR(255)
+);
+
+-- Table for storing health records
+CREATE TABLE HealthRecords (
+    RecordID INT PRIMARY KEY AUTO_INCREMENT,
+    WorkerID INT,
+    MedicalHistory VARCHAR(255),
+    CurrentMedications VARCHAR(255),
+    DiseaseTypes VARCHAR(255),
+   
+    FOREIGN KEY (WorkerID) REFERENCES Workers(WorkerID)
+);
+
+-- Table for safety induction
+CREATE TABLE SafetyInductions (
+    InductionID INT PRIMARY KEY AUTO_INCREMENT,
+    WorkerID INT,
+    InductionDate DATE,
+    InductionScore FLOAT,
+    FOREIGN KEY (WorkerID) REFERENCES Workers(WorkerID)
+);
+
+-- Table for clustering results
+CREATE TABLE ClusteringResults (
+    ClusterID INT PRIMARY KEY AUTO_INCREMENT,
+    WorkerID INT,
+    ClusterLabel INT,
+    FOREIGN KEY (WorkerID) REFERENCES Workers(WorkerID)
+);
