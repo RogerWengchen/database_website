@@ -1,0 +1,119 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>MinerGuardian - Administrator Dashboard</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            background-color: #000000; 
+            margin: 0;
+            padding: 0;
+            color: #FFFF00;
+        }
+
+        .dashboard {
+            max-width: 1000px;
+            margin: 20px auto;
+            margin-top: 80px;
+            background-color: #000000;
+            padding: 20px;
+            border-radius: 5px;
+            box-shadow: 0px 0px 50px rgba(255, 255, 0, 0.2); 
+            text-align: center;
+        }
+
+        h1 {
+            margin-top: 10px; 
+            margin-bottom: 10px;
+        }
+
+        .feature {
+            padding: 15px;
+            border: 1px solid #FFFF00; 
+            margin: 15px 0;
+            border-radius: 10px;
+            cursor: pointer;
+            transition: background-color 0.3s;
+        }
+
+        .feature:hover {
+            background-color: #333333; 
+            color: #FFFF00; 
+        }
+
+        .feature h2, .feature p {
+            margin: 5px; 
+        }
+
+        .feature p {
+            color: #BBBB00;
+        }
+
+        nav ul {
+            padding: 0;
+            list-style: none;
+            background: #000000; /* Black Background */
+            text-align: center;
+            margin: 0;
+            box-shadow: 0px 5px 20px rgba(255, 255, 0, 0.2);
+        }
+
+        nav ul li {
+            display: inline;
+            margin-right: 20px;
+        }
+
+        nav ul li a {
+            text-decoration: none;
+            color: #FFFF00; /* Yellow Text */
+            display: inline-block;
+            padding: 20px 20px;
+            transition: background-color 0.3s;
+        }
+
+        nav ul li a:hover {
+            background-color: #333333; /* Dark Grey Background on Hover */
+        }
+
+    </style>
+</head>
+<body>
+
+    <nav>
+        <ul>
+          <li><a href="admindash.html">Home</a></li>
+          <li><a href="http://localhost:8080/">Worker Management</a></li>
+          <li><a href="health_dashboard.html">Health Record Management</a></li>
+          <li><a href="sexual_health.html">Fine-Tuned AI Chatbox</a></li>
+          <li><a href="data_dashboard.html">Data Science Insights</a></li>
+        </ul>
+      </nav>
+
+<div class="dashboard">
+    <h1>MinerGuardian</h1>
+    <h1>Administrator Dashboard</h1>
+
+    <div class="feature" onclick="location.href='http://localhost:8080/'">
+        <h2>Worker Management</h2>
+        <p>View, update, or manage all general workers and their roles.</p>
+    </div>
+
+    <div class="feature" onclick="location.href='health_dashboard.html'">
+        <h2>Health Safety Induction And Health Record Management</h2>
+        <p>Upload or modify health record and health safety induction materials. Analyze which inductions are accessed frequently.</p>
+    </div>
+
+    <div class="feature" onclick="location.href='sexual_health.html'">
+        <h2>Fine-Tuned AI Chatbox</h2>
+        <p>Monitor volume of AI chat interactions and oversee professional appointments.</p>
+    </div>
+
+    <div class="feature" onclick="location.href='data_dashboard.html'">
+        <h2>Data Science Insights</h2>
+        <p>Access comprehensive data analytics on worker health trends and apply predictive analytics tools.</p>
+    </div>
+</div>
+</body>
+</html>

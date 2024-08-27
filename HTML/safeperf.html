@@ -1,0 +1,57 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Safe Perf</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            background-color: #000000; /* Black Background */
+            margin: 0;
+            padding: 0;
+            color: #FFFF00; /* Yellow Text */
+            text-align: center;
+        }
+        
+        .dashboard {
+            width: 100vw;
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+            justify-content: center;
+            padding: 20px;
+        }
+        
+        .button {
+            background-color: #000000; /* Black Background */
+            border: 2px solid #FFFF00; /* Yellow Border */
+            color: #FFFF00; /* Yellow Text */
+            text-align: center;
+            text-decoration: none;
+            display: inline-block;
+            font-size: 16px;
+            margin: 10px; /* Adjusted margin */
+            cursor: pointer;
+            padding: 10px 24px;
+            border-radius: 8px;
+            transition: background-color 0.3s, color 0.3s; /* Smooth transition */
+        }
+        
+        .button:hover {
+            background-color: #FFFF00; /* Yellow Background on hover */
+            color: #000000; /* Black Text on hover */
+        }
+    </style>
+</head>
+
+<body>
+    <div class="dashboard">
+        <button class="button" onclick="location.href='fatalin.html'">Fatal Injury</button>
+        <button class="button" onclick="location.href='permanentincapabilities.html'">Permanent Incapabilities</button>
+        <button class="button" onclick="location.href='accidents.html'">Accidents</button>
+    </div>
+</body>
+
+</html>

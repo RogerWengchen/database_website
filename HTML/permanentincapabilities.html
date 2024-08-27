@@ -1,0 +1,82 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>MinerGuardian - Permanent In-Capabilities</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            background-color: #f4f4f4;
+            margin: 0;
+            padding: 0;
+            overflow: hidden; /* To avoid unnecessary scrollbars */
+        }
+
+        .dashboard {
+            width: 100vw;
+            height: 100vh;
+            background-color: #FFFDD0; /* Yellowish */
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+            justify-content: center;
+        }
+
+        h1 {
+            text-align: center;
+            margin-top: 0px;
+            margin-bottom: 0px;
+            color: #2C2C2C; /* Blackish */
+        }
+
+        .tableauPlaceholder {
+            width: 95%;
+            height: 80%;
+        }
+    </style>
+</head>
+<body>
+
+<div class="dashboard">
+    
+    
+    <!-- Tableau visualization -->
+    <div class='tableauPlaceholder' id='viz1696245521095'>
+        <noscript><a href='#'><img alt='serious accidents and incapabilities ' src='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;Co&#47;Coalcausesofseriousaccidents&#47;seriousaccidentsandincapabilities&#47;1_rss.png' style='border: none' /></a></noscript>
+        <object class='tableauViz'>
+            <!-- Parameters for the Tableau embed -->
+            <param name='host_url' value='https%3A%2F%2Fpublic.tableau.com%2F' />
+            <param name='embed_code_version' value='3' />
+            <param name='site_root' value='' />
+            <param name='name' value='Coalcausesofseriousaccidents&#47;seriousaccidentsandincapabilities' />
+            <param name='tabs' value='no' />
+            <param name='toolbar' value='yes' />
+            <param name='static_image' value='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;Co&#47;Coalcausesofseriousaccidents&#47;seriousaccidentsandincapabilities&#47;1.png' />
+            <param name='animate_transition' value='yes' />
+            <param name='display_static_image' value='yes' />
+            <param name='display_spinner' value='yes' />
+            <param name='display_overlay' value='yes' />
+            <param name='display_count' value='yes' />
+            <param name='language' value='en-US' />
+            <param name='filter' value='publish=yes' />
+        </object>
+    </div>
+
+    <!-- Tableau's JS API -->
+    <script type='text/javascript'>
+        var divElement = document.getElementById('viz1696245521095');
+        var vizElement = divElement.getElementsByTagName('object')[0];
+        
+        // Adjust height and width based on the viewport
+        vizElement.style.width = window.innerWidth + 'px';
+        vizElement.style.height = (window.innerHeight - 100) + 'px'; // 100 is roughly the height of the headers
+        
+        var scriptElement = document.createElement('script');
+        scriptElement.src = 'https://public.tableau.com/javascripts/api/viz_v1.js';
+        vizElement.parentNode.insertBefore(scriptElement, vizElement);
+    </script>
+</div>
+
+</body>
+</html>

@@ -1,0 +1,78 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>MinerGuardian - Data Science Insights</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            background-color: #000000; /* Black Background */
+            margin: 0;
+            padding: 0;
+            color: #FFFF00; /* Yellow Text */
+        }
+
+        .dashboard {
+            margin: 50px auto;
+            margin-top: 20px;
+            padding: 40px;
+            text-align: center;
+        }
+        
+        .tableauPlaceholder {
+            margin-left: 100px;
+        }
+
+
+        nav ul {
+            padding: 0;
+            list-style: none;
+            background: #000000; /* Black Background */
+            text-align: center;
+            margin: 0;
+            box-shadow: 0px 5px 20px rgba(255, 255, 0, 0.2);
+        }
+
+        nav ul li {
+            display: inline;
+            margin-right: 20px;
+        }
+
+        nav ul li a {
+            text-decoration: none;
+            color: #FFFF00; /* Yellow Text */
+            display: inline-block;
+            padding: 20px 20px;
+            transition: background-color 0.3s;
+        }
+
+        nav ul li a:hover {
+            background-color: #333333; /* Dark Grey Background on Hover */
+        }
+        
+    </style>
+</head>
+<body>
+
+    <nav>
+        <ul>
+          <li><a href="admindash.html">Home</a></li>
+          <li><a href="http://localhost:8080/">Worker Management</a></li>
+          <li><a href="health_dashboard.html">Health Record Management</a></li>
+          <li><a href="sexual_health.html">Sexual Health Support</a></li>
+          <li><a href="data_dashboard.html">Data Science Insights</a></li>
+        </ul>
+    </nav>
+
+    <h1 style="text-align: center; margin-top: 100px;"> Overall Health Trends among Workers </h1>
+
+    <div class="dashboard">
+        <div class="feature">
+            <!-- Embed the Tableau script here -->
+            <div class='tableauPlaceholder' id='viz1696910807903' style='position: relative'><noscript><a href='#'><img alt='FIT3164 - Dashboard ' src='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;FI&#47;FIT3164-Dashboard&#47;FIT3164-Dashboard&#47;1_rss.png' style='border: none' /></a></noscript><object class='tableauViz'  style='display:none;'><param name='host_url' value='https%3A%2F%2Fpublic.tableau.com%2F' /> <param name='embed_code_version' value='3' /> <param name='site_root' value='' /><param name='name' value='FIT3164-Dashboard&#47;FIT3164-Dashboard' /><param name='tabs' value='no' /><param name='toolbar' value='yes' /><param name='static_image' value='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;FI&#47;FIT3164-Dashboard&#47;FIT3164-Dashboard&#47;1.png' /> <param name='animate_transition' value='yes' /><param name='display_static_image' value='yes' /><param name='display_spinner' value='yes' /><param name='display_overlay' value='yes' /><param name='display_count' value='yes' /><param name='language' value='zh-TW' /><param name='filter' value='publish=yes' /></object></div> <script type='text/javascript'> var divElement = document.getElementById('viz1696910807903'); var vizElement = divElement.getElementsByTagName('object')[0]; if ( divElement.offsetWidth > 800 ) { vizElement.style.width='1420px';vizElement.style.height='5027px';} else if ( divElement.offsetWidth > 500 ) { vizElement.style.width='1420px';vizElement.style.height='5027px';} else { vizElement.style.width='100%';vizElement.style.height='4327px';} var scriptElement = document.createElement('script'); scriptElement.src = 'https://public.tableau.com/javascripts/api/viz_v1.js'; vizElement.parentNode.insertBefore(scriptElement, vizElement); </script>
+        </div>
+
+    </div>
+</body>
+</html>

@@ -1,0 +1,131 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Health Safety Induction And Health Record Management</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            background-color: #000000; /* Black Background */
+            margin: 0;
+            padding: 0;
+            color: #FFFF00; /* Yellow Text */
+        }
+
+        .container {
+            max-width: 1000px;
+            margin: 20px auto;
+            margin-top: 80px;
+            background-color: #000000;
+            padding: 20px;
+            border-radius: 5px;
+            box-shadow: 0px 0px 50px rgba(255, 255, 0, 0.2); 
+            text-align: center;
+        }
+
+        h1 {
+            margin-top: 10px; 
+            margin-bottom: 10px; 
+        }
+
+        .upload, .feature {
+            padding: 15px;
+            margin: 15px 0;
+            border: 1px solid #FFFF00; /* Yellow Border */
+            border-radius: 10px;
+            transition: box-shadow 0.3s, transform 0.3s;
+        }
+
+        .feature:hover {
+            box-shadow: 0px 0px 20px rgba(255, 255, 0, 0.3); /* Yellowish Shadow */
+            transform: scale(1.05);
+        }
+
+        .feature h2 {
+            margin: 0;
+            color: #000000; /* Black Text */
+            background-color: #FFFF00; /* Yellow Background */
+            padding: 10px;
+            border-radius: 5px;
+        }
+
+        .feature p {
+            margin-top: 5px;
+            color: #FFFF00; /* Yellow Text */
+        }
+
+        .feature a {
+            text-decoration: none;
+            color: inherit;
+            display: block;
+        }
+
+
+        #file-input {
+            font-size: 100px;
+            position: absolute;
+            left: 0;
+            top: 0;
+            opacity: 0;
+        }
+
+        nav ul {
+            padding: 0;
+            list-style: none;
+            background: #000000; /* Black Background */
+            text-align: center;
+            margin: 0;
+            box-shadow: 0px 5px 20px rgba(255, 255, 0, 0.2);
+        }
+
+        nav ul li {
+            display: inline;
+            margin-right: 20px;
+        }
+
+        nav ul li a {
+            text-decoration: none;
+            color: #FFFF00; /* Yellow Text */
+            display: inline-block;
+            padding: 20px 20px;
+            transition: background-color 0.3s;
+        }
+
+        nav ul li a:hover {
+            background-color: #333333; /* Dark Grey Background on Hover */
+        }
+
+    </style>
+</head>
+
+<body>
+
+    <nav>
+        <ul>
+          <li><a href="admindash.html">Home</a></li>
+          <li><a href="http://localhost:8080/">Worker Management</a></li>
+          <li><a href="health_dashboard.html">Health Record Management</a></li>
+          <li><a href="sexual_health.html">Fine-Tuned AI Chatbox</a></li>
+          <li><a href="data_dashboard.html">Data Science Insights</a></li>
+        </ul>
+      </nav>
+
+    <div class="container">
+        <h1>MinerGuardian</h1>
+        <h1>Health Safety Induction And Health Record Management</h1>
+
+        <div class="feature" onclick="location.href='http://localhost:8082/'">
+            <h2>Health Management</h2>
+            <p>View, update, or manage all general workers Health information.</p>
+        </div>
+
+        <div class="feature" onclick="location.href='http://localhost:8081/'">
+            <h2>Safety induction Management</h2>
+            <p>View, update, or manage all workers safety induction type and score.</p>
+        </div>
+    </div>
+</body>
+
+</html>
