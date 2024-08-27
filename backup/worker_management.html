@@ -1,0 +1,95 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>MinerGuardian: Admin - Worker Management</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            padding: 20px;
+            background-color: #f7f7f7;
+        }
+
+        .worker-container {
+            background-color: white;
+            padding: 20px;
+            border-radius: 5px;
+            box-shadow: 0px 0px 5px rgba(0, 0, 0, 0.1);
+        }
+
+        table {
+            width: 100%;
+            border-collapse: collapse;
+            margin-top: 20px;
+        }
+
+        table, th, td {
+            border: 1px solid #ddd;
+            padding: 8px;
+        }
+
+        th {
+            background-color: #f2f2f2;
+        }
+
+        tr:hover {
+            background-color: #f5f5f5;
+        }
+
+        .action-btn {
+            padding: 5px 10px;
+            margin: 0 5px;
+        }
+    </style>
+</head>
+
+<body>
+
+<div class="worker-container">
+    <h1>Worker Management</h1>
+    <p>View and manage general worker profiles.</p>
+
+    <table>
+        <thead>
+            <tr>
+                <th>Worker ID</th>
+                <th>Name</th>
+                <th>Role</th>
+                <th>Induction Progress</th>
+                <th>Actions</th>
+            </tr>
+        </thead>
+        <tbody>
+            <!-- You can populate the rows with data from your database -->
+            <tr>
+                <td>101</td>
+                <td>John Doe</td>
+                <td>Miner</td>
+                <td>85%</td>
+                <td>
+                    <button class="action-btn">Edit</button>
+                    <button class="action-btn">View Profile</button>
+                </td>
+            </tr>
+            <tr>
+                <td>102</td>
+                <td>Jane Smith</td>
+                <td>Equipment Operator</td>
+                <td>90%</td>
+                <td>
+                    <button class="action-btn">Edit</button>
+                    <button class="action-btn">View Profile</button>
+                </td>
+            </tr>
+            <!-- ... -->
+        </tbody>
+    </table>
+</div>
+
+<!-- Backend scripts to fetch, edit, or view worker details would be added below. -->
+
+</body>
+
+</html>

@@ -1,0 +1,128 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>MinerGuardian: Admin - Induction Content Management</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            padding: 20px;
+            background-color: #f7f7f7;
+        }
+
+        .content-management {
+            background-color: white;
+            padding: 20px;
+            border-radius: 5px;
+            box-shadow: 0px 0px 5px rgba(0, 0, 0, 0.1);
+        }
+
+        label {
+            display: block;
+            margin-bottom: 10px;
+            font-weight: bold;
+        }
+
+        input, textarea, select {
+            width: 100%;
+            padding: 10px;
+            margin-bottom: 20px;
+            border: 1px solid #e1e1e1;
+            border-radius: 4px;
+        }
+
+        button {
+            padding: 10px 15px;
+            border: none;
+            border-radius: 4px;
+            background-color: #2D89EF;
+            color: white;
+            cursor: pointer;
+        }
+
+        button:hover {
+            background-color: #1C58C7;
+        }
+
+        .existing-inductions table {
+            width: 100%;
+            border-collapse: collapse;
+            margin-top: 30px;
+        }
+
+        .existing-inductions th, .existing-inductions td {
+            border: 1px solid #e1e1e1;
+            padding: 10px;
+            text-align: left;
+        }
+
+        .existing-inductions button {
+            margin-right: 5px;
+        }
+
+    </style>
+</head>
+
+<body>
+
+<div class="content-management">
+    <h1>Health Safety Induction Content Management</h1>
+
+    <!-- Upload New Induction Material -->
+    <form action="/uploadInductionMaterial" method="post" enctype="multipart/form-data">
+        <label for="title">Title</label>
+        <input type="text" id="title" name="title" required placeholder="Enter Title">
+
+        <label for="description">Description</label>
+        <textarea id="description" name="description" rows="4" required placeholder="Enter Description"></textarea>
+
+        <label for="type">Type</label>
+        <select id="type" name="type">
+            <option value="video">Video</option>
+            <option value="document">Document</option>
+        </select>
+
+        <label for="file">Upload File</label>
+        <input type="file" id="file" name="file" required>
+
+        <button type="submit">Upload</button>
+    </form>
+
+    <!-- View & Manage Existing Inductions -->
+    <div class="existing-inductions">
+        <h2>Existing Inductions</h2>
+        <table>
+            <thead>
+                <tr>
+                    <th>Title</th>
+                    <th>Type</th>
+                    <th>Date Uploaded</th>
+                    <th>Actions</th>
+                </tr>
+            </thead>
+            <tbody>
+                <tr>
+                    <td>Introduction to Safety</td>
+                    <td>Video</td>
+                    <td>April 25, 2023</td>
+                    <td>
+                        <button>Edit</button>
+                        <button>Delete</button>
+                    </td>
+                </tr>
+                <!-- Repeat <tr> for each induction material -->
+            </tbody>
+        </table>
+    </div>
+
+    <!-- Induction Analytics -->
+    <div class="analytics">
+        <h2>Analytics</h2>
+        <p>Number of times viewed: 1500</p>
+        <p>Average rating: 4.5/5</p>
+    </div>
+</div>
+
+</body>
+</html>

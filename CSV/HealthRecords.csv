@@ -1,0 +1,3201 @@
+RecordID,WorkerID,MedicalHistory,CurrentMedications,DiseaseTypes,RecordDate
+1,386,None,Bronchodilators,None,2021-07-18
+2,440,Cardiovascular Diseases,None,Dermatitis,2022-02-12
+3,63,Musculoskeletal Disorders,Antihistamines,Dermatitis,2022-06-17
+4,752,Skin Disorders,Anti-hypertensive,Asthma,2022-07-07
+5,101,Cardiovascular Diseases,Anti-inflammatory,Hypertension,2022-05-29
+6,638,Skin Disorders,Anti-hypertensive,Dermatitis,2019-11-19
+7,490,Respiratory Diseases,Antihistamines,Back Pain,2021-09-11
+8,756,Musculoskeletal Disorders,None,None,2021-06-09
+9,304,Skin Disorders,None,Back Pain,2020-10-28
+10,87,Musculoskeletal Disorders,Antihistamines,None,2020-06-04
+11,888,Respiratory Diseases,Anti-inflammatory,Hypertension,2020-03-10
+12,379,Cardiovascular Diseases,Bronchodilators,None,2021-11-27
+13,960,None,Anti-inflammatory,Back Pain,2021-06-09
+14,194,Respiratory Diseases,Antihistamines,Back Pain,2021-05-19
+15,853,Cardiovascular Diseases,Bronchodilators,None,2022-05-07
+16,140,Musculoskeletal Disorders,Bronchodilators,None,2021-09-26
+17,351,Respiratory Diseases,Anti-hypertensive,Asthma,2020-08-24
+18,827,Cardiovascular Diseases,Anti-inflammatory,Back Pain,2021-08-05
+19,543,Cardiovascular Diseases,Anti-hypertensive,Asthma,2019-01-26
+20,344,Musculoskeletal Disorders,Anti-inflammatory,Back Pain,2020-08-30
+21,880,Cardiovascular Diseases,Anti-inflammatory,Hypertension,2020-01-17
+22,512,Respiratory Diseases,Anti-inflammatory,Asthma,2019-11-17
+23,52,Respiratory Diseases,Antihistamines,Back Pain,2020-12-02
+24,27,None,Anti-hypertensive,Back Pain,2019-09-08
+25,625,Musculoskeletal Disorders,Anti-hypertensive,None,2022-11-23
+26,106,Respiratory Diseases,None,Hypertension,2022-08-18
+27,341,Cardiovascular Diseases,None,Dermatitis,2022-06-23
+28,770,Musculoskeletal Disorders,Anti-inflammatory,None,2022-02-21
+29,766,Cardiovascular Diseases,Anti-hypertensive,Back Pain,2020-10-09
+30,95,Musculoskeletal Disorders,Anti-hypertensive,Dermatitis,2021-12-17
+31,264,Respiratory Diseases,None,Back Pain,2021-07-02
+32,921,None,Anti-hypertensive,Asthma,2021-01-25
+33,584,Skin Disorders,Antihistamines,Dermatitis,2021-01-16
+34,431,None,Anti-inflammatory,Asthma,2021-06-16
+35,746,Skin Disorders,Anti-hypertensive,Back Pain,2022-07-22
+36,171,Skin Disorders,Anti-inflammatory,Dermatitis,2020-02-29
+37,219,None,Antihistamines,None,2020-10-19
+38,459,Respiratory Diseases,Antihistamines,Asthma,2019-08-11
+39,51,Respiratory Diseases,Anti-inflammatory,Hypertension,2019-10-17
+40,111,Respiratory Diseases,Antihistamines,Dermatitis,2020-01-08
+41,123,Respiratory Diseases,Anti-inflammatory,Hypertension,2022-09-13
+42,545,None,None,Back Pain,2020-09-13
+43,593,Skin Disorders,Antihistamines,Dermatitis,2022-10-19
+44,987,Skin Disorders,Anti-hypertensive,Dermatitis,2019-07-06
+45,265,Cardiovascular Diseases,Antihistamines,Back Pain,2021-08-14
+46,691,Skin Disorders,Antihistamines,Asthma,2019-06-17
+47,247,Musculoskeletal Disorders,Antihistamines,Dermatitis,2019-02-01
+48,378,Cardiovascular Diseases,Antihistamines,Dermatitis,2020-09-26
+49,591,Cardiovascular Diseases,Antihistamines,Dermatitis,2020-12-24
+50,38,None,Anti-inflammatory,Back Pain,2021-05-07
+51,677,Respiratory Diseases,None,Hypertension,2022-08-24
+52,590,Skin Disorders,Anti-hypertensive,Back Pain,2020-04-24
+53,717,Cardiovascular Diseases,Anti-hypertensive,Hypertension,2019-06-11
+54,750,Cardiovascular Diseases,None,Back Pain,2022-12-04
+55,569,None,Anti-inflammatory,Hypertension,2021-01-15
+56,672,Respiratory Diseases,None,Dermatitis,2020-06-03
+57,206,Respiratory Diseases,Bronchodilators,Asthma,2020-01-24
+58,261,Cardiovascular Diseases,Bronchodilators,Dermatitis,2021-07-06
+59,444,None,Anti-hypertensive,Dermatitis,2020-01-16
+60,755,Respiratory Diseases,Anti-inflammatory,Dermatitis,2022-12-22
+61,583,None,Anti-hypertensive,Dermatitis,2021-02-02
+62,362,Respiratory Diseases,Anti-hypertensive,Asthma,2022-01-18
+63,806,Skin Disorders,Anti-hypertensive,Asthma,2019-05-07
+64,275,Respiratory Diseases,Anti-inflammatory,Asthma,2020-09-13
+65,544,Cardiovascular Diseases,None,None,2020-05-11
+66,557,Cardiovascular Diseases,Antihistamines,None,2021-03-06
+67,61,Respiratory Diseases,Antihistamines,Dermatitis,2022-07-30
+68,679,Skin Disorders,Anti-hypertensive,Asthma,2019-03-28
+69,1,Cardiovascular Diseases,Bronchodilators,Asthma,2020-05-25
+70,42,Musculoskeletal Disorders,Anti-hypertensive,Hypertension,2020-06-04
+71,58,Cardiovascular Diseases,Anti-inflammatory,Back Pain,2022-01-14
+72,784,Respiratory Diseases,Antihistamines,Dermatitis,2020-09-03
+73,660,Cardiovascular Diseases,None,None,2020-06-23
+74,961,Musculoskeletal Disorders,Anti-hypertensive,Hypertension,2022-09-02
+75,190,Cardiovascular Diseases,Anti-inflammatory,None,2022-12-26
+76,129,Skin Disorders,Anti-inflammatory,Hypertension,2021-02-16
+77,658,Cardiovascular Diseases,Bronchodilators,None,2020-08-10
+78,893,Cardiovascular Diseases,Antihistamines,Dermatitis,2019-05-05
+79,701,Cardiovascular Diseases,Anti-inflammatory,Dermatitis,2019-09-22
+80,257,None,Antihistamines,Back Pain,2019-04-21
+81,735,Respiratory Diseases,None,None,2022-04-16
+82,162,None,Antihistamines,Asthma,2021-01-21
+83,229,Respiratory Diseases,Bronchodilators,Hypertension,2022-08-01
+84,128,Musculoskeletal Disorders,Anti-hypertensive,Back Pain,2022-01-05
+85,705,Cardiovascular Diseases,Anti-hypertensive,Back Pain,2021-05-07
+86,660,None,None,Hypertension,2019-10-13
+87,869,Cardiovascular Diseases,Anti-hypertensive,Dermatitis,2019-07-14
+88,282,Respiratory Diseases,Antihistamines,Hypertension,2021-11-08
+89,398,Skin Disorders,Antihistamines,Hypertension,2020-07-09
+90,757,Cardiovascular Diseases,Anti-inflammatory,Back Pain,2019-04-27
+91,311,Respiratory Diseases,Antihistamines,Asthma,2020-08-02
+92,711,Cardiovascular Diseases,Anti-hypertensive,Back Pain,2021-11-09
+93,255,None,Anti-inflammatory,None,2020-06-03
+94,874,None,Antihistamines,Dermatitis,2020-11-29
+95,925,None,Anti-hypertensive,Hypertension,2022-06-17
+96,240,Respiratory Diseases,Anti-hypertensive,Back Pain,2020-04-28
+97,305,Respiratory Diseases,None,Back Pain,2022-09-22
+98,888,Cardiovascular Diseases,None,Asthma,2019-12-19
+99,653,Skin Disorders,Anti-inflammatory,Dermatitis,2021-08-29
+100,415,Skin Disorders,None,Dermatitis,2021-07-29
+101,442,None,Anti-inflammatory,None,2019-11-12
+102,836,Respiratory Diseases,Anti-inflammatory,Asthma,2019-10-26
+103,446,Cardiovascular Diseases,Antihistamines,Hypertension,2019-08-07
+104,246,Respiratory Diseases,Antihistamines,Dermatitis,2021-12-13
+105,785,Skin Disorders,Antihistamines,Hypertension,2020-08-21
+106,915,Cardiovascular Diseases,None,Asthma,2021-09-05
+107,288,Skin Disorders,None,Hypertension,2022-05-16
+108,706,Cardiovascular Diseases,None,None,2022-11-11
+109,300,None,Bronchodilators,None,2021-07-07
+110,347,Respiratory Diseases,Anti-hypertensive,Asthma,2019-02-06
+111,219,Cardiovascular Diseases,None,Back Pain,2019-11-25
+112,186,Skin Disorders,None,Dermatitis,2019-04-29
+113,501,Musculoskeletal Disorders,Anti-inflammatory,None,2019-05-24
+114,525,None,Anti-hypertensive,Dermatitis,2020-06-17
+115,511,Cardiovascular Diseases,Bronchodilators,Asthma,2019-02-27
+116,916,Skin Disorders,Bronchodilators,None,2020-05-15
+117,244,Respiratory Diseases,Bronchodilators,Asthma,2022-04-27
+118,438,Musculoskeletal Disorders,Bronchodilators,Dermatitis,2019-05-21
+119,18,Cardiovascular Diseases,Bronchodilators,Hypertension,2019-04-29
+120,318,Respiratory Diseases,None,Dermatitis,2019-06-03
+121,701,Cardiovascular Diseases,Bronchodilators,Dermatitis,2022-09-21
+122,326,Cardiovascular Diseases,Antihistamines,None,2020-09-09
+123,639,Cardiovascular Diseases,Antihistamines,Back Pain,2019-11-28
+124,706,None,Anti-hypertensive,Asthma,2020-09-19
+125,676,Skin Disorders,None,Dermatitis,2021-05-21
+126,630,None,Anti-inflammatory,Hypertension,2021-06-06
+127,900,Respiratory Diseases,None,Asthma,2021-12-23
+128,314,None,None,Dermatitis,2022-11-30
+129,433,Respiratory Diseases,Antihistamines,Dermatitis,2020-04-25
+130,816,Respiratory Diseases,None,None,2020-03-31
+131,842,Cardiovascular Diseases,None,Dermatitis,2019-10-01
+132,651,Cardiovascular Diseases,None,Back Pain,2021-10-17
+133,421,Cardiovascular Diseases,Antihistamines,Asthma,2022-01-25
+134,308,Respiratory Diseases,Bronchodilators,None,2022-06-26
+135,35,Skin Disorders,Anti-inflammatory,Back Pain,2019-12-30
+136,61,Skin Disorders,None,Hypertension,2022-06-05
+137,513,Respiratory Diseases,Anti-hypertensive,Dermatitis,2019-10-16
+138,934,Respiratory Diseases,Anti-hypertensive,Back Pain,2022-01-19
+139,732,Cardiovascular Diseases,Antihistamines,Back Pain,2019-12-02
+140,865,Respiratory Diseases,Bronchodilators,Dermatitis,2021-06-27
+141,60,Skin Disorders,Anti-inflammatory,Hypertension,2020-11-26
+142,820,Skin Disorders,None,Dermatitis,2022-01-16
+143,432,Cardiovascular Diseases,None,Asthma,2022-02-17
+144,29,Respiratory Diseases,Antihistamines,Hypertension,2020-01-01
+145,986,Skin Disorders,Anti-inflammatory,Dermatitis,2022-04-10
+146,752,Respiratory Diseases,Anti-hypertensive,None,2021-01-30
+147,148,Musculoskeletal Disorders,None,Dermatitis,2019-04-22
+148,153,Cardiovascular Diseases,None,Dermatitis,2021-06-18
+149,533,None,None,Hypertension,2022-01-28
+150,235,Respiratory Diseases,Anti-inflammatory,Hypertension,2021-08-25
+151,535,Cardiovascular Diseases,Anti-hypertensive,Asthma,2019-12-04
+152,717,Skin Disorders,None,None,2019-07-19
+153,110,Cardiovascular Diseases,Antihistamines,Hypertension,2020-11-18
+154,686,None,Antihistamines,Asthma,2019-03-03
+155,616,Cardiovascular Diseases,Anti-inflammatory,Asthma,2021-02-04
+156,311,Cardiovascular Diseases,Antihistamines,Asthma,2019-06-25
+157,3,Skin Disorders,Antihistamines,Asthma,2022-04-08
+158,663,None,Anti-hypertensive,Hypertension,2021-08-21
+159,958,Respiratory Diseases,Bronchodilators,Back Pain,2021-11-22
+160,546,Respiratory Diseases,Anti-hypertensive,Asthma,2019-06-22
+161,812,Respiratory Diseases,Anti-hypertensive,Dermatitis,2019-10-15
+162,143,None,Antihistamines,Hypertension,2021-09-27
+163,745,Musculoskeletal Disorders,Bronchodilators,Asthma,2022-08-25
+164,533,Skin Disorders,None,Dermatitis,2020-03-01
+165,970,Cardiovascular Diseases,Antihistamines,Asthma,2019-02-22
+166,162,Cardiovascular Diseases,Antihistamines,Dermatitis,2021-07-01
+167,146,Cardiovascular Diseases,None,None,2020-08-06
+168,567,Skin Disorders,Bronchodilators,None,2022-02-15
+169,856,Cardiovascular Diseases,Anti-hypertensive,Asthma,2019-07-18
+170,252,Musculoskeletal Disorders,Bronchodilators,Hypertension,2019-10-28
+171,338,Cardiovascular Diseases,Bronchodilators,Dermatitis,2020-07-27
+172,310,Skin Disorders,None,Hypertension,2019-10-15
+173,302,Cardiovascular Diseases,None,Hypertension,2019-11-12
+174,951,Skin Disorders,Antihistamines,Back Pain,2019-05-29
+175,982,Skin Disorders,Anti-hypertensive,Asthma,2019-03-06
+176,23,Respiratory Diseases,Antihistamines,None,2021-04-28
+177,727,Cardiovascular Diseases,Antihistamines,None,2020-04-11
+178,50,Skin Disorders,Antihistamines,Back Pain,2019-11-29
+179,8,Cardiovascular Diseases,Anti-inflammatory,Asthma,2022-12-01
+180,138,Musculoskeletal Disorders,Anti-inflammatory,None,2019-10-30
+181,63,Musculoskeletal Disorders,Anti-hypertensive,Back Pain,2022-08-04
+182,67,Cardiovascular Diseases,Antihistamines,Asthma,2022-02-02
+183,616,Musculoskeletal Disorders,Antihistamines,None,2020-09-05
+184,253,Respiratory Diseases,Bronchodilators,Asthma,2019-10-26
+185,414,Cardiovascular Diseases,Antihistamines,Hypertension,2020-06-01
+186,954,Cardiovascular Diseases,Anti-hypertensive,None,2021-09-27
+187,350,Skin Disorders,Antihistamines,Back Pain,2022-09-04
+188,32,Skin Disorders,Antihistamines,Back Pain,2019-08-08
+189,226,Cardiovascular Diseases,None,None,2019-05-13
+190,197,Cardiovascular Diseases,Anti-hypertensive,Asthma,2021-01-29
+191,290,Respiratory Diseases,None,Back Pain,2020-02-15
+192,280,Respiratory Diseases,None,Asthma,2021-05-03
+193,418,Skin Disorders,Bronchodilators,Hypertension,2019-11-25
+194,771,Skin Disorders,None,Hypertension,2019-12-17
+195,674,Respiratory Diseases,Anti-hypertensive,Back Pain,2021-08-23
+196,196,Musculoskeletal Disorders,Antihistamines,Dermatitis,2020-12-23
+197,384,None,None,Hypertension,2021-01-06
+198,49,Cardiovascular Diseases,Antihistamines,Back Pain,2021-05-01
+199,748,Musculoskeletal Disorders,Anti-hypertensive,Back Pain,2022-05-01
+200,215,Respiratory Diseases,None,Hypertension,2022-07-03
+201,818,None,None,Asthma,2020-04-14
+202,373,Cardiovascular Diseases,Antihistamines,Dermatitis,2022-03-22
+203,413,Cardiovascular Diseases,Anti-inflammatory,None,2019-04-14
+204,20,None,Anti-inflammatory,Back Pain,2022-05-05
+205,699,Skin Disorders,Anti-inflammatory,Back Pain,2021-07-22
+206,621,Cardiovascular Diseases,Anti-inflammatory,Asthma,2021-09-08
+207,924,Respiratory Diseases,Anti-inflammatory,Hypertension,2021-05-09
+208,672,None,Anti-hypertensive,Back Pain,2021-08-12
+209,783,Cardiovascular Diseases,Antihistamines,Back Pain,2022-07-28
+210,993,Skin Disorders,Anti-inflammatory,None,2022-02-28
+211,614,Skin Disorders,None,Dermatitis,2021-03-29
+212,542,Cardiovascular Diseases,Antihistamines,Hypertension,2022-02-24
+213,245,Cardiovascular Diseases,Anti-hypertensive,Dermatitis,2020-11-08
+214,329,Musculoskeletal Disorders,Antihistamines,Dermatitis,2022-07-12
+215,525,Respiratory Diseases,Anti-inflammatory,Hypertension,2022-04-30
+216,209,Cardiovascular Diseases,Antihistamines,None,2021-08-12
+217,410,Skin Disorders,None,Dermatitis,2022-10-09
+218,154,Cardiovascular Diseases,Bronchodilators,Asthma,2020-02-18
+219,200,Skin Disorders,Bronchodilators,Back Pain,2022-03-12
+220,567,Cardiovascular Diseases,None,Hypertension,2022-01-18
+221,155,Skin Disorders,Antihistamines,Back Pain,2021-09-08
+222,4,Cardiovascular Diseases,Anti-hypertensive,None,2022-01-01
+223,884,Cardiovascular Diseases,Anti-hypertensive,Asthma,2019-10-14
+224,885,Skin Disorders,Anti-hypertensive,Asthma,2021-12-03
+225,478,Cardiovascular Diseases,Anti-hypertensive,Asthma,2020-03-01
+226,234,Respiratory Diseases,Antihistamines,Back Pain,2020-09-06
+227,18,Respiratory Diseases,Anti-hypertensive,Hypertension,2021-01-09
+228,138,Cardiovascular Diseases,Antihistamines,Back Pain,2019-04-01
+229,481,Skin Disorders,Anti-inflammatory,Back Pain,2021-12-18
+230,278,Skin Disorders,Bronchodilators,Hypertension,2022-01-24
+231,688,Cardiovascular Diseases,Bronchodilators,Asthma,2020-09-14
+232,794,Skin Disorders,Anti-hypertensive,Back Pain,2022-01-18
+233,52,None,None,Back Pain,2020-05-26
+234,107,None,Anti-hypertensive,None,2021-05-13
+235,54,Cardiovascular Diseases,Bronchodilators,None,2022-01-16
+236,313,Cardiovascular Diseases,None,Dermatitis,2020-10-06
+237,679,Musculoskeletal Disorders,None,Dermatitis,2021-10-17
+238,107,Musculoskeletal Disorders,Anti-hypertensive,Asthma,2021-10-14
+239,425,Respiratory Diseases,None,Dermatitis,2020-02-01
+240,886,None,Anti-hypertensive,Hypertension,2020-11-10
+241,525,None,Antihistamines,Hypertension,2021-12-27
+242,593,None,Bronchodilators,Asthma,2021-08-20
+243,476,None,Anti-hypertensive,Asthma,2021-05-26
+244,627,Respiratory Diseases,None,Asthma,2019-12-17
+245,38,Respiratory Diseases,Bronchodilators,Back Pain,2021-09-21
+246,1,Respiratory Diseases,None,Back Pain,2020-07-18
+247,137,None,Bronchodilators,Dermatitis,2019-08-11
+248,510,Cardiovascular Diseases,Anti-hypertensive,Asthma,2019-10-15
+249,858,Cardiovascular Diseases,Bronchodilators,Dermatitis,2019-06-30
+250,764,None,Antihistamines,Dermatitis,2022-03-27
+251,179,Musculoskeletal Disorders,None,Hypertension,2019-02-01
+252,905,None,Anti-inflammatory,Hypertension,2022-11-07
+253,859,Respiratory Diseases,Anti-inflammatory,Asthma,2019-10-08
+254,390,Cardiovascular Diseases,Antihistamines,None,2021-05-29
+255,964,Skin Disorders,Anti-hypertensive,Back Pain,2019-03-15
+256,79,Respiratory Diseases,Anti-inflammatory,Dermatitis,2020-09-11
+257,912,Cardiovascular Diseases,Anti-inflammatory,Back Pain,2019-01-26
+258,914,Respiratory Diseases,Anti-inflammatory,None,2020-09-02
+259,716,Cardiovascular Diseases,Bronchodilators,Dermatitis,2020-02-10
+260,492,Respiratory Diseases,Anti-inflammatory,Back Pain,2020-02-03
+261,577,Respiratory Diseases,Anti-inflammatory,None,2021-06-10
+262,873,Skin Disorders,Bronchodilators,Back Pain,2019-02-01
+263,524,None,Anti-hypertensive,Asthma,2020-05-19
+264,909,None,Anti-inflammatory,Dermatitis,2020-08-09
+265,478,Cardiovascular Diseases,None,Dermatitis,2022-12-29
+266,430,Skin Disorders,Anti-inflammatory,Asthma,2021-03-24
+267,814,Skin Disorders,Anti-hypertensive,None,2019-09-17
+268,496,Respiratory Diseases,Anti-hypertensive,Asthma,2021-11-17
+269,612,None,Anti-hypertensive,Hypertension,2019-11-10
+270,257,Cardiovascular Diseases,Anti-inflammatory,Dermatitis,2021-07-15
+271,188,Respiratory Diseases,Anti-hypertensive,Asthma,2020-10-27
+272,805,None,Anti-hypertensive,Hypertension,2021-06-21
+273,933,Cardiovascular Diseases,None,Hypertension,2019-06-20
+274,544,Cardiovascular Diseases,Bronchodilators,Hypertension,2020-04-06
+275,633,Cardiovascular Diseases,Anti-inflammatory,Back Pain,2022-04-19
+276,114,None,Bronchodilators,Asthma,2020-03-30
+277,28,Cardiovascular Diseases,Antihistamines,None,2021-09-14
+278,74,Skin Disorders,Antihistamines,Dermatitis,2020-12-03
+279,544,Skin Disorders,Anti-inflammatory,Back Pain,2021-01-03
+280,41,Skin Disorders,Antihistamines,Asthma,2022-07-11
+281,194,None,Bronchodilators,None,2020-12-01
+282,630,Skin Disorders,Anti-inflammatory,Asthma,2020-05-18
+283,359,Skin Disorders,Anti-hypertensive,Hypertension,2019-11-15
+284,852,None,Bronchodilators,Asthma,2019-05-22
+285,582,Skin Disorders,Anti-inflammatory,Back Pain,2020-05-03
+286,126,Cardiovascular Diseases,Anti-inflammatory,Asthma,2019-03-15
+287,572,Musculoskeletal Disorders,Anti-inflammatory,Dermatitis,2019-01-11
+288,495,Musculoskeletal Disorders,Anti-inflammatory,Hypertension,2022-03-02
+289,938,Cardiovascular Diseases,Anti-hypertensive,Dermatitis,2022-09-19
+290,577,Skin Disorders,None,Hypertension,2020-02-03
+291,872,Skin Disorders,None,Back Pain,2021-03-02
+292,155,Respiratory Diseases,Bronchodilators,Hypertension,2022-12-08
+293,812,None,Anti-inflammatory,Asthma,2019-08-03
+294,142,Skin Disorders,Anti-hypertensive,Asthma,2019-05-15
+295,989,Skin Disorders,Anti-hypertensive,Hypertension,2021-05-04
+296,142,Respiratory Diseases,Anti-inflammatory,Hypertension,2020-02-08
+297,884,Respiratory Diseases,Anti-hypertensive,Dermatitis,2019-10-21
+298,375,None,Anti-inflammatory,Hypertension,2021-01-24
+299,830,Respiratory Diseases,None,Asthma,2019-02-05
+300,836,Skin Disorders,Anti-inflammatory,None,2020-12-01
+301,799,Skin Disorders,None,Dermatitis,2020-04-02
+302,283,Cardiovascular Diseases,Anti-hypertensive,Asthma,2019-08-26
+303,465,Skin Disorders,Anti-hypertensive,None,2019-01-13
+304,379,Cardiovascular Diseases,None,Back Pain,2022-08-20
+305,258,Cardiovascular Diseases,None,Back Pain,2022-05-24
+306,675,Skin Disorders,Anti-hypertensive,Back Pain,2019-09-18
+307,524,Skin Disorders,Bronchodilators,Hypertension,2022-03-14
+308,94,Cardiovascular Diseases,Anti-inflammatory,Hypertension,2022-01-05
+309,625,Skin Disorders,Anti-inflammatory,Dermatitis,2022-01-28
+310,166,Cardiovascular Diseases,Antihistamines,Asthma,2020-06-07
+311,742,Cardiovascular Diseases,Anti-hypertensive,Back Pain,2020-05-14
+312,476,Cardiovascular Diseases,Antihistamines,Hypertension,2019-03-20
+313,257,Cardiovascular Diseases,Antihistamines,Back Pain,2020-10-12
+314,615,Respiratory Diseases,Anti-hypertensive,Hypertension,2019-10-29
+315,265,None,None,Asthma,2021-06-03
+316,701,Musculoskeletal Disorders,Antihistamines,Dermatitis,2020-06-07
+317,762,None,Anti-hypertensive,Back Pain,2019-11-27
+318,820,None,Anti-inflammatory,Hypertension,2022-09-06
+319,531,Skin Disorders,Antihistamines,Dermatitis,2021-09-25
+320,717,Respiratory Diseases,Bronchodilators,None,2019-02-21
+321,675,Skin Disorders,Antihistamines,Dermatitis,2021-02-26
+322,422,Cardiovascular Diseases,None,Dermatitis,2021-12-01
+323,845,Musculoskeletal Disorders,Anti-inflammatory,None,2022-06-08
+324,74,Cardiovascular Diseases,Antihistamines,Dermatitis,2019-01-22
+325,303,Skin Disorders,Anti-inflammatory,Back Pain,2021-12-11
+326,123,Cardiovascular Diseases,Anti-hypertensive,Hypertension,2019-10-27
+327,466,Cardiovascular Diseases,None,Hypertension,2022-10-25
+328,222,Respiratory Diseases,Antihistamines,Hypertension,2020-02-09
+329,877,None,Bronchodilators,None,2020-08-25
+330,732,Cardiovascular Diseases,Antihistamines,Hypertension,2019-02-18
+331,689,Musculoskeletal Disorders,Bronchodilators,Hypertension,2021-04-16
+332,379,Respiratory Diseases,Anti-hypertensive,Back Pain,2022-02-01
+333,882,Respiratory Diseases,Anti-hypertensive,Dermatitis,2021-01-15
+334,641,Respiratory Diseases,Antihistamines,Back Pain,2021-03-08
+335,486,Skin Disorders,None,Back Pain,2021-07-06
+336,342,Respiratory Diseases,Bronchodilators,None,2020-10-20
+337,255,Musculoskeletal Disorders,Bronchodilators,Dermatitis,2020-07-02
+338,821,Musculoskeletal Disorders,Bronchodilators,None,2020-01-14
+339,833,Musculoskeletal Disorders,Anti-inflammatory,Asthma,2020-02-25
+340,142,Respiratory Diseases,Bronchodilators,None,2019-09-24
+341,650,Cardiovascular Diseases,None,Dermatitis,2020-09-24
+342,685,Skin Disorders,Bronchodilators,Dermatitis,2020-08-16
+343,552,Cardiovascular Diseases,Bronchodilators,Dermatitis,2021-10-22
+344,436,Skin Disorders,Anti-inflammatory,Hypertension,2020-08-03
+345,777,Cardiovascular Diseases,None,None,2020-04-14
+346,445,Cardiovascular Diseases,Bronchodilators,Hypertension,2022-12-12
+347,683,Cardiovascular Diseases,Antihistamines,Dermatitis,2019-04-07
+348,415,Respiratory Diseases,None,Hypertension,2022-04-11
+349,411,Cardiovascular Diseases,Bronchodilators,Asthma,2022-08-28
+350,376,None,Anti-hypertensive,Back Pain,2022-07-17
+351,547,None,Bronchodilators,Dermatitis,2021-02-14
+352,753,Skin Disorders,Bronchodilators,Asthma,2020-01-02
+353,994,Respiratory Diseases,Anti-hypertensive,None,2020-06-16
+354,954,Cardiovascular Diseases,None,Asthma,2019-02-14
+355,151,None,Bronchodilators,Asthma,2021-11-06
+356,503,None,Bronchodilators,Back Pain,2022-03-01
+357,616,Musculoskeletal Disorders,Antihistamines,Asthma,2020-10-17
+358,178,Skin Disorders,Anti-inflammatory,Dermatitis,2022-10-22
+359,256,Respiratory Diseases,None,Hypertension,2019-09-09
+360,862,None,Anti-hypertensive,None,2022-09-04
+361,965,None,Antihistamines,Back Pain,2020-11-21
+362,558,Cardiovascular Diseases,Antihistamines,None,2021-01-23
+363,379,Musculoskeletal Disorders,Anti-hypertensive,None,2020-07-28
+364,164,Skin Disorders,None,Back Pain,2020-06-08
+365,62,None,None,None,2021-04-04
+366,611,Cardiovascular Diseases,Anti-hypertensive,Asthma,2022-09-12
+367,130,None,Anti-inflammatory,Dermatitis,2022-07-25
+368,860,Respiratory Diseases,None,Dermatitis,2020-08-09
+369,103,Cardiovascular Diseases,Bronchodilators,Asthma,2019-06-07
+370,155,Respiratory Diseases,Anti-inflammatory,None,2022-11-12
+371,744,Cardiovascular Diseases,Anti-hypertensive,None,2021-06-07
+372,53,Respiratory Diseases,None,Dermatitis,2020-08-09
+373,667,Skin Disorders,Anti-inflammatory,None,2022-11-27
+374,508,None,Anti-hypertensive,None,2022-06-08
+375,544,Respiratory Diseases,None,Dermatitis,2020-10-13
+376,837,None,None,Hypertension,2021-02-18
+377,498,Skin Disorders,Bronchodilators,Back Pain,2020-07-09
+378,29,Musculoskeletal Disorders,Bronchodilators,None,2019-07-08
+379,180,Cardiovascular Diseases,Antihistamines,Hypertension,2020-12-04
+380,717,None,Anti-hypertensive,None,2022-06-09
+381,201,Respiratory Diseases,Anti-inflammatory,None,2022-01-27
+382,488,Cardiovascular Diseases,Antihistamines,Back Pain,2019-06-15
+383,630,Skin Disorders,Anti-hypertensive,Hypertension,2020-12-13
+384,259,Respiratory Diseases,Anti-hypertensive,Hypertension,2021-01-16
+385,498,Musculoskeletal Disorders,None,Dermatitis,2020-07-05
+386,382,Cardiovascular Diseases,Antihistamines,Back Pain,2021-07-31
+387,24,Cardiovascular Diseases,Bronchodilators,Dermatitis,2022-08-06
+388,708,Skin Disorders,None,None,2019-11-12
+389,967,None,Antihistamines,None,2021-04-02
+390,145,None,Anti-inflammatory,Asthma,2020-01-06
+391,641,Cardiovascular Diseases,None,Asthma,2020-12-09
+392,962,Respiratory Diseases,Antihistamines,None,2020-12-14
+393,456,Skin Disorders,None,None,2021-05-13
+394,231,Respiratory Diseases,Bronchodilators,Hypertension,2020-07-25
+395,281,Skin Disorders,Antihistamines,Dermatitis,2019-08-25
+396,941,None,None,Asthma,2020-11-21
+397,299,Cardiovascular Diseases,None,Asthma,2020-03-05
+398,154,Cardiovascular Diseases,Antihistamines,Hypertension,2021-05-01
+399,408,None,Antihistamines,Back Pain,2022-12-25
+400,850,Respiratory Diseases,Anti-inflammatory,Back Pain,2020-08-18
+401,184,Cardiovascular Diseases,Antihistamines,Hypertension,2022-08-21
+402,730,Cardiovascular Diseases,None,Back Pain,2020-12-05
+403,896,Skin Disorders,None,None,2021-04-15
+404,516,Cardiovascular Diseases,Anti-hypertensive,None,2020-01-02
+405,953,Respiratory Diseases,Antihistamines,Dermatitis,2019-11-12
+406,367,Cardiovascular Diseases,Anti-hypertensive,None,2020-06-04
+407,151,None,Anti-hypertensive,Dermatitis,2021-12-26
+408,275,Cardiovascular Diseases,Bronchodilators,Dermatitis,2020-03-19
+409,910,Respiratory Diseases,Bronchodilators,Asthma,2020-03-10
+410,985,None,Antihistamines,None,2020-05-21
+411,540,Musculoskeletal Disorders,None,Back Pain,2019-10-08
+412,392,Cardiovascular Diseases,Antihistamines,Dermatitis,2021-04-15
+413,983,None,Antihistamines,None,2021-08-24
+414,875,Respiratory Diseases,Bronchodilators,Asthma,2020-05-09
+415,478,None,Anti-inflammatory,None,2022-09-28
+416,568,Respiratory Diseases,Anti-inflammatory,Hypertension,2019-02-19
+417,590,None,Antihistamines,Hypertension,2022-03-15
+418,392,Cardiovascular Diseases,Antihistamines,None,2022-05-28
+419,447,Cardiovascular Diseases,Antihistamines,None,2019-07-26
+420,160,Skin Disorders,Antihistamines,Hypertension,2019-06-08
+421,546,Respiratory Diseases,None,Asthma,2019-03-01
+422,877,Musculoskeletal Disorders,Bronchodilators,None,2019-12-20
+423,965,None,Antihistamines,None,2022-02-09
+424,927,Cardiovascular Diseases,Anti-hypertensive,Asthma,2020-05-02
+425,709,Respiratory Diseases,Bronchodilators,Dermatitis,2021-02-15
+426,201,Cardiovascular Diseases,Antihistamines,Back Pain,2020-04-24
+427,704,Skin Disorders,Anti-inflammatory,Dermatitis,2020-05-28
+428,44,None,Anti-inflammatory,Asthma,2021-03-05
+429,412,None,Anti-inflammatory,Back Pain,2021-12-11
+430,804,Respiratory Diseases,None,Asthma,2022-07-16
+431,98,Skin Disorders,None,None,2022-05-19
+432,689,Cardiovascular Diseases,Bronchodilators,Back Pain,2022-05-05
+433,860,None,None,Asthma,2019-08-15
+434,187,None,Bronchodilators,Asthma,2022-05-23
+435,923,Respiratory Diseases,Antihistamines,Hypertension,2022-11-05
+436,54,Cardiovascular Diseases,Bronchodilators,None,2019-01-16
+437,613,Cardiovascular Diseases,None,Hypertension,2021-09-02
+438,612,Respiratory Diseases,Anti-inflammatory,Back Pain,2019-03-27
+439,703,Cardiovascular Diseases,Anti-inflammatory,Asthma,2021-08-07
+440,306,Skin Disorders,Antihistamines,Back Pain,2019-07-31
+441,782,None,Anti-inflammatory,Dermatitis,2019-05-02
+442,418,Skin Disorders,Anti-hypertensive,Dermatitis,2019-08-07
+443,505,Musculoskeletal Disorders,Antihistamines,Asthma,2020-06-03
+444,641,Cardiovascular Diseases,None,Dermatitis,2019-11-07
+445,175,Musculoskeletal Disorders,Antihistamines,Asthma,2022-03-07
+446,369,Cardiovascular Diseases,Anti-inflammatory,Back Pain,2019-01-06
+447,957,Cardiovascular Diseases,Anti-hypertensive,Asthma,2021-01-08
+448,806,Cardiovascular Diseases,None,Back Pain,2022-09-25
+449,241,Cardiovascular Diseases,None,Hypertension,2021-11-04
+450,680,Skin Disorders,None,Hypertension,2019-11-29
+451,118,Cardiovascular Diseases,Anti-hypertensive,Asthma,2019-07-18
+452,541,None,Antihistamines,Dermatitis,2019-02-17
+453,924,None,Anti-inflammatory,Back Pain,2021-09-04
+454,658,Respiratory Diseases,Anti-hypertensive,Hypertension,2020-12-19
+455,919,Cardiovascular Diseases,Antihistamines,Dermatitis,2020-03-01
+456,394,Skin Disorders,Antihistamines,Hypertension,2021-10-31
+457,540,Skin Disorders,Bronchodilators,Back Pain,2020-05-17
+458,33,Cardiovascular Diseases,Anti-hypertensive,Hypertension,2019-10-09
+459,284,None,Anti-hypertensive,Asthma,2021-07-26
+460,561,None,None,Dermatitis,2020-04-25
+461,328,Skin Disorders,Anti-inflammatory,None,2019-03-07
+462,244,Cardiovascular Diseases,Antihistamines,None,2020-04-16
+463,948,None,Antihistamines,Hypertension,2021-08-08
+464,178,Skin Disorders,Antihistamines,Dermatitis,2021-11-24
+465,763,Skin Disorders,Anti-hypertensive,Asthma,2019-12-24
+466,78,Cardiovascular Diseases,Anti-inflammatory,Hypertension,2020-09-04
+467,665,Skin Disorders,None,Dermatitis,2021-01-17
+468,190,Cardiovascular Diseases,Bronchodilators,None,2020-08-03
+469,179,Skin Disorders,Bronchodilators,Hypertension,2022-07-25
+470,569,Cardiovascular Diseases,Anti-inflammatory,Hypertension,2021-11-14
+471,178,Skin Disorders,Anti-inflammatory,None,2022-05-12
+472,527,Skin Disorders,Anti-inflammatory,Hypertension,2022-02-28
+473,518,Skin Disorders,None,Asthma,2021-03-10
+474,76,Cardiovascular Diseases,Anti-inflammatory,None,2019-07-15
+475,320,Respiratory Diseases,None,Dermatitis,2019-06-05
+476,23,Cardiovascular Diseases,Anti-inflammatory,Dermatitis,2019-02-03
+477,127,Musculoskeletal Disorders,Anti-inflammatory,None,2021-04-25
+478,746,Respiratory Diseases,Antihistamines,Back Pain,2020-07-29
+479,694,Musculoskeletal Disorders,Anti-hypertensive,Dermatitis,2020-12-11
+480,592,Respiratory Diseases,Anti-inflammatory,Dermatitis,2019-08-20
+481,17,Skin Disorders,Anti-hypertensive,None,2019-10-31
+482,135,Skin Disorders,Anti-inflammatory,Hypertension,2020-02-14
+483,620,Musculoskeletal Disorders,Bronchodilators,None,2019-01-31
+484,582,Respiratory Diseases,Anti-hypertensive,Asthma,2022-02-07
+485,267,None,Anti-hypertensive,Hypertension,2019-06-27
+486,679,Cardiovascular Diseases,None,Hypertension,2019-11-02
+487,497,Musculoskeletal Disorders,Antihistamines,Dermatitis,2022-11-25
+488,226,Cardiovascular Diseases,None,Hypertension,2020-12-21
+489,361,None,Antihistamines,Hypertension,2019-06-21
+490,121,None,None,Hypertension,2022-01-03
+491,45,Respiratory Diseases,Anti-hypertensive,Dermatitis,2019-04-14
+492,859,Cardiovascular Diseases,None,Back Pain,2019-09-13
+493,541,Cardiovascular Diseases,None,Asthma,2019-10-30
+494,904,Skin Disorders,Bronchodilators,Asthma,2020-11-04
+495,304,Cardiovascular Diseases,Anti-inflammatory,None,2020-04-09
+496,94,Musculoskeletal Disorders,Antihistamines,None,2021-03-25
+497,562,Skin Disorders,Anti-inflammatory,None,2021-10-29
+498,545,Cardiovascular Diseases,Bronchodilators,Back Pain,2020-11-01
+499,140,Musculoskeletal Disorders,Anti-inflammatory,Dermatitis,2019-12-23
+500,420,None,Anti-inflammatory,Back Pain,2022-04-11
+501,217,None,Antihistamines,Back Pain,2019-01-03
+502,886,Musculoskeletal Disorders,Anti-hypertensive,None,2022-06-08
+503,787,Cardiovascular Diseases,Bronchodilators,Dermatitis,2019-08-01
+504,766,Cardiovascular Diseases,None,Back Pain,2022-04-02
+505,168,None,Anti-inflammatory,Back Pain,2019-10-12
+506,48,Cardiovascular Diseases,Anti-hypertensive,Back Pain,2021-06-30
+507,619,Skin Disorders,Anti-hypertensive,None,2019-05-01
+508,63,Respiratory Diseases,Bronchodilators,Asthma,2020-03-25
+509,950,Skin Disorders,Bronchodilators,Hypertension,2022-05-11
+510,255,Respiratory Diseases,Antihistamines,Asthma,2019-07-26
+511,835,Skin Disorders,Bronchodilators,None,2022-09-26
+512,751,Cardiovascular Diseases,Bronchodilators,Hypertension,2022-08-17
+513,716,Cardiovascular Diseases,None,Back Pain,2020-01-23
+514,36,Skin Disorders,Anti-inflammatory,Dermatitis,2021-01-30
+515,926,Skin Disorders,Antihistamines,Dermatitis,2019-09-25
+516,153,Skin Disorders,Anti-inflammatory,Back Pain,2020-03-11
+517,730,Respiratory Diseases,Anti-hypertensive,Back Pain,2021-04-18
+518,693,Respiratory Diseases,Anti-hypertensive,Back Pain,2022-01-19
+519,288,Cardiovascular Diseases,Antihistamines,None,2021-08-17
+520,650,Skin Disorders,None,Back Pain,2019-07-21
+521,705,Musculoskeletal Disorders,Bronchodilators,Asthma,2022-01-26
+522,50,Respiratory Diseases,Bronchodilators,Back Pain,2021-03-14
+523,743,Skin Disorders,Anti-hypertensive,Asthma,2019-04-19
+524,204,Respiratory Diseases,Anti-hypertensive,Asthma,2022-04-13
+525,280,Respiratory Diseases,Bronchodilators,None,2020-03-27
+526,40,Cardiovascular Diseases,Bronchodilators,Asthma,2021-10-12
+527,989,Cardiovascular Diseases,Anti-inflammatory,None,2021-11-09
+528,266,Cardiovascular Diseases,Antihistamines,Hypertension,2020-04-19
+529,551,Respiratory Diseases,Bronchodilators,Hypertension,2022-08-06
+530,100,Cardiovascular Diseases,Bronchodilators,None,2022-02-10
+531,198,Respiratory Diseases,Bronchodilators,Dermatitis,2022-09-17
+532,193,None,None,Back Pain,2019-09-23
+533,203,None,Anti-hypertensive,Hypertension,2019-04-23
+534,668,Skin Disorders,Anti-inflammatory,Hypertension,2022-08-24
+535,578,Skin Disorders,None,None,2019-07-10
+536,220,Musculoskeletal Disorders,None,None,2020-03-29
+537,101,Skin Disorders,None,Dermatitis,2022-07-23
+538,80,Cardiovascular Diseases,None,None,2021-12-04
+539,53,None,None,Back Pain,2019-04-06
+540,16,Musculoskeletal Disorders,Anti-inflammatory,None,2019-09-24
+541,772,Cardiovascular Diseases,Bronchodilators,Hypertension,2022-09-05
+542,831,Respiratory Diseases,Anti-inflammatory,Dermatitis,2019-03-03
+543,681,Cardiovascular Diseases,None,None,2022-06-26
+544,850,Cardiovascular Diseases,None,None,2022-04-14
+545,22,Musculoskeletal Disorders,Antihistamines,Asthma,2020-03-06
+546,357,Cardiovascular Diseases,Bronchodilators,None,2020-05-27
+547,168,Skin Disorders,None,Back Pain,2021-06-24
+548,17,Cardiovascular Diseases,None,Back Pain,2022-06-14
+549,163,Skin Disorders,None,Hypertension,2019-03-04
+550,325,None,Anti-inflammatory,Asthma,2021-11-30
+551,335,Respiratory Diseases,Anti-hypertensive,Dermatitis,2021-12-18
+552,835,Musculoskeletal Disorders,Anti-inflammatory,Asthma,2020-11-06
+553,1,Respiratory Diseases,None,Hypertension,2021-06-29
+554,997,Musculoskeletal Disorders,Anti-inflammatory,None,2021-12-28
+555,452,Cardiovascular Diseases,Anti-hypertensive,None,2022-03-05
+556,831,None,Antihistamines,None,2020-12-25
+557,214,Cardiovascular Diseases,Anti-inflammatory,None,2019-08-27
+558,592,Skin Disorders,Anti-inflammatory,None,2020-03-15
+559,833,None,Antihistamines,None,2020-11-04
+560,121,Skin Disorders,None,Hypertension,2020-01-25
+561,856,None,None,Asthma,2021-05-08
+562,97,Musculoskeletal Disorders,Anti-inflammatory,Back Pain,2022-04-28
+563,663,None,Bronchodilators,Hypertension,2021-01-24
+564,532,Skin Disorders,Antihistamines,Back Pain,2022-12-24
+565,488,Respiratory Diseases,Anti-hypertensive,Dermatitis,2020-09-15
+566,614,Cardiovascular Diseases,Anti-hypertensive,None,2020-10-11
+567,574,Cardiovascular Diseases,Bronchodilators,Asthma,2021-03-12
+568,718,Cardiovascular Diseases,Anti-inflammatory,Hypertension,2019-12-15
+569,519,None,None,None,2020-11-21
+570,326,Cardiovascular Diseases,Antihistamines,Hypertension,2021-07-08
+571,722,Skin Disorders,Bronchodilators,Dermatitis,2022-01-28
+572,11,Cardiovascular Diseases,Anti-hypertensive,None,2019-06-21
+573,390,Skin Disorders,Bronchodilators,Hypertension,2019-02-06
+574,558,Respiratory Diseases,Bronchodilators,Asthma,2021-06-09
+575,576,Cardiovascular Diseases,None,Dermatitis,2020-06-30
+576,524,Skin Disorders,Antihistamines,Hypertension,2021-01-05
+577,201,None,Bronchodilators,None,2019-09-05
+578,255,Respiratory Diseases,None,Back Pain,2020-04-27
+579,857,Skin Disorders,Anti-inflammatory,Asthma,2019-06-29
+580,978,Cardiovascular Diseases,Bronchodilators,Hypertension,2022-10-07
+581,924,Skin Disorders,Bronchodilators,Hypertension,2019-03-03
+582,628,Skin Disorders,Anti-inflammatory,Asthma,2021-04-11
+583,831,Respiratory Diseases,None,None,2020-03-12
+584,292,Skin Disorders,Anti-inflammatory,Back Pain,2019-11-30
+585,923,Cardiovascular Diseases,Antihistamines,Back Pain,2020-07-23
+586,790,Cardiovascular Diseases,Antihistamines,Dermatitis,2019-01-13
+587,320,Skin Disorders,Antihistamines,Asthma,2019-05-14
+588,490,Cardiovascular Diseases,Anti-hypertensive,Hypertension,2020-06-30
+589,754,Musculoskeletal Disorders,Antihistamines,None,2021-06-08
+590,224,Respiratory Diseases,Bronchodilators,Dermatitis,2021-10-28
+591,602,Respiratory Diseases,Anti-inflammatory,Hypertension,2022-05-25
+592,929,Cardiovascular Diseases,Anti-inflammatory,Asthma,2021-03-14
+593,888,Cardiovascular Diseases,Anti-hypertensive,Asthma,2021-08-08
+594,434,None,None,Asthma,2020-05-11
+595,31,Musculoskeletal Disorders,Anti-hypertensive,Back Pain,2021-10-31
+596,347,Cardiovascular Diseases,Bronchodilators,None,2021-03-20
+597,830,Cardiovascular Diseases,Antihistamines,Asthma,2019-10-03
+598,191,Cardiovascular Diseases,Antihistamines,Hypertension,2021-09-11
+599,283,Skin Disorders,Anti-hypertensive,Back Pain,2020-07-31
+600,685,Cardiovascular Diseases,Anti-inflammatory,Dermatitis,2022-01-22
+601,886,Cardiovascular Diseases,Anti-inflammatory,Asthma,2019-12-16
+602,644,Skin Disorders,Antihistamines,Asthma,2020-05-30
+603,834,None,Anti-hypertensive,None,2020-09-12
+604,143,None,Anti-inflammatory,Dermatitis,2021-04-18
+605,926,Respiratory Diseases,Anti-inflammatory,Hypertension,2019-04-18
+606,301,Musculoskeletal Disorders,Antihistamines,Hypertension,2022-05-07
+607,988,Musculoskeletal Disorders,None,Back Pain,2020-03-08
+608,779,Cardiovascular Diseases,Antihistamines,Asthma,2021-01-24
+609,679,Skin Disorders,Anti-inflammatory,Dermatitis,2019-12-06
+610,621,Musculoskeletal Disorders,None,Back Pain,2020-08-08
+611,868,Cardiovascular Diseases,Antihistamines,None,2022-06-15
+612,608,Musculoskeletal Disorders,Anti-inflammatory,Back Pain,2019-03-09
+613,491,None,Anti-hypertensive,None,2022-03-17
+614,879,Cardiovascular Diseases,None,Dermatitis,2019-05-24
+615,389,Cardiovascular Diseases,Anti-inflammatory,Asthma,2019-04-13
+616,715,Skin Disorders,Anti-hypertensive,None,2021-06-21
+617,808,None,Antihistamines,Asthma,2019-12-11
+618,979,None,None,None,2020-06-08
+619,598,Skin Disorders,Antihistamines,None,2022-06-10
+620,407,Musculoskeletal Disorders,Antihistamines,None,2021-07-09
+621,757,Cardiovascular Diseases,None,Dermatitis,2021-08-16
+622,710,Cardiovascular Diseases,Antihistamines,Dermatitis,2022-01-03
+623,473,Cardiovascular Diseases,Antihistamines,Back Pain,2021-04-22
+624,553,Respiratory Diseases,Bronchodilators,Hypertension,2021-08-19
+625,521,Respiratory Diseases,Bronchodilators,Asthma,2019-07-19
+626,491,Cardiovascular Diseases,None,Hypertension,2021-12-25
+627,436,Cardiovascular Diseases,Antihistamines,Hypertension,2021-04-25
+628,698,Cardiovascular Diseases,Anti-hypertensive,Asthma,2020-08-24
+629,369,Skin Disorders,Anti-hypertensive,None,2022-12-12
+630,501,Cardiovascular Diseases,Anti-inflammatory,Asthma,2020-06-18
+631,10,Skin Disorders,Bronchodilators,Back Pain,2021-09-12
+632,908,None,Anti-hypertensive,Hypertension,2019-03-09
+633,508,None,Anti-hypertensive,Hypertension,2022-03-18
+634,485,Cardiovascular Diseases,Antihistamines,Hypertension,2022-07-06
+635,236,None,Anti-inflammatory,Back Pain,2022-11-01
+636,58,Cardiovascular Diseases,Bronchodilators,Asthma,2019-11-09
+637,369,Skin Disorders,Antihistamines,None,2022-01-18
+638,316,None,None,Asthma,2020-04-01
+639,569,Cardiovascular Diseases,None,Back Pain,2019-08-03
+640,756,None,Bronchodilators,Back Pain,2020-03-14
+641,69,Cardiovascular Diseases,Bronchodilators,Dermatitis,2019-06-30
+642,799,None,Antihistamines,Asthma,2020-02-07
+643,171,Musculoskeletal Disorders,Anti-hypertensive,None,2019-09-13
+644,886,None,Bronchodilators,None,2020-07-31
+645,127,None,None,None,2019-01-20
+646,248,Respiratory Diseases,Anti-hypertensive,Hypertension,2022-03-31
+647,586,Cardiovascular Diseases,Bronchodilators,Asthma,2019-07-22
+648,467,Skin Disorders,Anti-inflammatory,None,2020-05-26
+649,489,Musculoskeletal Disorders,Anti-inflammatory,Asthma,2020-07-13
+650,130,None,Antihistamines,None,2020-12-05
+651,812,Cardiovascular Diseases,None,Back Pain,2019-08-10
+652,158,Musculoskeletal Disorders,Antihistamines,None,2020-02-13
+653,159,Respiratory Diseases,Anti-inflammatory,Dermatitis,2022-03-11
+654,720,Respiratory Diseases,Anti-inflammatory,Hypertension,2021-11-14
+655,185,Cardiovascular Diseases,None,Hypertension,2022-08-06
+656,157,Cardiovascular Diseases,Anti-hypertensive,None,2022-10-05
+657,94,Skin Disorders,Anti-hypertensive,Back Pain,2020-02-26
+658,534,None,None,Back Pain,2020-07-25
+659,938,None,Bronchodilators,None,2020-03-25
+660,801,Skin Disorders,None,Dermatitis,2022-07-16
+661,745,Musculoskeletal Disorders,Bronchodilators,None,2020-10-15
+662,254,Cardiovascular Diseases,Anti-hypertensive,Dermatitis,2019-06-28
+663,171,Cardiovascular Diseases,Antihistamines,None,2020-01-26
+664,332,Respiratory Diseases,Anti-hypertensive,Back Pain,2021-08-15
+665,879,Cardiovascular Diseases,Anti-inflammatory,None,2019-01-02
+666,809,Cardiovascular Diseases,None,Back Pain,2022-12-08
+667,396,None,Anti-inflammatory,Dermatitis,2022-05-21
+668,142,Skin Disorders,Anti-hypertensive,Back Pain,2021-10-09
+669,384,None,Anti-inflammatory,Hypertension,2019-07-10
+670,4,None,None,Back Pain,2019-05-09
+671,484,Cardiovascular Diseases,Antihistamines,Back Pain,2020-10-19
+672,580,Respiratory Diseases,Antihistamines,Hypertension,2022-10-31
+673,711,None,Antihistamines,None,2019-10-20
+674,798,Respiratory Diseases,Anti-hypertensive,Dermatitis,2019-10-21
+675,487,None,Bronchodilators,None,2021-04-05
+676,993,Cardiovascular Diseases,Anti-hypertensive,Dermatitis,2021-02-03
+677,386,None,None,Asthma,2019-11-13
+678,395,Musculoskeletal Disorders,Antihistamines,Dermatitis,2019-10-01
+679,849,Respiratory Diseases,Antihistamines,Asthma,2019-03-02
+680,220,Musculoskeletal Disorders,Antihistamines,Back Pain,2022-03-10
+681,95,Skin Disorders,Anti-hypertensive,Asthma,2020-06-18
+682,702,Respiratory Diseases,Anti-hypertensive,Hypertension,2021-02-11
+683,225,Cardiovascular Diseases,Bronchodilators,None,2021-12-20
+684,117,Skin Disorders,None,Back Pain,2021-03-12
+685,878,Skin Disorders,Bronchodilators,Asthma,2021-10-27
+686,790,Respiratory Diseases,Anti-hypertensive,None,2022-05-13
+687,715,Musculoskeletal Disorders,Antihistamines,Hypertension,2019-06-03
+688,546,None,Bronchodilators,Dermatitis,2022-05-17
+689,156,None,Anti-hypertensive,Hypertension,2022-11-13
+690,408,Cardiovascular Diseases,Anti-hypertensive,Back Pain,2020-06-19
+691,679,Skin Disorders,None,Back Pain,2020-09-10
+692,887,Cardiovascular Diseases,Anti-hypertensive,Back Pain,2019-12-17
+693,908,Musculoskeletal Disorders,None,Dermatitis,2019-01-17
+694,912,Cardiovascular Diseases,Anti-inflammatory,Dermatitis,2021-06-03
+695,18,Skin Disorders,Antihistamines,Dermatitis,2022-08-28
+696,428,None,Bronchodilators,None,2022-04-18
+697,335,Musculoskeletal Disorders,Antihistamines,Hypertension,2019-05-27
+698,653,Skin Disorders,Bronchodilators,Back Pain,2020-10-16
+699,841,None,Anti-hypertensive,Asthma,2019-03-12
+700,545,Musculoskeletal Disorders,Anti-inflammatory,Back Pain,2022-05-14
+701,279,Skin Disorders,Anti-hypertensive,Back Pain,2022-01-30
+702,181,None,None,Back Pain,2019-06-25
+703,439,Skin Disorders,Antihistamines,None,2020-02-15
+704,162,Musculoskeletal Disorders,Antihistamines,Asthma,2021-11-22
+705,698,Skin Disorders,Anti-inflammatory,Dermatitis,2020-06-02
+706,491,Skin Disorders,Antihistamines,Dermatitis,2022-01-04
+707,163,Musculoskeletal Disorders,Bronchodilators,None,2019-09-25
+708,689,None,Bronchodilators,Dermatitis,2022-09-26
+709,383,Respiratory Diseases,Bronchodilators,Asthma,2021-07-24
+710,814,Cardiovascular Diseases,None,Hypertension,2022-07-25
+711,883,Cardiovascular Diseases,None,None,2019-11-09
+712,665,Cardiovascular Diseases,Antihistamines,Hypertension,2021-05-07
+713,29,Cardiovascular Diseases,Bronchodilators,Back Pain,2022-02-07
+714,628,Musculoskeletal Disorders,Anti-inflammatory,Back Pain,2020-06-24
+715,136,Skin Disorders,Antihistamines,Back Pain,2022-05-28
+716,272,Cardiovascular Diseases,Anti-hypertensive,Asthma,2020-02-16
+717,858,Skin Disorders,Anti-inflammatory,Asthma,2019-01-13
+718,34,Respiratory Diseases,Antihistamines,None,2022-08-13
+719,752,Skin Disorders,Anti-inflammatory,Hypertension,2021-03-02
+720,461,Respiratory Diseases,None,Hypertension,2022-07-18
+721,286,None,Bronchodilators,Asthma,2019-02-05
+722,671,Respiratory Diseases,Anti-hypertensive,Hypertension,2019-02-25
+723,139,Skin Disorders,None,Back Pain,2019-09-24
+724,963,Cardiovascular Diseases,Anti-inflammatory,Dermatitis,2021-04-29
+725,854,Cardiovascular Diseases,Antihistamines,Dermatitis,2022-12-08
+726,309,Respiratory Diseases,Anti-inflammatory,Hypertension,2019-02-21
+727,458,Respiratory Diseases,None,Back Pain,2019-01-30
+728,111,None,Antihistamines,Hypertension,2021-05-29
+729,985,None,Anti-inflammatory,Back Pain,2020-03-13
+730,970,None,Anti-inflammatory,Dermatitis,2020-04-07
+731,477,Cardiovascular Diseases,None,Back Pain,2022-10-31
+732,279,Skin Disorders,Bronchodilators,Asthma,2021-08-11
+733,721,Skin Disorders,Antihistamines,Dermatitis,2019-10-10
+734,216,Musculoskeletal Disorders,None,Dermatitis,2022-02-15
+735,463,Cardiovascular Diseases,Anti-inflammatory,Dermatitis,2021-04-05
+736,611,None,None,Dermatitis,2021-01-11
+737,91,Cardiovascular Diseases,Anti-inflammatory,Dermatitis,2022-02-07
+738,85,None,Bronchodilators,Asthma,2022-04-17
+739,136,Skin Disorders,Anti-inflammatory,Hypertension,2020-08-07
+740,160,Musculoskeletal Disorders,Anti-inflammatory,Asthma,2019-06-16
+741,958,Skin Disorders,Anti-inflammatory,Dermatitis,2022-01-16
+742,491,Musculoskeletal Disorders,Anti-inflammatory,Hypertension,2022-07-23
+743,663,Skin Disorders,Anti-inflammatory,Dermatitis,2020-04-03
+744,667,Cardiovascular Diseases,None,None,2021-02-23
+745,436,Respiratory Diseases,Antihistamines,Hypertension,2022-06-18
+746,749,Cardiovascular Diseases,Antihistamines,Back Pain,2020-12-06
+747,441,None,Anti-inflammatory,Asthma,2022-06-28
+748,164,None,Antihistamines,Asthma,2019-04-06
+749,720,Skin Disorders,None,Asthma,2022-11-22
+750,93,Musculoskeletal Disorders,Anti-hypertensive,Asthma,2022-03-20
+751,446,Skin Disorders,Bronchodilators,Hypertension,2019-12-16
+752,503,Skin Disorders,Anti-inflammatory,None,2019-12-10
+753,400,Respiratory Diseases,Anti-inflammatory,Hypertension,2022-12-03
+754,49,Cardiovascular Diseases,None,Back Pain,2021-12-23
+755,243,Respiratory Diseases,Antihistamines,Back Pain,2020-04-18
+756,648,Skin Disorders,Bronchodilators,Asthma,2020-02-11
+757,472,Skin Disorders,Anti-hypertensive,Back Pain,2021-11-28
+758,709,Cardiovascular Diseases,Antihistamines,Asthma,2022-09-25
+759,354,Musculoskeletal Disorders,Anti-inflammatory,None,2020-06-28
+760,567,Cardiovascular Diseases,Bronchodilators,Back Pain,2021-11-20
+761,571,Cardiovascular Diseases,Anti-hypertensive,None,2020-01-20
+762,474,None,Anti-hypertensive,Dermatitis,2020-12-23
+763,634,Skin Disorders,Bronchodilators,Dermatitis,2021-12-16
+764,209,None,Bronchodilators,Back Pain,2021-09-06
+765,705,Respiratory Diseases,Antihistamines,Hypertension,2019-07-12
+766,505,None,Bronchodilators,None,2021-10-05
+767,987,Musculoskeletal Disorders,Anti-inflammatory,Hypertension,2019-10-19
+768,604,Cardiovascular Diseases,Anti-inflammatory,Back Pain,2022-08-22
+769,428,Respiratory Diseases,Anti-inflammatory,Dermatitis,2021-12-16
+770,153,Respiratory Diseases,None,Hypertension,2021-09-23
+771,118,Skin Disorders,Antihistamines,Dermatitis,2022-02-07
+772,693,None,Anti-inflammatory,Dermatitis,2021-08-16
+773,435,Cardiovascular Diseases,Anti-hypertensive,None,2021-03-12
+774,29,Respiratory Diseases,None,Hypertension,2020-05-20
+775,218,None,Bronchodilators,Asthma,2022-05-19
+776,585,Skin Disorders,Antihistamines,Hypertension,2019-03-07
+777,933,Skin Disorders,Bronchodilators,Dermatitis,2020-01-14
+778,683,Cardiovascular Diseases,Anti-inflammatory,Back Pain,2020-04-24
+779,631,Cardiovascular Diseases,None,Dermatitis,2022-09-15
+780,831,Skin Disorders,Anti-hypertensive,Dermatitis,2021-09-21
+781,578,None,None,None,2019-11-18
+782,82,Respiratory Diseases,Bronchodilators,Dermatitis,2022-05-05
+783,429,Cardiovascular Diseases,Anti-hypertensive,None,2020-03-23
+784,194,Musculoskeletal Disorders,Anti-inflammatory,None,2019-02-28
+785,268,Skin Disorders,None,None,2020-12-09
+786,320,None,Bronchodilators,Hypertension,2019-03-28
+787,242,Skin Disorders,None,Dermatitis,2020-10-19
+788,605,None,None,Back Pain,2022-12-15
+789,770,Respiratory Diseases,Anti-hypertensive,Asthma,2020-08-10
+790,800,Skin Disorders,Antihistamines,Asthma,2019-12-27
+791,335,Skin Disorders,Anti-hypertensive,Back Pain,2022-12-25
+792,383,None,Anti-hypertensive,None,2021-02-08
+793,103,Respiratory Diseases,Bronchodilators,Hypertension,2021-12-29
+794,790,None,Bronchodilators,Asthma,2020-04-29
+795,691,None,None,Asthma,2022-10-29
+796,721,Respiratory Diseases,Anti-inflammatory,Hypertension,2021-10-19
+797,165,Cardiovascular Diseases,Antihistamines,Dermatitis,2020-10-09
+798,100,Skin Disorders,Antihistamines,None,2021-12-11
+799,868,Skin Disorders,Anti-hypertensive,Asthma,2022-05-13
+800,794,Musculoskeletal Disorders,Anti-inflammatory,Dermatitis,2019-06-27
+801,548,Cardiovascular Diseases,Anti-inflammatory,Hypertension,2020-06-21
+802,869,Cardiovascular Diseases,None,None,2021-03-15
+803,428,Skin Disorders,Anti-hypertensive,Dermatitis,2019-09-01
+804,499,Musculoskeletal Disorders,None,Dermatitis,2022-09-13
+805,907,Cardiovascular Diseases,Anti-inflammatory,Asthma,2020-03-14
+806,560,None,None,Hypertension,2022-03-20
+807,35,Respiratory Diseases,None,Hypertension,2020-08-24
+808,143,Cardiovascular Diseases,None,None,2021-09-28
+809,431,Skin Disorders,Anti-hypertensive,None,2020-05-10
+810,797,Skin Disorders,Antihistamines,Hypertension,2022-08-02
+811,237,Cardiovascular Diseases,Anti-hypertensive,None,2019-12-31
+812,903,Cardiovascular Diseases,Bronchodilators,Back Pain,2019-04-14
+813,573,Skin Disorders,None,Dermatitis,2022-02-26
+814,366,None,None,Hypertension,2021-10-08
+815,560,Cardiovascular Diseases,Antihistamines,None,2022-07-10
+816,543,Musculoskeletal Disorders,Anti-hypertensive,Dermatitis,2022-06-03
+817,77,Musculoskeletal Disorders,Bronchodilators,Asthma,2021-01-07
+818,703,Cardiovascular Diseases,Anti-hypertensive,Asthma,2022-07-23
+819,800,Respiratory Diseases,Bronchodilators,None,2022-08-12
+820,27,Cardiovascular Diseases,Anti-inflammatory,Dermatitis,2021-01-16
+821,470,Skin Disorders,Anti-hypertensive,Dermatitis,2022-10-10
+822,39,Respiratory Diseases,Antihistamines,Back Pain,2019-04-14
+823,154,None,Anti-inflammatory,Hypertension,2022-10-10
+824,841,None,Anti-inflammatory,None,2022-02-04
+825,733,Skin Disorders,Antihistamines,Back Pain,2021-01-11
+826,319,Musculoskeletal Disorders,Antihistamines,Dermatitis,2019-08-12
+827,75,Respiratory Diseases,None,Hypertension,2021-03-23
+828,799,None,Bronchodilators,Dermatitis,2022-06-08
+829,723,None,Anti-inflammatory,Hypertension,2019-06-18
+830,746,Skin Disorders,None,Back Pain,2019-03-24
+831,705,Skin Disorders,Anti-hypertensive,None,2022-09-17
+832,342,Respiratory Diseases,None,Back Pain,2022-04-03
+833,15,Cardiovascular Diseases,Anti-inflammatory,Dermatitis,2021-03-17
+834,20,Respiratory Diseases,None,Hypertension,2021-02-16
+835,367,Skin Disorders,None,Hypertension,2022-07-03
+836,541,None,Antihistamines,Hypertension,2021-07-02
+837,929,Respiratory Diseases,None,Dermatitis,2020-12-01
+838,83,Skin Disorders,Antihistamines,Asthma,2019-04-01
+839,988,None,None,Asthma,2022-07-14
+840,111,Skin Disorders,Anti-hypertensive,Asthma,2019-06-18
+841,934,None,Antihistamines,Hypertension,2019-04-12
+842,699,Skin Disorders,None,Back Pain,2022-06-07
+843,498,Skin Disorders,Anti-hypertensive,Asthma,2020-11-16
+844,746,Cardiovascular Diseases,Anti-inflammatory,Hypertension,2022-07-24
+845,854,Cardiovascular Diseases,None,None,2019-09-12
+846,395,None,Bronchodilators,None,2020-12-26
+847,391,Respiratory Diseases,Anti-hypertensive,None,2022-01-27
+848,180,Respiratory Diseases,Antihistamines,Hypertension,2021-06-07
+849,405,Cardiovascular Diseases,None,Dermatitis,2020-09-02
+850,421,Skin Disorders,None,Back Pain,2022-08-29
+851,378,Respiratory Diseases,Antihistamines,Asthma,2020-12-31
+852,974,None,Anti-hypertensive,Dermatitis,2021-07-18
+853,670,Skin Disorders,None,Asthma,2020-01-30
+854,42,Respiratory Diseases,Bronchodilators,Hypertension,2021-08-23
+855,70,Skin Disorders,Bronchodilators,Hypertension,2022-10-12
+856,633,Respiratory Diseases,Anti-inflammatory,Dermatitis,2021-07-05
+857,43,Respiratory Diseases,None,None,2021-09-09
+858,350,Musculoskeletal Disorders,Anti-hypertensive,Asthma,2020-03-16
+859,828,Skin Disorders,Antihistamines,None,2019-03-17
+860,782,Cardiovascular Diseases,Bronchodilators,Dermatitis,2022-09-21
+861,185,None,Bronchodilators,Back Pain,2021-06-10
+862,919,Musculoskeletal Disorders,Bronchodilators,Dermatitis,2022-05-27
+863,23,Musculoskeletal Disorders,Anti-hypertensive,Hypertension,2022-11-13
+864,370,Cardiovascular Diseases,Antihistamines,Back Pain,2022-06-13
+865,608,Respiratory Diseases,None,None,2021-02-28
+866,422,Cardiovascular Diseases,Anti-hypertensive,Back Pain,2019-09-10
+867,671,Respiratory Diseases,None,Asthma,2019-06-05
+868,18,Skin Disorders,Bronchodilators,None,2019-09-30
+869,292,Musculoskeletal Disorders,Bronchodilators,None,2020-01-29
+870,878,None,Anti-inflammatory,Hypertension,2020-12-03
+871,94,Skin Disorders,Bronchodilators,Asthma,2019-01-05
+872,774,None,None,None,2022-04-25
+873,543,None,Antihistamines,Asthma,2019-01-16
+874,390,None,Anti-inflammatory,None,2019-05-15
+875,183,Skin Disorders,None,Dermatitis,2020-03-14
+876,658,Skin Disorders,Anti-inflammatory,Asthma,2020-02-26
+877,909,Skin Disorders,Anti-inflammatory,Dermatitis,2020-09-19
+878,512,None,None,Back Pain,2021-02-22
+879,3,Cardiovascular Diseases,Anti-inflammatory,Back Pain,2020-05-03
+880,752,Cardiovascular Diseases,Anti-inflammatory,Back Pain,2020-12-27
+881,589,Cardiovascular Diseases,Bronchodilators,Asthma,2019-07-01
+882,682,Cardiovascular Diseases,Bronchodilators,Hypertension,2020-04-19
+883,977,None,Anti-inflammatory,Asthma,2022-04-26
+884,986,Skin Disorders,None,Dermatitis,2019-03-08
+885,810,Cardiovascular Diseases,Anti-inflammatory,Back Pain,2019-03-08
+886,714,Respiratory Diseases,Bronchodilators,Back Pain,2021-02-08
+887,685,None,Antihistamines,Asthma,2022-04-24
+888,39,Cardiovascular Diseases,None,Dermatitis,2019-02-26
+889,860,Cardiovascular Diseases,Bronchodilators,Dermatitis,2019-02-13
+890,729,Respiratory Diseases,Bronchodilators,None,2022-09-15
+891,177,Skin Disorders,Antihistamines,Asthma,2021-03-03
+892,737,Musculoskeletal Disorders,Anti-inflammatory,Back Pain,2022-05-22
+893,515,Respiratory Diseases,Anti-inflammatory,Back Pain,2021-07-11
+894,328,Cardiovascular Diseases,None,Back Pain,2021-03-08
+895,231,Cardiovascular Diseases,Bronchodilators,Hypertension,2020-07-18
+896,553,Musculoskeletal Disorders,Bronchodilators,Hypertension,2019-11-27
+897,640,Respiratory Diseases,Anti-inflammatory,Back Pain,2022-06-28
+898,853,Cardiovascular Diseases,Bronchodilators,Hypertension,2019-10-06
+899,291,None,Antihistamines,Hypertension,2022-07-21
+900,608,Respiratory Diseases,None,None,2022-08-25
+901,806,None,Bronchodilators,None,2021-05-14
+902,936,Cardiovascular Diseases,None,Back Pain,2021-12-11
+903,934,Skin Disorders,Antihistamines,Dermatitis,2022-08-31
+904,245,Musculoskeletal Disorders,Anti-hypertensive,Back Pain,2022-08-02
+905,383,Respiratory Diseases,None,Hypertension,2021-03-29
+906,695,Cardiovascular Diseases,Anti-hypertensive,Back Pain,2022-03-16
+907,159,None,Anti-hypertensive,Asthma,2020-11-07
+908,232,Cardiovascular Diseases,Antihistamines,Asthma,2020-12-01
+909,893,Musculoskeletal Disorders,Antihistamines,Dermatitis,2021-01-21
+910,939,None,Bronchodilators,Hypertension,2019-03-20
+911,75,Respiratory Diseases,Bronchodilators,Back Pain,2021-08-30
+912,406,Respiratory Diseases,Bronchodilators,Asthma,2020-07-30
+913,298,None,Bronchodilators,Dermatitis,2020-11-02
+914,700,Skin Disorders,None,Dermatitis,2022-12-30
+915,366,None,Anti-hypertensive,None,2020-12-13
+916,936,None,Antihistamines,Asthma,2022-09-07
+917,362,None,Antihistamines,Hypertension,2020-11-29
+918,665,Respiratory Diseases,None,None,2020-07-31
+919,619,Skin Disorders,Antihistamines,Back Pain,2021-01-26
+920,251,Cardiovascular Diseases,Antihistamines,Back Pain,2021-10-18
+921,905,Respiratory Diseases,Antihistamines,Back Pain,2020-04-20
+922,706,Skin Disorders,None,Asthma,2020-11-15
+923,589,Skin Disorders,Antihistamines,None,2021-04-15
+924,819,Respiratory Diseases,Anti-inflammatory,Hypertension,2020-07-10
+925,31,Cardiovascular Diseases,Antihistamines,Hypertension,2020-09-24
+926,146,Cardiovascular Diseases,Bronchodilators,Back Pain,2020-09-11
+927,500,None,None,Hypertension,2020-04-23
+928,871,None,Anti-hypertensive,Asthma,2020-09-26
+929,991,Respiratory Diseases,Anti-inflammatory,Asthma,2021-09-03
+930,209,Skin Disorders,Anti-hypertensive,Asthma,2021-04-19
+931,947,Skin Disorders,Antihistamines,Dermatitis,2022-07-24
+932,97,Cardiovascular Diseases,Anti-inflammatory,Dermatitis,2022-12-01
+933,636,Musculoskeletal Disorders,Anti-hypertensive,Back Pain,2021-11-26
+934,983,Cardiovascular Diseases,None,Hypertension,2019-08-01
+935,541,Respiratory Diseases,Anti-inflammatory,None,2022-06-19
+936,854,Skin Disorders,Bronchodilators,Asthma,2022-10-31
+937,173,Cardiovascular Diseases,Anti-inflammatory,None,2019-09-27
+938,575,Cardiovascular Diseases,Antihistamines,None,2022-10-10
+939,409,Cardiovascular Diseases,Anti-inflammatory,Asthma,2021-06-28
+940,972,Cardiovascular Diseases,Antihistamines,Hypertension,2020-10-31
+941,689,None,Antihistamines,Hypertension,2020-04-12
+942,168,Musculoskeletal Disorders,Bronchodilators,Asthma,2020-07-13
+943,502,Skin Disorders,None,Asthma,2022-09-14
+944,56,Cardiovascular Diseases,Anti-hypertensive,Hypertension,2020-12-06
+945,958,Respiratory Diseases,Anti-inflammatory,Hypertension,2019-01-08
+946,255,Cardiovascular Diseases,Antihistamines,Dermatitis,2020-04-02
+947,632,Skin Disorders,Antihistamines,Back Pain,2022-10-27
+948,743,None,Anti-hypertensive,None,2021-01-12
+949,970,Respiratory Diseases,Bronchodilators,Dermatitis,2021-04-22
+950,931,Respiratory Diseases,Anti-hypertensive,Back Pain,2019-08-25
+951,595,None,Anti-hypertensive,Dermatitis,2019-12-03
+952,822,Cardiovascular Diseases,Anti-hypertensive,Hypertension,2021-11-05
+953,779,Skin Disorders,Antihistamines,Dermatitis,2019-03-09
+954,9,None,Antihistamines,Hypertension,2019-12-11
+955,946,Skin Disorders,None,Dermatitis,2021-02-04
+956,755,Respiratory Diseases,Antihistamines,Dermatitis,2021-04-12
+957,689,Cardiovascular Diseases,Bronchodilators,Asthma,2020-05-17
+958,921,Skin Disorders,Bronchodilators,Asthma,2022-09-22
+959,533,Respiratory Diseases,None,Back Pain,2019-01-20
+960,869,Respiratory Diseases,Anti-hypertensive,Dermatitis,2020-11-03
+961,529,Cardiovascular Diseases,None,Asthma,2021-10-24
+962,169,Skin Disorders,None,Dermatitis,2021-04-02
+963,411,None,Antihistamines,Dermatitis,2021-09-14
+964,984,Cardiovascular Diseases,Bronchodilators,Dermatitis,2022-02-01
+965,869,Respiratory Diseases,None,Dermatitis,2022-08-01
+966,974,Skin Disorders,Bronchodilators,Back Pain,2022-05-28
+967,412,Respiratory Diseases,Anti-hypertensive,Back Pain,2019-03-08
+968,418,Cardiovascular Diseases,Anti-hypertensive,Back Pain,2021-01-19
+969,296,Musculoskeletal Disorders,Anti-inflammatory,Asthma,2020-11-20
+970,594,None,None,Hypertension,2022-02-28
+971,55,Cardiovascular Diseases,Anti-hypertensive,Hypertension,2019-08-11
+972,25,Skin Disorders,Antihistamines,None,2020-08-20
+973,518,Cardiovascular Diseases,Anti-hypertensive,None,2021-07-04
+974,831,None,Anti-inflammatory,Dermatitis,2019-12-20
+975,860,None,Anti-hypertensive,Asthma,2020-03-15
+976,990,Cardiovascular Diseases,Bronchodilators,Dermatitis,2021-10-29
+977,296,Respiratory Diseases,Antihistamines,Back Pain,2022-10-27
+978,879,Cardiovascular Diseases,None,None,2021-05-06
+979,560,Respiratory Diseases,Anti-hypertensive,Dermatitis,2021-09-09
+980,102,None,Antihistamines,Dermatitis,2019-12-17
+981,263,Skin Disorders,Anti-hypertensive,None,2021-10-18
+982,69,Cardiovascular Diseases,Antihistamines,Dermatitis,2019-11-23
+983,985,Skin Disorders,Anti-hypertensive,None,2022-03-13
+984,752,None,Antihistamines,Asthma,2021-09-02
+985,31,Respiratory Diseases,Anti-hypertensive,None,2019-07-08
+986,559,None,None,Hypertension,2022-11-01
+987,695,Respiratory Diseases,None,Asthma,2022-03-04
+988,415,None,None,None,2020-07-12
+989,1,None,None,Dermatitis,2022-01-22
+990,13,Respiratory Diseases,None,None,2021-06-18
+991,36,None,Antihistamines,Back Pain,2022-12-29
+992,711,Skin Disorders,Bronchodilators,Dermatitis,2022-10-26
+993,308,Skin Disorders,Antihistamines,Dermatitis,2021-08-12
+994,146,Cardiovascular Diseases,Bronchodilators,Back Pain,2020-12-19
+995,419,Skin Disorders,Anti-hypertensive,Dermatitis,2022-04-11
+996,514,Cardiovascular Diseases,None,Back Pain,2020-04-14
+997,904,Cardiovascular Diseases,None,Dermatitis,2019-03-23
+998,176,Respiratory Diseases,Bronchodilators,Back Pain,2021-12-16
+999,957,None,None,Hypertension,2022-11-09
+1000,572,Musculoskeletal Disorders,Anti-inflammatory,None,2022-08-08
+1001,885,Musculoskeletal Disorders,Antihistamines,None,2022-11-27
+1002,376,None,Anti-inflammatory,Dermatitis,2022-04-09
+1003,978,None,Anti-inflammatory,Hypertension,2019-12-27
+1004,123,Skin Disorders,None,Asthma,2019-04-19
+1005,113,None,None,Hypertension,2021-03-31
+1006,238,None,Bronchodilators,Dermatitis,2021-08-14
+1007,164,None,Bronchodilators,Hypertension,2021-12-26
+1008,88,Skin Disorders,Bronchodilators,None,2020-01-01
+1009,593,Cardiovascular Diseases,Anti-inflammatory,Back Pain,2020-06-20
+1010,354,Cardiovascular Diseases,Antihistamines,Asthma,2020-10-07
+1011,992,Skin Disorders,Anti-inflammatory,Back Pain,2021-04-30
+1012,64,Musculoskeletal Disorders,Anti-hypertensive,Asthma,2019-05-18
+1013,466,None,Bronchodilators,Dermatitis,2019-06-23
+1014,747,Skin Disorders,None,Back Pain,2020-02-20
+1015,993,Skin Disorders,None,Hypertension,2021-01-05
+1016,358,Cardiovascular Diseases,Anti-hypertensive,Back Pain,2021-11-07
+1017,886,Musculoskeletal Disorders,Anti-inflammatory,Asthma,2019-08-01
+1018,725,Respiratory Diseases,Bronchodilators,None,2019-09-17
+1019,924,None,None,Hypertension,2021-06-01
+1020,562,Skin Disorders,Anti-inflammatory,Dermatitis,2019-11-08
+1021,739,None,Anti-inflammatory,Dermatitis,2022-11-22
+1022,375,Cardiovascular Diseases,Anti-hypertensive,Back Pain,2019-10-31
+1023,573,Cardiovascular Diseases,Anti-inflammatory,Asthma,2022-08-04
+1024,494,Musculoskeletal Disorders,Antihistamines,Back Pain,2021-04-30
+1025,303,Respiratory Diseases,None,Dermatitis,2021-01-05
+1026,369,Cardiovascular Diseases,Antihistamines,None,2019-08-11
+1027,299,None,Anti-inflammatory,Hypertension,2019-06-29
+1028,36,Cardiovascular Diseases,Anti-inflammatory,Hypertension,2020-04-13
+1029,633,Respiratory Diseases,Bronchodilators,Asthma,2021-03-12
+1030,233,Cardiovascular Diseases,Antihistamines,Back Pain,2019-10-28
+1031,83,Cardiovascular Diseases,Anti-inflammatory,None,2022-07-15
+1032,313,None,Bronchodilators,None,2019-07-29
+1033,767,Respiratory Diseases,Anti-hypertensive,Dermatitis,2019-08-25
+1034,290,None,Anti-inflammatory,Dermatitis,2019-07-29
+1035,644,Skin Disorders,None,None,2022-01-15
+1036,948,None,Antihistamines,Dermatitis,2020-04-28
+1037,185,None,Bronchodilators,None,2019-04-19
+1038,138,Skin Disorders,Anti-hypertensive,None,2020-06-08
+1039,474,Skin Disorders,Antihistamines,Hypertension,2019-02-11
+1040,995,Respiratory Diseases,Anti-hypertensive,Hypertension,2020-12-13
+1041,432,None,Anti-hypertensive,Hypertension,2020-11-06
+1042,260,Skin Disorders,Anti-inflammatory,Back Pain,2019-12-25
+1043,939,Cardiovascular Diseases,Antihistamines,Hypertension,2019-09-13
+1044,153,Respiratory Diseases,Anti-inflammatory,None,2022-05-13
+1045,34,Cardiovascular Diseases,Bronchodilators,Hypertension,2020-06-06
+1046,569,Skin Disorders,Bronchodilators,Hypertension,2020-03-21
+1047,292,None,Bronchodilators,None,2021-01-25
+1048,446,Skin Disorders,None,None,2020-01-19
+1049,144,Musculoskeletal Disorders,Anti-hypertensive,Back Pain,2022-01-06
+1050,820,None,Bronchodilators,Back Pain,2019-10-17
+1051,338,Respiratory Diseases,Anti-hypertensive,Dermatitis,2020-12-08
+1052,789,Respiratory Diseases,Bronchodilators,None,2022-07-11
+1053,964,Cardiovascular Diseases,None,Hypertension,2020-06-13
+1054,581,None,Antihistamines,None,2019-08-09
+1055,912,Musculoskeletal Disorders,Antihistamines,Dermatitis,2020-07-04
+1056,981,Musculoskeletal Disorders,Anti-hypertensive,Hypertension,2019-08-13
+1057,461,Respiratory Diseases,Anti-inflammatory,Hypertension,2022-02-06
+1058,721,None,Antihistamines,None,2019-07-20
+1059,851,Skin Disorders,None,Dermatitis,2021-04-02
+1060,727,Respiratory Diseases,Anti-hypertensive,None,2022-11-23
+1061,400,Cardiovascular Diseases,None,Asthma,2021-08-11
+1062,863,None,Anti-inflammatory,Hypertension,2021-11-19
+1063,424,Skin Disorders,None,Asthma,2022-07-21
+1064,513,Skin Disorders,Bronchodilators,Dermatitis,2022-01-11
+1065,665,None,Anti-hypertensive,Dermatitis,2021-05-22
+1066,40,Skin Disorders,Bronchodilators,None,2022-07-31
+1067,25,Skin Disorders,Anti-hypertensive,Hypertension,2020-01-16
+1068,572,Musculoskeletal Disorders,Bronchodilators,Hypertension,2019-07-02
+1069,138,Respiratory Diseases,Anti-inflammatory,Asthma,2021-04-20
+1070,610,Respiratory Diseases,Anti-inflammatory,Dermatitis,2019-01-09
+1071,791,Skin Disorders,Bronchodilators,Hypertension,2022-12-28
+1072,85,Musculoskeletal Disorders,Bronchodilators,Asthma,2022-03-15
+1073,609,Cardiovascular Diseases,Antihistamines,Asthma,2021-08-23
+1074,443,None,Anti-hypertensive,Hypertension,2020-05-16
+1075,436,Musculoskeletal Disorders,Anti-inflammatory,Asthma,2020-03-20
+1076,955,None,Antihistamines,Dermatitis,2021-04-02
+1077,250,None,Bronchodilators,Hypertension,2022-06-02
+1078,876,Cardiovascular Diseases,Bronchodilators,Hypertension,2020-10-23
+1079,792,Skin Disorders,Anti-hypertensive,Dermatitis,2020-05-17
+1080,145,Skin Disorders,None,Dermatitis,2022-03-19
+1081,773,Respiratory Diseases,Antihistamines,Back Pain,2021-09-02
+1082,361,Cardiovascular Diseases,Bronchodilators,Asthma,2020-12-23
+1083,154,Cardiovascular Diseases,Bronchodilators,Asthma,2021-05-18
+1084,411,None,Bronchodilators,Back Pain,2019-09-11
+1085,91,Skin Disorders,Bronchodilators,Asthma,2021-03-04
+1086,318,Skin Disorders,None,Asthma,2020-06-27
+1087,771,Respiratory Diseases,Bronchodilators,Back Pain,2020-06-17
+1088,488,Respiratory Diseases,Antihistamines,Hypertension,2019-09-15
+1089,851,Skin Disorders,Anti-hypertensive,Dermatitis,2022-05-25
+1090,588,Cardiovascular Diseases,Anti-inflammatory,Dermatitis,2022-03-27
+1091,685,Respiratory Diseases,Anti-inflammatory,Hypertension,2021-09-28
+1092,48,None,Antihistamines,Asthma,2021-12-04
+1093,216,Cardiovascular Diseases,Antihistamines,Hypertension,2019-03-10
+1094,768,Respiratory Diseases,Anti-hypertensive,Dermatitis,2020-02-22
+1095,50,None,Anti-inflammatory,Asthma,2019-02-20
+1096,141,Skin Disorders,Anti-inflammatory,Back Pain,2022-01-24
+1097,304,Cardiovascular Diseases,Anti-inflammatory,Dermatitis,2020-07-16
+1098,362,Musculoskeletal Disorders,Anti-inflammatory,Dermatitis,2021-06-14
+1099,113,Skin Disorders,Anti-inflammatory,Asthma,2020-03-29
+1100,903,Respiratory Diseases,Bronchodilators,Asthma,2019-02-15
+1101,612,Cardiovascular Diseases,None,Hypertension,2021-05-02
+1102,694,Skin Disorders,None,Back Pain,2022-12-26
+1103,478,Respiratory Diseases,Bronchodilators,Back Pain,2019-10-02
+1104,832,Skin Disorders,None,Hypertension,2019-04-04
+1105,17,Respiratory Diseases,Anti-hypertensive,Asthma,2019-09-05
+1106,827,Cardiovascular Diseases,Anti-inflammatory,Dermatitis,2021-12-29
+1107,821,Respiratory Diseases,Antihistamines,Back Pain,2022-08-16
+1108,951,Respiratory Diseases,Anti-hypertensive,None,2019-12-21
+1109,797,Respiratory Diseases,Anti-hypertensive,Back Pain,2022-06-15
+1110,718,None,Bronchodilators,Dermatitis,2021-07-17
+1111,964,Cardiovascular Diseases,None,Back Pain,2020-10-18
+1112,964,Skin Disorders,Anti-hypertensive,Back Pain,2019-05-17
+1113,374,Respiratory Diseases,Anti-hypertensive,Asthma,2022-11-04
+1114,128,Skin Disorders,Anti-inflammatory,Hypertension,2021-11-11
+1115,114,Respiratory Diseases,Bronchodilators,Dermatitis,2022-07-07
+1116,102,None,Anti-inflammatory,None,2020-09-02
+1117,426,Respiratory Diseases,None,Hypertension,2020-09-11
+1118,55,Respiratory Diseases,None,Hypertension,2020-11-03
+1119,424,Cardiovascular Diseases,None,Hypertension,2021-04-30
+1120,775,Skin Disorders,Antihistamines,Back Pain,2021-06-04
+1121,795,None,Anti-inflammatory,Dermatitis,2020-08-07
+1122,534,Skin Disorders,Antihistamines,Dermatitis,2019-11-18
+1123,767,Skin Disorders,None,None,2022-12-07
+1124,919,Skin Disorders,Anti-inflammatory,Asthma,2021-05-12
+1125,768,Cardiovascular Diseases,Anti-inflammatory,None,2020-03-11
+1126,717,Respiratory Diseases,Bronchodilators,Dermatitis,2022-12-19
+1127,726,Musculoskeletal Disorders,Anti-hypertensive,None,2022-04-12
+1128,349,Cardiovascular Diseases,None,None,2019-09-29
+1129,863,Musculoskeletal Disorders,Anti-inflammatory,Hypertension,2019-12-31
+1130,276,Skin Disorders,Anti-inflammatory,Back Pain,2020-05-04
+1131,517,Skin Disorders,Anti-inflammatory,Back Pain,2020-04-05
+1132,129,Respiratory Diseases,Bronchodilators,Dermatitis,2021-05-17
+1133,511,Cardiovascular Diseases,Antihistamines,Dermatitis,2021-08-30
+1134,748,Skin Disorders,Antihistamines,Hypertension,2022-10-24
+1135,462,Skin Disorders,Bronchodilators,None,2019-04-16
+1136,963,Cardiovascular Diseases,Antihistamines,Asthma,2020-11-26
+1137,221,Respiratory Diseases,Anti-hypertensive,None,2021-01-21
+1138,278,Musculoskeletal Disorders,Antihistamines,Back Pain,2019-10-14
+1139,883,Skin Disorders,None,Asthma,2021-12-07
+1140,414,Cardiovascular Diseases,Bronchodilators,Asthma,2019-09-19
+1141,490,Musculoskeletal Disorders,Antihistamines,Asthma,2021-09-27
+1142,558,Cardiovascular Diseases,Bronchodilators,Asthma,2020-03-24
+1143,537,Musculoskeletal Disorders,None,None,2021-02-11
+1144,130,Skin Disorders,Anti-hypertensive,Dermatitis,2021-08-01
+1145,387,Cardiovascular Diseases,Anti-hypertensive,Dermatitis,2021-04-17
+1146,397,Skin Disorders,Antihistamines,Hypertension,2022-11-18
+1147,435,Respiratory Diseases,None,Dermatitis,2021-11-13
+1148,205,Respiratory Diseases,Bronchodilators,Back Pain,2020-08-19
+1149,611,Musculoskeletal Disorders,Anti-hypertensive,Hypertension,2020-09-29
+1150,836,Skin Disorders,None,None,2020-02-15
+1151,277,Cardiovascular Diseases,Antihistamines,None,2019-04-23
+1152,675,Musculoskeletal Disorders,None,None,2022-12-19
+1153,144,Skin Disorders,Anti-inflammatory,Asthma,2021-12-15
+1154,756,Skin Disorders,Antihistamines,Back Pain,2021-06-27
+1155,388,Skin Disorders,Anti-inflammatory,Hypertension,2022-01-31
+1156,922,Skin Disorders,Antihistamines,Back Pain,2019-12-17
+1157,996,None,Anti-inflammatory,Hypertension,2021-07-10
+1158,389,None,Anti-inflammatory,Asthma,2020-01-05
+1159,658,Cardiovascular Diseases,None,Hypertension,2022-01-08
+1160,978,Cardiovascular Diseases,None,Dermatitis,2019-03-19
+1161,992,None,Anti-hypertensive,Hypertension,2021-07-08
+1162,190,Skin Disorders,Anti-inflammatory,Back Pain,2019-03-02
+1163,700,Skin Disorders,Bronchodilators,Asthma,2021-04-12
+1164,313,Cardiovascular Diseases,Antihistamines,Asthma,2020-06-10
+1165,277,Skin Disorders,Anti-inflammatory,Asthma,2022-04-05
+1166,498,Respiratory Diseases,Anti-hypertensive,Hypertension,2022-03-31
+1167,141,Skin Disorders,Anti-hypertensive,Asthma,2019-12-11
+1168,643,Respiratory Diseases,Bronchodilators,Back Pain,2019-04-19
+1169,527,Skin Disorders,Bronchodilators,None,2020-08-08
+1170,777,Cardiovascular Diseases,Bronchodilators,Dermatitis,2021-06-06
+1171,952,Cardiovascular Diseases,None,Dermatitis,2020-05-28
+1172,633,Cardiovascular Diseases,None,Dermatitis,2020-07-31
+1173,36,Skin Disorders,Bronchodilators,Dermatitis,2019-06-30
+1174,823,Musculoskeletal Disorders,None,Asthma,2022-08-05
+1175,510,Skin Disorders,Anti-inflammatory,Back Pain,2020-12-17
+1176,874,Musculoskeletal Disorders,Bronchodilators,Hypertension,2022-08-26
+1177,612,Cardiovascular Diseases,Antihistamines,Back Pain,2019-03-08
+1178,55,Respiratory Diseases,Antihistamines,Back Pain,2020-09-24
+1179,159,Respiratory Diseases,Antihistamines,Hypertension,2021-03-18
+1180,264,Musculoskeletal Disorders,None,Hypertension,2022-05-24
+1181,739,Cardiovascular Diseases,Anti-hypertensive,None,2019-02-22
+1182,850,Skin Disorders,None,Dermatitis,2020-04-17
+1183,303,Cardiovascular Diseases,Anti-hypertensive,Asthma,2021-04-08
+1184,593,Skin Disorders,Antihistamines,Hypertension,2020-08-13
+1185,274,None,Antihistamines,Hypertension,2022-08-27
+1186,46,None,None,None,2021-03-21
+1187,867,Skin Disorders,Antihistamines,None,2021-05-19
+1188,708,Cardiovascular Diseases,Bronchodilators,Back Pain,2019-02-01
+1189,783,Respiratory Diseases,None,Back Pain,2022-12-16
+1190,137,Respiratory Diseases,Bronchodilators,Hypertension,2020-07-30
+1191,198,None,Anti-hypertensive,Dermatitis,2021-02-26
+1192,34,Respiratory Diseases,Antihistamines,Dermatitis,2019-02-10
+1193,924,Musculoskeletal Disorders,Anti-inflammatory,None,2021-07-30
+1194,570,Cardiovascular Diseases,Antihistamines,Hypertension,2019-06-26
+1195,940,None,Bronchodilators,Hypertension,2019-05-10
+1196,469,None,Anti-hypertensive,Asthma,2019-11-23
+1197,919,Skin Disorders,Anti-hypertensive,Asthma,2019-01-19
+1198,569,Skin Disorders,Anti-hypertensive,Hypertension,2022-05-29
+1199,517,Respiratory Diseases,Anti-hypertensive,None,2021-06-30
+1200,562,None,Antihistamines,Hypertension,2020-12-09
+1201,197,Skin Disorders,Anti-hypertensive,Asthma,2022-09-07
+1202,161,Respiratory Diseases,Anti-hypertensive,Dermatitis,2019-07-19
+1203,567,Skin Disorders,Anti-hypertensive,Dermatitis,2020-12-02
+1204,266,Cardiovascular Diseases,None,Asthma,2019-08-30
+1205,792,Cardiovascular Diseases,Anti-hypertensive,Asthma,2020-12-16
+1206,286,Cardiovascular Diseases,Anti-hypertensive,Dermatitis,2020-06-28
+1207,519,Cardiovascular Diseases,Bronchodilators,Back Pain,2020-10-31
+1208,161,Respiratory Diseases,Anti-hypertensive,None,2019-05-07
+1209,454,Cardiovascular Diseases,Antihistamines,Hypertension,2022-06-18
+1210,58,Skin Disorders,Anti-inflammatory,Dermatitis,2022-03-24
+1211,350,Musculoskeletal Disorders,None,Back Pain,2020-05-03
+1212,321,Respiratory Diseases,Bronchodilators,Dermatitis,2019-07-17
+1213,987,Cardiovascular Diseases,None,Asthma,2020-10-21
+1214,402,Skin Disorders,Anti-inflammatory,Dermatitis,2022-10-01
+1215,655,Respiratory Diseases,Anti-inflammatory,None,2022-10-25
+1216,758,Respiratory Diseases,None,None,2019-05-16
+1217,294,Cardiovascular Diseases,Anti-inflammatory,Asthma,2019-09-16
+1218,433,Skin Disorders,Bronchodilators,Dermatitis,2021-08-29
+1219,503,None,Bronchodilators,None,2021-06-03
+1220,49,Skin Disorders,None,Hypertension,2022-02-20
+1221,969,Cardiovascular Diseases,Anti-hypertensive,Asthma,2019-04-30
+1222,698,None,Bronchodilators,None,2019-02-03
+1223,657,Cardiovascular Diseases,Bronchodilators,None,2022-10-11
+1224,667,Musculoskeletal Disorders,None,Dermatitis,2020-04-11
+1225,339,Respiratory Diseases,Anti-hypertensive,Dermatitis,2020-11-06
+1226,817,None,Anti-inflammatory,None,2020-05-26
+1227,744,None,Anti-inflammatory,Dermatitis,2019-05-04
+1228,766,Skin Disorders,None,Dermatitis,2021-02-19
+1229,63,Cardiovascular Diseases,None,None,2020-10-10
+1230,661,None,Bronchodilators,Dermatitis,2022-02-04
+1231,986,Cardiovascular Diseases,Anti-hypertensive,Hypertension,2022-06-27
+1232,178,Musculoskeletal Disorders,Anti-hypertensive,Asthma,2020-05-25
+1233,578,Cardiovascular Diseases,None,Asthma,2019-10-02
+1234,226,Cardiovascular Diseases,None,Hypertension,2022-03-02
+1235,487,Respiratory Diseases,Anti-hypertensive,Asthma,2021-04-23
+1236,686,None,Bronchodilators,Hypertension,2019-06-16
+1237,148,Cardiovascular Diseases,Bronchodilators,Asthma,2020-09-01
+1238,282,Respiratory Diseases,Anti-hypertensive,Asthma,2022-07-30
+1239,634,Musculoskeletal Disorders,Anti-inflammatory,None,2020-01-21
+1240,518,Cardiovascular Diseases,Antihistamines,Hypertension,2021-05-16
+1241,886,Skin Disorders,Anti-inflammatory,Hypertension,2020-06-12
+1242,839,Respiratory Diseases,Anti-hypertensive,Back Pain,2020-08-25
+1243,886,Respiratory Diseases,Bronchodilators,Dermatitis,2019-09-08
+1244,544,Skin Disorders,None,Asthma,2019-10-20
+1245,22,Musculoskeletal Disorders,Anti-hypertensive,Dermatitis,2019-04-07
+1246,510,None,Anti-hypertensive,Dermatitis,2021-04-03
+1247,726,Musculoskeletal Disorders,Bronchodilators,Hypertension,2020-01-06
+1248,768,Respiratory Diseases,None,Dermatitis,2020-06-13
+1249,920,Musculoskeletal Disorders,Anti-hypertensive,None,2019-03-14
+1250,347,Cardiovascular Diseases,Antihistamines,Asthma,2021-03-12
+1251,424,None,Anti-hypertensive,Hypertension,2019-04-18
+1252,821,Respiratory Diseases,Anti-inflammatory,Hypertension,2022-11-07
+1253,267,None,Anti-hypertensive,None,2020-09-06
+1254,821,Skin Disorders,Bronchodilators,Asthma,2019-12-04
+1255,513,Cardiovascular Diseases,Anti-hypertensive,Back Pain,2019-05-18
+1256,810,Respiratory Diseases,Bronchodilators,Back Pain,2021-09-25
+1257,363,None,None,Dermatitis,2021-08-22
+1258,132,Respiratory Diseases,Bronchodilators,Back Pain,2019-06-11
+1259,527,Cardiovascular Diseases,Anti-hypertensive,None,2021-01-30
+1260,467,Respiratory Diseases,Bronchodilators,Back Pain,2019-03-13
+1261,386,Skin Disorders,Antihistamines,Dermatitis,2022-07-10
+1262,943,None,Bronchodilators,None,2022-01-10
+1263,700,None,None,Dermatitis,2022-04-19
+1264,429,None,Anti-inflammatory,Dermatitis,2019-01-13
+1265,647,Skin Disorders,Bronchodilators,Dermatitis,2020-07-11
+1266,464,Cardiovascular Diseases,Anti-inflammatory,None,2020-07-29
+1267,126,Cardiovascular Diseases,Bronchodilators,Back Pain,2022-06-07
+1268,532,Cardiovascular Diseases,None,None,2021-10-26
+1269,170,Respiratory Diseases,Antihistamines,Hypertension,2020-12-11
+1270,335,Skin Disorders,Anti-inflammatory,None,2019-12-11
+1271,164,Skin Disorders,Anti-inflammatory,Hypertension,2022-03-19
+1272,834,Musculoskeletal Disorders,Anti-hypertensive,Back Pain,2019-12-20
+1273,476,Cardiovascular Diseases,Anti-inflammatory,Asthma,2022-05-16
+1274,778,Respiratory Diseases,Anti-inflammatory,Hypertension,2020-10-23
+1275,817,Cardiovascular Diseases,None,Asthma,2020-08-31
+1276,720,Cardiovascular Diseases,Antihistamines,Back Pain,2021-10-26
+1277,237,Skin Disorders,Anti-inflammatory,Hypertension,2021-12-04
+1278,837,Respiratory Diseases,Anti-hypertensive,Hypertension,2021-04-10
+1279,646,Skin Disorders,Bronchodilators,Back Pain,2022-03-15
+1280,218,None,None,Asthma,2021-01-12
+1281,616,None,Anti-inflammatory,Back Pain,2020-03-05
+1282,919,Respiratory Diseases,Anti-inflammatory,Asthma,2022-08-18
+1283,415,Musculoskeletal Disorders,Antihistamines,Back Pain,2021-07-26
+1284,624,None,Anti-hypertensive,Hypertension,2019-02-03
+1285,992,Musculoskeletal Disorders,Bronchodilators,None,2020-08-26
+1286,291,Skin Disorders,Anti-hypertensive,None,2019-02-25
+1287,486,None,None,Back Pain,2021-04-23
+1288,772,Respiratory Diseases,None,Hypertension,2022-08-28
+1289,331,Cardiovascular Diseases,Bronchodilators,Back Pain,2020-08-14
+1290,113,None,Anti-inflammatory,Asthma,2022-04-02
+1291,672,Skin Disorders,None,Back Pain,2022-06-19
+1292,614,Skin Disorders,Anti-hypertensive,None,2019-09-28
+1293,637,Cardiovascular Diseases,Antihistamines,Hypertension,2021-08-01
+1294,887,None,Anti-inflammatory,Back Pain,2019-01-01
+1295,985,None,Antihistamines,None,2022-03-18
+1296,144,Musculoskeletal Disorders,Antihistamines,Back Pain,2021-08-16
+1297,630,Cardiovascular Diseases,None,Dermatitis,2021-08-19
+1298,107,Respiratory Diseases,Anti-inflammatory,Hypertension,2021-08-10
+1299,290,Skin Disorders,Anti-inflammatory,Dermatitis,2019-05-31
+1300,242,Cardiovascular Diseases,Anti-inflammatory,Dermatitis,2020-08-07
+1301,658,Musculoskeletal Disorders,Antihistamines,Dermatitis,2019-07-09
+1302,58,Respiratory Diseases,None,Hypertension,2022-01-28
+1303,794,Cardiovascular Diseases,None,Asthma,2019-02-27
+1304,357,None,None,None,2019-10-12
+1305,766,Cardiovascular Diseases,Anti-inflammatory,Hypertension,2020-09-11
+1306,809,Musculoskeletal Disorders,Anti-hypertensive,Dermatitis,2022-02-26
+1307,115,Musculoskeletal Disorders,Anti-inflammatory,Hypertension,2021-11-19
+1308,107,Respiratory Diseases,Bronchodilators,Hypertension,2021-09-19
+1309,45,None,Bronchodilators,Dermatitis,2022-11-28
+1310,676,Musculoskeletal Disorders,None,Asthma,2022-07-09
+1311,887,Cardiovascular Diseases,Anti-hypertensive,Hypertension,2019-10-12
+1312,938,Cardiovascular Diseases,None,Dermatitis,2020-12-10
+1313,355,Cardiovascular Diseases,Antihistamines,None,2020-09-09
+1314,472,Cardiovascular Diseases,Anti-inflammatory,Back Pain,2019-08-17
+1315,114,Cardiovascular Diseases,Anti-inflammatory,Hypertension,2022-06-28
+1316,571,Respiratory Diseases,None,Asthma,2021-04-29
+1317,828,Skin Disorders,Bronchodilators,Back Pain,2021-04-03
+1318,75,Respiratory Diseases,Anti-inflammatory,Back Pain,2021-07-10
+1319,38,Respiratory Diseases,None,Dermatitis,2021-05-04
+1320,341,Skin Disorders,Antihistamines,Hypertension,2021-04-08
+1321,81,None,Bronchodilators,Hypertension,2019-11-08
+1322,776,Cardiovascular Diseases,Bronchodilators,Dermatitis,2019-08-12
+1323,742,Respiratory Diseases,Antihistamines,Hypertension,2019-02-15
+1324,823,Cardiovascular Diseases,Bronchodilators,Asthma,2019-08-13
+1325,962,Respiratory Diseases,Anti-inflammatory,None,2022-07-03
+1326,228,None,Antihistamines,Dermatitis,2021-07-09
+1327,837,Respiratory Diseases,Bronchodilators,Dermatitis,2021-10-11
+1328,892,Cardiovascular Diseases,Anti-hypertensive,Asthma,2022-02-18
+1329,770,None,Bronchodilators,Dermatitis,2020-09-07
+1330,476,None,Antihistamines,None,2022-06-29
+1331,27,Skin Disorders,Anti-hypertensive,Asthma,2021-12-28
+1332,704,Musculoskeletal Disorders,None,Back Pain,2020-03-26
+1333,23,Skin Disorders,Bronchodilators,Asthma,2021-12-04
+1334,973,Cardiovascular Diseases,Antihistamines,Dermatitis,2019-03-06
+1335,579,None,Bronchodilators,Hypertension,2021-10-01
+1336,40,None,Anti-hypertensive,Back Pain,2020-08-15
+1337,836,Cardiovascular Diseases,Bronchodilators,None,2021-05-12
+1338,625,None,Anti-hypertensive,Hypertension,2022-07-02
+1339,326,None,None,Dermatitis,2020-08-12
+1340,932,Cardiovascular Diseases,Bronchodilators,Back Pain,2019-09-14
+1341,675,Cardiovascular Diseases,Antihistamines,None,2019-08-03
+1342,182,None,Bronchodilators,None,2021-10-04
+1343,368,Skin Disorders,Anti-inflammatory,Hypertension,2019-01-08
+1344,843,Respiratory Diseases,Antihistamines,Hypertension,2019-03-05
+1345,417,Respiratory Diseases,Anti-hypertensive,Dermatitis,2019-09-20
+1346,350,None,Anti-inflammatory,Asthma,2020-04-06
+1347,629,Cardiovascular Diseases,None,Asthma,2020-07-10
+1348,5,Skin Disorders,Bronchodilators,Dermatitis,2022-06-28
+1349,626,Respiratory Diseases,Anti-inflammatory,Back Pain,2019-09-14
+1350,662,Skin Disorders,Antihistamines,Dermatitis,2021-10-20
+1351,570,Cardiovascular Diseases,Bronchodilators,None,2020-05-11
+1352,939,None,Anti-inflammatory,None,2020-02-05
+1353,41,Cardiovascular Diseases,Anti-hypertensive,None,2019-06-09
+1354,863,Musculoskeletal Disorders,Anti-hypertensive,Dermatitis,2020-10-19
+1355,855,Cardiovascular Diseases,Anti-hypertensive,Asthma,2022-03-19
+1356,192,Respiratory Diseases,Anti-inflammatory,Hypertension,2021-05-06
+1357,982,Cardiovascular Diseases,Anti-hypertensive,None,2020-12-30
+1358,803,Musculoskeletal Disorders,Antihistamines,Back Pain,2019-08-01
+1359,256,None,Antihistamines,None,2022-11-25
+1360,615,Respiratory Diseases,Bronchodilators,Dermatitis,2019-08-21
+1361,991,Respiratory Diseases,Anti-inflammatory,Hypertension,2020-01-20
+1362,348,Skin Disorders,Bronchodilators,Dermatitis,2019-01-08
+1363,804,Cardiovascular Diseases,None,None,2020-08-13
+1364,904,Respiratory Diseases,Anti-inflammatory,Dermatitis,2019-09-19
+1365,9,None,Anti-hypertensive,Back Pain,2019-01-20
+1366,198,Musculoskeletal Disorders,Antihistamines,Hypertension,2019-08-17
+1367,795,None,Anti-inflammatory,Back Pain,2021-09-22
+1368,306,Skin Disorders,Bronchodilators,None,2021-04-15
+1369,892,Musculoskeletal Disorders,Anti-hypertensive,Back Pain,2020-12-11
+1370,88,None,Bronchodilators,Asthma,2020-11-05
+1371,194,None,Antihistamines,Back Pain,2022-12-14
+1372,984,Skin Disorders,Bronchodilators,Hypertension,2022-07-29
+1373,260,None,None,Back Pain,2020-11-11
+1374,41,Skin Disorders,Anti-inflammatory,None,2021-08-16
+1375,577,Respiratory Diseases,Anti-hypertensive,Dermatitis,2021-09-07
+1376,603,Cardiovascular Diseases,Antihistamines,Hypertension,2020-09-11
+1377,543,None,Antihistamines,None,2021-07-20
+1378,593,Cardiovascular Diseases,Bronchodilators,Asthma,2020-12-20
+1379,411,Cardiovascular Diseases,Antihistamines,None,2020-10-31
+1380,551,Skin Disorders,Antihistamines,Hypertension,2019-04-30
+1381,792,Cardiovascular Diseases,Anti-hypertensive,Back Pain,2020-05-30
+1382,807,Skin Disorders,Anti-inflammatory,Hypertension,2022-07-26
+1383,127,Cardiovascular Diseases,Anti-hypertensive,Back Pain,2022-11-30
+1384,46,Respiratory Diseases,None,Asthma,2021-05-13
+1385,319,Cardiovascular Diseases,Anti-inflammatory,Asthma,2020-05-12
+1386,561,Cardiovascular Diseases,Antihistamines,Hypertension,2022-09-28
+1387,832,Cardiovascular Diseases,Anti-inflammatory,Back Pain,2022-10-09
+1388,448,Cardiovascular Diseases,Anti-inflammatory,Back Pain,2019-11-12
+1389,129,Skin Disorders,Anti-hypertensive,None,2020-11-29
+1390,97,None,Bronchodilators,Back Pain,2021-12-02
+1391,631,Musculoskeletal Disorders,Anti-inflammatory,Dermatitis,2019-05-19
+1392,566,Respiratory Diseases,Anti-hypertensive,Asthma,2021-02-09
+1393,660,Skin Disorders,Anti-inflammatory,None,2020-10-02
+1394,973,Skin Disorders,Anti-inflammatory,Dermatitis,2020-05-22
+1395,853,Cardiovascular Diseases,Anti-inflammatory,None,2021-02-05
+1396,738,Skin Disorders,None,None,2020-10-21
+1397,589,Musculoskeletal Disorders,Anti-inflammatory,Asthma,2021-07-27
+1398,37,None,None,Dermatitis,2022-12-10
+1399,242,Respiratory Diseases,Anti-inflammatory,Asthma,2021-11-26
+1400,337,Musculoskeletal Disorders,Anti-inflammatory,Asthma,2019-05-23
+1401,745,Skin Disorders,Anti-hypertensive,Dermatitis,2021-02-11
+1402,65,Cardiovascular Diseases,Bronchodilators,None,2022-09-26
+1403,249,Cardiovascular Diseases,Anti-inflammatory,Dermatitis,2021-01-08
+1404,828,Cardiovascular Diseases,Antihistamines,Dermatitis,2019-10-08
+1405,890,Musculoskeletal Disorders,None,None,2022-07-05
+1406,136,Skin Disorders,Anti-inflammatory,None,2021-02-20
+1407,293,Cardiovascular Diseases,None,Hypertension,2019-04-15
+1408,183,Cardiovascular Diseases,Antihistamines,Hypertension,2020-06-20
+1409,430,None,Anti-inflammatory,Dermatitis,2019-12-20
+1410,965,Cardiovascular Diseases,Anti-inflammatory,Back Pain,2019-04-07
+1411,534,Cardiovascular Diseases,Antihistamines,None,2021-09-19
+1412,39,Skin Disorders,None,Hypertension,2022-07-01
+1413,396,Cardiovascular Diseases,Anti-hypertensive,Back Pain,2021-03-20
+1414,199,Respiratory Diseases,None,Back Pain,2020-07-07
+1415,470,Respiratory Diseases,Bronchodilators,Back Pain,2019-04-09
+1416,206,Cardiovascular Diseases,Anti-hypertensive,Asthma,2020-11-05
+1417,204,None,None,None,2021-06-11
+1418,915,None,Bronchodilators,None,2021-02-16
+1419,885,Musculoskeletal Disorders,None,Dermatitis,2020-08-05
+1420,421,Respiratory Diseases,Anti-hypertensive,Dermatitis,2021-02-24
+1421,341,None,Anti-inflammatory,Asthma,2022-11-11
+1422,511,Skin Disorders,Bronchodilators,Asthma,2020-03-12
+1423,309,Skin Disorders,None,None,2021-10-15
+1424,884,Respiratory Diseases,Anti-hypertensive,Dermatitis,2022-03-23
+1425,291,Cardiovascular Diseases,None,None,2019-10-01
+1426,274,None,None,Dermatitis,2020-03-30
+1427,144,Respiratory Diseases,Antihistamines,Hypertension,2021-05-21
+1428,23,Respiratory Diseases,Anti-hypertensive,Back Pain,2020-06-14
+1429,181,Cardiovascular Diseases,Anti-inflammatory,None,2019-05-27
+1430,639,Respiratory Diseases,Anti-inflammatory,Hypertension,2019-05-29
+1431,902,Musculoskeletal Disorders,None,Hypertension,2020-03-01
+1432,105,None,Anti-hypertensive,Dermatitis,2022-06-13
+1433,36,None,Anti-hypertensive,Back Pain,2021-07-16
+1434,10,Cardiovascular Diseases,Bronchodilators,None,2020-08-01
+1435,27,Skin Disorders,None,Asthma,2022-10-14
+1436,572,Cardiovascular Diseases,Anti-inflammatory,Back Pain,2019-04-16
+1437,385,Cardiovascular Diseases,Anti-inflammatory,Hypertension,2020-04-26
+1438,307,None,Anti-hypertensive,Back Pain,2019-01-04
+1439,963,Musculoskeletal Disorders,Antihistamines,Hypertension,2020-03-29
+1440,639,None,Anti-hypertensive,Hypertension,2020-11-19
+1441,362,Musculoskeletal Disorders,None,Dermatitis,2022-12-10
+1442,43,Skin Disorders,Antihistamines,Back Pain,2020-10-17
+1443,839,None,Antihistamines,Asthma,2022-05-05
+1444,700,Musculoskeletal Disorders,Antihistamines,Dermatitis,2021-07-19
+1445,556,Cardiovascular Diseases,Anti-hypertensive,Back Pain,2022-06-29
+1446,561,Cardiovascular Diseases,Anti-hypertensive,Dermatitis,2020-05-30
+1447,235,Cardiovascular Diseases,Antihistamines,None,2019-03-01
+1448,618,Musculoskeletal Disorders,Anti-inflammatory,Hypertension,2020-01-21
+1449,122,Cardiovascular Diseases,Antihistamines,None,2020-04-15
+1450,930,Cardiovascular Diseases,Anti-inflammatory,None,2020-12-29
+1451,520,None,Antihistamines,Back Pain,2020-05-15
+1452,990,Respiratory Diseases,Anti-inflammatory,None,2022-07-09
+1453,684,Respiratory Diseases,None,Back Pain,2020-04-13
+1454,615,Cardiovascular Diseases,Anti-inflammatory,Back Pain,2022-01-25
+1455,326,Cardiovascular Diseases,Anti-inflammatory,None,2022-09-29
+1456,249,Cardiovascular Diseases,Anti-inflammatory,Asthma,2022-09-06
+1457,562,Musculoskeletal Disorders,Antihistamines,Dermatitis,2021-04-17
+1458,269,Skin Disorders,Anti-inflammatory,Asthma,2019-05-03
+1459,16,Cardiovascular Diseases,Anti-hypertensive,None,2020-09-26
+1460,559,Skin Disorders,Anti-hypertensive,Hypertension,2021-04-11
+1461,522,Respiratory Diseases,Anti-hypertensive,None,2021-04-02
+1462,96,Skin Disorders,None,Asthma,2022-11-05
+1463,81,None,Antihistamines,Asthma,2021-10-19
+1464,759,Respiratory Diseases,Antihistamines,Dermatitis,2022-04-15
+1465,754,Cardiovascular Diseases,Anti-inflammatory,Dermatitis,2020-08-23
+1466,83,Cardiovascular Diseases,Bronchodilators,Back Pain,2019-01-21
+1467,303,Skin Disorders,None,Back Pain,2022-04-12
+1468,254,Cardiovascular Diseases,Bronchodilators,None,2019-03-14
+1469,988,Cardiovascular Diseases,Bronchodilators,Hypertension,2020-02-16
+1470,976,Musculoskeletal Disorders,Antihistamines,Hypertension,2020-11-29
+1471,137,Cardiovascular Diseases,Bronchodilators,Back Pain,2021-04-01
+1472,987,Skin Disorders,Anti-hypertensive,Asthma,2021-05-21
+1473,567,Skin Disorders,None,Dermatitis,2022-09-22
+1474,135,Respiratory Diseases,Bronchodilators,Dermatitis,2020-03-28
+1475,604,Musculoskeletal Disorders,Bronchodilators,Back Pain,2022-07-29
+1476,315,Respiratory Diseases,Anti-hypertensive,Back Pain,2022-08-19
+1477,201,Cardiovascular Diseases,Anti-inflammatory,Dermatitis,2020-12-22
+1478,250,Skin Disorders,None,Asthma,2020-09-15
+1479,742,Cardiovascular Diseases,Anti-hypertensive,Hypertension,2022-06-15
+1480,623,Respiratory Diseases,None,Dermatitis,2019-02-26
+1481,954,None,Antihistamines,Back Pain,2022-12-22
+1482,778,Respiratory Diseases,Antihistamines,Back Pain,2020-02-19
+1483,134,Skin Disorders,None,Back Pain,2019-09-23
+1484,679,Respiratory Diseases,Anti-inflammatory,Dermatitis,2020-11-14
+1485,732,Respiratory Diseases,Anti-hypertensive,Hypertension,2022-02-28
+1486,927,Musculoskeletal Disorders,Anti-hypertensive,Hypertension,2020-04-11
+1487,990,Cardiovascular Diseases,Anti-hypertensive,Hypertension,2019-05-15
+1488,437,Skin Disorders,Antihistamines,Hypertension,2021-05-05
+1489,931,Respiratory Diseases,None,Asthma,2020-11-05
+1490,711,None,Anti-inflammatory,Dermatitis,2021-09-02
+1491,491,None,Bronchodilators,Hypertension,2020-09-27
+1492,348,None,Anti-inflammatory,None,2022-03-21
+1493,169,Cardiovascular Diseases,Anti-hypertensive,Dermatitis,2020-06-30
+1494,450,Skin Disorders,None,Hypertension,2022-04-10
+1495,698,Cardiovascular Diseases,None,Dermatitis,2020-09-15
+1496,675,Skin Disorders,Bronchodilators,Back Pain,2021-10-08
+1497,471,Musculoskeletal Disorders,Antihistamines,Asthma,2019-02-07
+1498,419,None,Antihistamines,Asthma,2021-07-23
+1499,37,Respiratory Diseases,Anti-inflammatory,None,2021-03-08
+1500,600,Skin Disorders,None,Back Pain,2019-10-30
+1501,394,Cardiovascular Diseases,None,Asthma,2020-05-06
+1502,560,Respiratory Diseases,Anti-hypertensive,Dermatitis,2019-09-14
+1503,953,Cardiovascular Diseases,Antihistamines,Dermatitis,2019-10-20
+1504,666,Cardiovascular Diseases,None,None,2020-05-03
+1505,981,Cardiovascular Diseases,Bronchodilators,None,2021-12-17
+1506,732,Respiratory Diseases,Antihistamines,Asthma,2019-04-19
+1507,800,None,Anti-inflammatory,Back Pain,2019-11-28
+1508,834,Respiratory Diseases,Antihistamines,Asthma,2020-10-09
+1509,93,Respiratory Diseases,Anti-hypertensive,Hypertension,2020-04-15
+1510,744,Skin Disorders,Bronchodilators,Asthma,2020-06-15
+1511,141,Respiratory Diseases,Anti-inflammatory,Hypertension,2022-09-06
+1512,567,Skin Disorders,Anti-hypertensive,Dermatitis,2021-12-03
+1513,94,Skin Disorders,None,Asthma,2021-01-13
+1514,387,Skin Disorders,Anti-hypertensive,Dermatitis,2022-07-30
+1515,324,Cardiovascular Diseases,Bronchodilators,None,2022-02-11
+1516,400,Cardiovascular Diseases,Anti-hypertensive,Back Pain,2020-02-02
+1517,375,Respiratory Diseases,Anti-inflammatory,Asthma,2022-09-13
+1518,904,None,None,Hypertension,2022-11-28
+1519,902,Skin Disorders,Anti-inflammatory,None,2019-01-12
+1520,504,Cardiovascular Diseases,Anti-hypertensive,Dermatitis,2021-06-03
+1521,891,Skin Disorders,Bronchodilators,None,2021-01-29
+1522,402,Skin Disorders,Antihistamines,Dermatitis,2020-03-04
+1523,87,Respiratory Diseases,Anti-inflammatory,Hypertension,2022-12-26
+1524,54,Skin Disorders,Anti-hypertensive,Dermatitis,2022-08-12
+1525,161,Cardiovascular Diseases,Antihistamines,Hypertension,2020-11-15
+1526,410,Skin Disorders,Antihistamines,None,2019-03-26
+1527,343,Skin Disorders,Antihistamines,Hypertension,2020-06-16
+1528,733,Skin Disorders,Anti-inflammatory,None,2019-08-28
+1529,550,Respiratory Diseases,Antihistamines,Hypertension,2020-04-27
+1530,11,Musculoskeletal Disorders,Antihistamines,Hypertension,2019-11-03
+1531,753,Skin Disorders,Antihistamines,Asthma,2021-12-04
+1532,141,Cardiovascular Diseases,Bronchodilators,Back Pain,2019-03-19
+1533,932,Cardiovascular Diseases,Antihistamines,None,2021-03-27
+1534,618,Cardiovascular Diseases,Antihistamines,None,2019-01-11
+1535,539,Cardiovascular Diseases,None,Asthma,2019-01-07
+1536,633,Cardiovascular Diseases,Bronchodilators,Asthma,2022-08-19
+1537,294,Skin Disorders,Bronchodilators,Dermatitis,2019-03-24
+1538,441,Respiratory Diseases,Anti-hypertensive,None,2021-12-20
+1539,268,Cardiovascular Diseases,Antihistamines,Back Pain,2019-06-18
+1540,953,Cardiovascular Diseases,Antihistamines,Back Pain,2019-02-28
+1541,874,None,None,Dermatitis,2020-10-29
+1542,117,Cardiovascular Diseases,Antihistamines,Asthma,2020-05-01
+1543,355,None,Antihistamines,Dermatitis,2021-01-25
+1544,349,Respiratory Diseases,Antihistamines,Dermatitis,2020-04-23
+1545,436,Cardiovascular Diseases,Anti-hypertensive,None,2019-01-20
+1546,705,Cardiovascular Diseases,Anti-hypertensive,Hypertension,2019-12-10
+1547,799,Respiratory Diseases,Antihistamines,None,2021-09-29
+1548,526,Cardiovascular Diseases,None,Asthma,2020-12-16
+1549,920,Respiratory Diseases,Antihistamines,Hypertension,2020-09-30
+1550,287,Skin Disorders,Bronchodilators,Asthma,2020-04-13
+1551,51,Skin Disorders,Antihistamines,Hypertension,2022-04-21
+1552,728,Musculoskeletal Disorders,None,None,2022-08-05
+1553,536,Skin Disorders,None,Hypertension,2022-04-05
+1554,849,Cardiovascular Diseases,Anti-inflammatory,Dermatitis,2020-02-21
+1555,578,Respiratory Diseases,Bronchodilators,None,2022-08-10
+1556,192,Skin Disorders,Antihistamines,Back Pain,2020-07-11
+1557,251,Cardiovascular Diseases,Antihistamines,Back Pain,2021-01-10
+1558,911,Skin Disorders,Anti-hypertensive,Hypertension,2022-09-23
+1559,274,Skin Disorders,Anti-hypertensive,Asthma,2020-12-20
+1560,259,Cardiovascular Diseases,Anti-inflammatory,Back Pain,2021-12-30
+1561,305,Cardiovascular Diseases,Anti-inflammatory,None,2020-03-03
+1562,987,Cardiovascular Diseases,Anti-hypertensive,None,2022-04-07
+1563,538,Skin Disorders,Anti-inflammatory,Asthma,2022-10-11
+1564,173,None,Anti-inflammatory,Dermatitis,2021-01-14
+1565,150,Skin Disorders,Bronchodilators,Asthma,2022-10-05
+1566,8,Musculoskeletal Disorders,Anti-inflammatory,Hypertension,2021-11-23
+1567,73,Respiratory Diseases,Anti-inflammatory,Hypertension,2022-04-04
+1568,134,Cardiovascular Diseases,Antihistamines,Dermatitis,2020-03-25
+1569,467,Respiratory Diseases,Anti-hypertensive,None,2022-10-04
+1570,191,Skin Disorders,Anti-hypertensive,Hypertension,2021-12-10
+1571,409,Skin Disorders,Anti-hypertensive,Dermatitis,2019-08-31
+1572,314,Skin Disorders,Bronchodilators,Asthma,2022-10-04
+1573,498,Respiratory Diseases,Bronchodilators,Back Pain,2022-01-01
+1574,603,None,None,Back Pain,2022-01-09
+1575,812,Skin Disorders,None,Asthma,2022-02-27
+1576,710,Respiratory Diseases,Bronchodilators,Hypertension,2019-01-27
+1577,653,Cardiovascular Diseases,Antihistamines,Asthma,2022-04-11
+1578,413,Cardiovascular Diseases,Antihistamines,Hypertension,2020-06-10
+1579,283,Musculoskeletal Disorders,Antihistamines,Asthma,2021-08-11
+1580,804,Respiratory Diseases,Bronchodilators,Hypertension,2019-08-25
+1581,195,Respiratory Diseases,None,Back Pain,2022-07-26
+1582,642,Cardiovascular Diseases,Bronchodilators,Back Pain,2021-04-17
+1583,101,Cardiovascular Diseases,Antihistamines,Back Pain,2020-10-03
+1584,614,Cardiovascular Diseases,Bronchodilators,Asthma,2022-05-06
+1585,666,Musculoskeletal Disorders,Bronchodilators,Dermatitis,2019-03-10
+1586,865,Cardiovascular Diseases,None,Back Pain,2019-08-23
+1587,667,Cardiovascular Diseases,None,Back Pain,2019-10-06
+1588,388,Cardiovascular Diseases,Anti-inflammatory,Hypertension,2021-04-10
+1589,175,None,None,Hypertension,2020-12-01
+1590,448,Skin Disorders,Antihistamines,Back Pain,2021-11-25
+1591,413,Cardiovascular Diseases,None,Dermatitis,2022-01-23
+1592,424,Musculoskeletal Disorders,None,None,2019-10-19
+1593,907,None,Anti-inflammatory,Dermatitis,2020-11-10
+1594,322,Respiratory Diseases,Anti-inflammatory,Hypertension,2022-01-26
+1595,365,Cardiovascular Diseases,Anti-hypertensive,Dermatitis,2021-10-26
+1596,927,Respiratory Diseases,Anti-inflammatory,Back Pain,2021-05-23
+1597,926,Skin Disorders,Anti-inflammatory,Dermatitis,2022-10-15
+1598,230,Respiratory Diseases,Anti-inflammatory,Asthma,2020-07-23
+1599,170,Cardiovascular Diseases,Antihistamines,Dermatitis,2020-03-12
+1600,865,Skin Disorders,Bronchodilators,Hypertension,2021-09-20
+1601,594,Cardiovascular Diseases,Anti-inflammatory,Dermatitis,2019-02-13
+1602,366,Respiratory Diseases,Anti-inflammatory,None,2022-12-03
+1603,869,Respiratory Diseases,None,Dermatitis,2022-06-16
+1604,589,Musculoskeletal Disorders,Bronchodilators,Dermatitis,2020-09-01
+1605,32,Skin Disorders,Antihistamines,None,2022-06-10
+1606,364,Skin Disorders,Antihistamines,Hypertension,2021-11-27
+1607,738,Skin Disorders,Antihistamines,Asthma,2022-04-14
+1608,476,Cardiovascular Diseases,None,Dermatitis,2021-07-06
+1609,742,Skin Disorders,Anti-hypertensive,None,2022-09-24
+1610,550,None,Antihistamines,None,2020-02-06
+1611,517,Musculoskeletal Disorders,Anti-hypertensive,Back Pain,2022-12-12
+1612,135,Respiratory Diseases,Anti-inflammatory,None,2021-01-26
+1613,23,Skin Disorders,Anti-hypertensive,Hypertension,2022-09-13
+1614,659,Respiratory Diseases,None,Back Pain,2020-12-28
+1615,26,Skin Disorders,Bronchodilators,Asthma,2021-01-24
+1616,220,None,Bronchodilators,Back Pain,2020-10-12
+1617,311,Skin Disorders,None,Asthma,2021-02-22
+1618,446,Cardiovascular Diseases,Bronchodilators,Back Pain,2019-05-07
+1619,498,Musculoskeletal Disorders,Anti-inflammatory,None,2022-01-10
+1620,648,Respiratory Diseases,Anti-inflammatory,Back Pain,2022-01-12
+1621,250,Cardiovascular Diseases,Antihistamines,Back Pain,2020-05-15
+1622,54,Respiratory Diseases,None,Asthma,2019-12-09
+1623,60,Respiratory Diseases,Anti-hypertensive,Back Pain,2021-03-03
+1624,194,Respiratory Diseases,Anti-hypertensive,Back Pain,2022-05-04
+1625,919,Skin Disorders,Anti-inflammatory,Asthma,2021-10-28
+1626,5,None,Bronchodilators,Dermatitis,2020-04-09
+1627,878,Respiratory Diseases,Antihistamines,Asthma,2021-04-23
+1628,67,None,Anti-hypertensive,Hypertension,2022-10-31
+1629,694,Skin Disorders,Anti-hypertensive,Asthma,2019-07-03
+1630,96,None,Anti-hypertensive,Back Pain,2020-06-04
+1631,50,Respiratory Diseases,Antihistamines,Back Pain,2021-09-14
+1632,7,None,Antihistamines,Dermatitis,2021-10-09
+1633,197,Cardiovascular Diseases,None,Back Pain,2021-11-22
+1634,931,Skin Disorders,Bronchodilators,Asthma,2021-10-12
+1635,803,Skin Disorders,Anti-hypertensive,None,2019-12-26
+1636,795,Skin Disorders,Antihistamines,Asthma,2022-04-29
+1637,445,None,None,Dermatitis,2020-02-08
+1638,39,Respiratory Diseases,Anti-inflammatory,None,2022-07-30
+1639,776,Cardiovascular Diseases,Anti-hypertensive,Dermatitis,2022-06-27
+1640,249,Musculoskeletal Disorders,Anti-inflammatory,Dermatitis,2019-05-07
+1641,937,Respiratory Diseases,Anti-hypertensive,Back Pain,2022-01-24
+1642,850,Musculoskeletal Disorders,Bronchodilators,Asthma,2022-08-30
+1643,851,Respiratory Diseases,Antihistamines,Back Pain,2021-08-25
+1644,552,None,Anti-hypertensive,Asthma,2022-12-04
+1645,63,Skin Disorders,None,Dermatitis,2022-03-16
+1646,174,None,Anti-hypertensive,Hypertension,2020-12-01
+1647,437,Cardiovascular Diseases,Bronchodilators,None,2021-06-13
+1648,448,Cardiovascular Diseases,Anti-hypertensive,None,2019-08-22
+1649,412,Respiratory Diseases,Antihistamines,Back Pain,2022-06-21
+1650,797,Cardiovascular Diseases,Antihistamines,Back Pain,2020-09-22
+1651,662,Musculoskeletal Disorders,Anti-inflammatory,Dermatitis,2022-03-12
+1652,749,Cardiovascular Diseases,Bronchodilators,None,2022-05-23
+1653,163,Respiratory Diseases,Bronchodilators,Asthma,2019-12-12
+1654,53,Skin Disorders,Antihistamines,Asthma,2022-01-17
+1655,793,Cardiovascular Diseases,Antihistamines,Asthma,2022-12-26
+1656,372,Respiratory Diseases,Bronchodilators,None,2022-06-24
+1657,662,Skin Disorders,Anti-inflammatory,Dermatitis,2020-07-05
+1658,415,Skin Disorders,Bronchodilators,Asthma,2021-01-09
+1659,47,Cardiovascular Diseases,None,Back Pain,2020-09-08
+1660,185,Musculoskeletal Disorders,Anti-hypertensive,Dermatitis,2021-02-23
+1661,792,None,None,Hypertension,2021-07-16
+1662,375,Cardiovascular Diseases,None,Dermatitis,2019-12-07
+1663,83,Skin Disorders,Anti-inflammatory,Back Pain,2022-05-10
+1664,419,None,Anti-hypertensive,Dermatitis,2021-09-08
+1665,279,None,Bronchodilators,Back Pain,2021-01-10
+1666,687,Respiratory Diseases,Bronchodilators,Dermatitis,2022-01-28
+1667,831,Respiratory Diseases,Antihistamines,None,2019-09-04
+1668,920,Cardiovascular Diseases,Anti-hypertensive,Back Pain,2022-10-10
+1669,606,Cardiovascular Diseases,None,None,2020-04-03
+1670,561,Respiratory Diseases,Bronchodilators,Dermatitis,2021-08-11
+1671,362,None,None,None,2022-11-26
+1672,778,None,Antihistamines,Asthma,2021-08-17
+1673,688,Cardiovascular Diseases,None,Back Pain,2021-07-15
+1674,273,Cardiovascular Diseases,Bronchodilators,Asthma,2021-01-11
+1675,553,Cardiovascular Diseases,Anti-inflammatory,Back Pain,2020-02-17
+1676,48,Respiratory Diseases,Anti-hypertensive,Dermatitis,2021-11-29
+1677,44,Cardiovascular Diseases,Anti-hypertensive,Dermatitis,2021-04-09
+1678,47,Skin Disorders,Anti-hypertensive,Back Pain,2020-12-23
+1679,72,Respiratory Diseases,Antihistamines,Back Pain,2021-02-15
+1680,425,Skin Disorders,Bronchodilators,Dermatitis,2022-04-23
+1681,619,Cardiovascular Diseases,Anti-inflammatory,Back Pain,2020-08-05
+1682,897,Skin Disorders,Bronchodilators,Asthma,2019-02-17
+1683,121,None,None,None,2019-01-24
+1684,90,None,Bronchodilators,Dermatitis,2019-11-21
+1685,823,Skin Disorders,Anti-hypertensive,Back Pain,2019-10-21
+1686,763,Cardiovascular Diseases,Anti-hypertensive,Back Pain,2019-01-28
+1687,56,Skin Disorders,Bronchodilators,Hypertension,2020-08-23
+1688,219,Skin Disorders,Antihistamines,Asthma,2020-08-27
+1689,697,Cardiovascular Diseases,Anti-inflammatory,Hypertension,2021-06-29
+1690,51,Cardiovascular Diseases,None,None,2020-02-20
+1691,260,Musculoskeletal Disorders,Bronchodilators,None,2019-10-04
+1692,179,Cardiovascular Diseases,Anti-hypertensive,None,2022-03-06
+1693,722,Respiratory Diseases,Anti-hypertensive,Asthma,2020-01-27
+1694,110,Cardiovascular Diseases,Antihistamines,Back Pain,2019-03-24
+1695,547,Respiratory Diseases,Anti-inflammatory,None,2021-01-08
+1696,417,Musculoskeletal Disorders,Bronchodilators,Back Pain,2019-05-13
+1697,43,Cardiovascular Diseases,None,Back Pain,2021-05-10
+1698,441,Cardiovascular Diseases,Anti-hypertensive,Asthma,2021-05-29
+1699,165,Skin Disorders,Anti-hypertensive,Hypertension,2021-11-16
+1700,719,None,Anti-hypertensive,None,2020-11-01
+1701,741,Skin Disorders,Antihistamines,Hypertension,2021-02-28
+1702,803,Skin Disorders,Bronchodilators,Asthma,2021-10-23
+1703,556,Respiratory Diseases,Antihistamines,Back Pain,2022-07-31
+1704,34,Skin Disorders,Anti-inflammatory,Hypertension,2022-09-05
+1705,939,Cardiovascular Diseases,Antihistamines,Dermatitis,2021-02-17
+1706,798,Respiratory Diseases,Bronchodilators,Hypertension,2019-10-31
+1707,875,Respiratory Diseases,Anti-inflammatory,Back Pain,2022-03-01
+1708,649,Skin Disorders,Anti-inflammatory,Hypertension,2022-05-02
+1709,76,Cardiovascular Diseases,Anti-inflammatory,Dermatitis,2022-12-06
+1710,215,Respiratory Diseases,Anti-hypertensive,Hypertension,2022-11-05
+1711,930,Cardiovascular Diseases,Anti-hypertensive,Dermatitis,2019-10-09
+1712,670,Respiratory Diseases,Bronchodilators,Dermatitis,2021-04-08
+1713,794,None,Anti-inflammatory,Back Pain,2019-07-14
+1714,821,Cardiovascular Diseases,Antihistamines,Asthma,2022-03-06
+1715,100,Musculoskeletal Disorders,Antihistamines,Hypertension,2022-03-20
+1716,141,None,Antihistamines,Hypertension,2019-02-13
+1717,93,Cardiovascular Diseases,Bronchodilators,Back Pain,2019-08-11
+1718,780,Cardiovascular Diseases,Antihistamines,Hypertension,2019-05-20
+1719,404,None,None,Back Pain,2020-05-15
+1720,410,None,Bronchodilators,Hypertension,2020-02-06
+1721,664,Respiratory Diseases,Bronchodilators,Asthma,2021-04-09
+1722,593,Skin Disorders,None,Asthma,2021-03-23
+1723,86,None,Anti-inflammatory,Hypertension,2020-11-17
+1724,831,Skin Disorders,Anti-hypertensive,None,2022-01-09
+1725,733,None,None,Back Pain,2020-12-14
+1726,373,Cardiovascular Diseases,Anti-hypertensive,Hypertension,2020-07-05
+1727,896,Cardiovascular Diseases,Antihistamines,Back Pain,2021-09-01
+1728,481,Cardiovascular Diseases,Anti-inflammatory,None,2022-06-14
+1729,395,Cardiovascular Diseases,Anti-hypertensive,Dermatitis,2020-01-08
+1730,63,Cardiovascular Diseases,Antihistamines,Back Pain,2019-04-16
+1731,756,Cardiovascular Diseases,Anti-inflammatory,None,2019-08-27
+1732,965,Respiratory Diseases,Bronchodilators,Hypertension,2021-04-22
+1733,450,Respiratory Diseases,Anti-inflammatory,Dermatitis,2022-12-08
+1734,412,Respiratory Diseases,Antihistamines,Back Pain,2021-10-23
+1735,765,Cardiovascular Diseases,Antihistamines,Hypertension,2020-11-13
+1736,367,None,Bronchodilators,Dermatitis,2021-12-05
+1737,848,Cardiovascular Diseases,Antihistamines,Dermatitis,2022-08-22
+1738,553,Cardiovascular Diseases,Antihistamines,None,2020-11-12
+1739,802,Musculoskeletal Disorders,Antihistamines,Hypertension,2019-12-15
+1740,967,Cardiovascular Diseases,Anti-hypertensive,Asthma,2022-03-16
+1741,220,Cardiovascular Diseases,None,None,2019-01-06
+1742,962,Cardiovascular Diseases,Antihistamines,None,2021-04-01
+1743,67,Cardiovascular Diseases,None,Back Pain,2022-01-09
+1744,689,Respiratory Diseases,Antihistamines,Dermatitis,2022-09-06
+1745,658,Skin Disorders,Antihistamines,None,2020-12-22
+1746,202,None,None,None,2020-09-04
+1747,522,Musculoskeletal Disorders,Anti-hypertensive,Dermatitis,2019-02-09
+1748,622,Respiratory Diseases,None,Hypertension,2022-08-28
+1749,231,None,Antihistamines,None,2020-11-09
+1750,618,Respiratory Diseases,Anti-inflammatory,None,2019-03-01
+1751,846,Skin Disorders,Anti-hypertensive,Dermatitis,2022-10-28
+1752,844,Skin Disorders,Anti-inflammatory,Asthma,2019-12-19
+1753,965,Respiratory Diseases,Anti-inflammatory,Hypertension,2020-03-12
+1754,168,Cardiovascular Diseases,Anti-hypertensive,Back Pain,2019-02-20
+1755,116,None,Bronchodilators,Dermatitis,2022-04-24
+1756,690,Respiratory Diseases,Anti-hypertensive,None,2022-12-25
+1757,421,Cardiovascular Diseases,Anti-inflammatory,Dermatitis,2020-11-12
+1758,155,None,Bronchodilators,Dermatitis,2020-11-18
+1759,565,Respiratory Diseases,Anti-inflammatory,Back Pain,2021-08-01
+1760,405,Cardiovascular Diseases,Anti-inflammatory,Dermatitis,2022-03-14
+1761,865,Respiratory Diseases,Antihistamines,Hypertension,2019-05-10
+1762,456,Respiratory Diseases,Bronchodilators,Back Pain,2022-03-02
+1763,783,Cardiovascular Diseases,None,None,2019-09-02
+1764,143,Respiratory Diseases,None,Asthma,2019-12-22
+1765,202,Cardiovascular Diseases,None,Hypertension,2020-05-24
+1766,78,Cardiovascular Diseases,Anti-hypertensive,Hypertension,2019-12-27
+1767,278,Cardiovascular Diseases,Antihistamines,None,2022-01-28
+1768,949,Skin Disorders,Anti-inflammatory,None,2022-11-02
+1769,600,Cardiovascular Diseases,Anti-hypertensive,Hypertension,2021-07-27
+1770,77,Respiratory Diseases,Anti-hypertensive,None,2019-09-22
+1771,750,Cardiovascular Diseases,Anti-inflammatory,Asthma,2022-03-06
+1772,461,Cardiovascular Diseases,Anti-inflammatory,Back Pain,2020-08-28
+1773,701,Cardiovascular Diseases,Bronchodilators,Asthma,2021-10-15
+1774,711,Cardiovascular Diseases,None,Hypertension,2021-05-05
+1775,160,Cardiovascular Diseases,Antihistamines,Hypertension,2019-11-16
+1776,587,Skin Disorders,None,Hypertension,2020-09-11
+1777,763,Musculoskeletal Disorders,None,Dermatitis,2020-10-22
+1778,55,Cardiovascular Diseases,Bronchodilators,Asthma,2020-11-22
+1779,351,Respiratory Diseases,Anti-hypertensive,Back Pain,2022-05-20
+1780,611,Cardiovascular Diseases,None,Asthma,2021-11-30
+1781,985,Respiratory Diseases,Bronchodilators,Back Pain,2021-03-25
+1782,279,Respiratory Diseases,Anti-hypertensive,Back Pain,2022-05-26
+1783,552,Cardiovascular Diseases,None,Hypertension,2021-08-15
+1784,505,Cardiovascular Diseases,Antihistamines,Asthma,2021-03-06
+1785,540,Cardiovascular Diseases,Anti-hypertensive,Asthma,2020-12-17
+1786,430,Skin Disorders,Anti-hypertensive,Asthma,2022-02-11
+1787,819,None,Anti-hypertensive,Dermatitis,2019-06-09
+1788,812,Respiratory Diseases,Bronchodilators,Back Pain,2022-12-08
+1789,679,Skin Disorders,Bronchodilators,Asthma,2022-03-06
+1790,395,Respiratory Diseases,None,Back Pain,2019-02-06
+1791,756,Respiratory Diseases,Anti-inflammatory,Dermatitis,2022-12-08
+1792,327,Skin Disorders,Antihistamines,Dermatitis,2020-10-17
+1793,156,Cardiovascular Diseases,Bronchodilators,Dermatitis,2021-12-15
+1794,306,Skin Disorders,Antihistamines,Back Pain,2020-09-05
+1795,948,Musculoskeletal Disorders,Antihistamines,None,2020-09-04
+1796,715,Skin Disorders,None,Dermatitis,2019-07-29
+1797,225,None,Antihistamines,Dermatitis,2019-11-20
+1798,950,Skin Disorders,Anti-hypertensive,Hypertension,2022-07-12
+1799,203,Respiratory Diseases,Anti-inflammatory,Dermatitis,2021-12-18
+1800,868,Skin Disorders,Anti-hypertensive,Back Pain,2019-01-12
+1801,514,Musculoskeletal Disorders,Bronchodilators,Dermatitis,2020-01-16
+1802,596,Skin Disorders,Antihistamines,Hypertension,2020-05-31
+1803,909,Respiratory Diseases,None,Dermatitis,2021-11-18
+1804,555,Skin Disorders,None,Back Pain,2019-11-02
+1805,428,Respiratory Diseases,Anti-inflammatory,Asthma,2021-09-24
+1806,771,None,Bronchodilators,Dermatitis,2022-03-22
+1807,599,None,Bronchodilators,Hypertension,2022-07-11
+1808,737,Cardiovascular Diseases,Antihistamines,Hypertension,2022-12-18
+1809,985,Cardiovascular Diseases,Antihistamines,Back Pain,2019-07-29
+1810,778,Skin Disorders,Anti-hypertensive,Hypertension,2019-10-09
+1811,761,None,Bronchodilators,Hypertension,2020-07-25
+1812,625,Cardiovascular Diseases,None,Back Pain,2020-02-03
+1813,950,Cardiovascular Diseases,Anti-hypertensive,Dermatitis,2021-04-12
+1814,120,Cardiovascular Diseases,Antihistamines,Dermatitis,2019-08-25
+1815,49,None,Antihistamines,Asthma,2020-01-13
+1816,389,Skin Disorders,Antihistamines,Dermatitis,2022-01-01
+1817,291,Cardiovascular Diseases,Anti-inflammatory,Back Pain,2021-06-25
+1818,661,Musculoskeletal Disorders,Anti-inflammatory,Back Pain,2021-02-06
+1819,195,Skin Disorders,Antihistamines,Asthma,2019-12-27
+1820,870,Cardiovascular Diseases,Anti-hypertensive,Hypertension,2021-03-01
+1821,107,Cardiovascular Diseases,None,None,2022-11-27
+1822,806,Skin Disorders,None,Dermatitis,2022-05-14
+1823,883,Musculoskeletal Disorders,Anti-hypertensive,None,2022-07-28
+1824,150,None,Antihistamines,Dermatitis,2020-10-29
+1825,335,Skin Disorders,Antihistamines,None,2020-02-28
+1826,682,Skin Disorders,None,Back Pain,2019-08-18
+1827,353,None,Antihistamines,Back Pain,2020-05-02
+1828,43,Skin Disorders,Anti-hypertensive,Dermatitis,2020-10-10
+1829,735,Cardiovascular Diseases,Anti-hypertensive,Asthma,2021-12-05
+1830,627,Respiratory Diseases,None,Dermatitis,2021-09-15
+1831,156,Cardiovascular Diseases,Bronchodilators,Asthma,2022-06-14
+1832,616,Skin Disorders,Anti-hypertensive,Asthma,2021-09-17
+1833,574,Cardiovascular Diseases,Bronchodilators,Back Pain,2020-10-23
+1834,274,None,None,None,2020-04-25
+1835,889,Respiratory Diseases,Bronchodilators,Back Pain,2021-02-02
+1836,179,Skin Disorders,None,None,2020-10-31
+1837,667,Respiratory Diseases,Antihistamines,Back Pain,2022-03-05
+1838,522,Skin Disorders,None,Asthma,2022-01-07
+1839,57,Respiratory Diseases,Anti-inflammatory,Hypertension,2021-06-13
+1840,139,Skin Disorders,Anti-inflammatory,None,2022-05-08
+1841,913,None,None,None,2021-03-31
+1842,985,Cardiovascular Diseases,Anti-hypertensive,Asthma,2021-10-14
+1843,453,None,None,Dermatitis,2021-06-06
+1844,959,Skin Disorders,Antihistamines,Asthma,2022-02-08
+1845,896,Skin Disorders,Antihistamines,Back Pain,2019-06-02
+1846,199,Respiratory Diseases,None,Asthma,2020-03-23
+1847,547,Respiratory Diseases,Bronchodilators,Back Pain,2022-04-17
+1848,277,Skin Disorders,Anti-hypertensive,Hypertension,2020-05-11
+1849,976,Musculoskeletal Disorders,Anti-hypertensive,None,2020-11-11
+1850,607,Cardiovascular Diseases,Anti-hypertensive,Hypertension,2021-12-12
+1851,981,Respiratory Diseases,Anti-inflammatory,Back Pain,2021-06-26
+1852,778,Respiratory Diseases,Antihistamines,Hypertension,2019-06-13
+1853,214,Cardiovascular Diseases,Antihistamines,Asthma,2019-03-06
+1854,991,Skin Disorders,Antihistamines,Hypertension,2019-11-04
+1855,875,Respiratory Diseases,None,None,2022-12-25
+1856,38,Respiratory Diseases,Antihistamines,Dermatitis,2022-12-18
+1857,555,Respiratory Diseases,Antihistamines,Hypertension,2021-04-12
+1858,553,Musculoskeletal Disorders,Anti-inflammatory,Dermatitis,2022-01-02
+1859,429,None,None,Dermatitis,2020-10-14
+1860,553,Cardiovascular Diseases,Anti-hypertensive,None,2019-07-11
+1861,967,Musculoskeletal Disorders,Bronchodilators,Dermatitis,2022-01-23
+1862,201,Respiratory Diseases,Antihistamines,Back Pain,2019-04-20
+1863,488,Skin Disorders,Bronchodilators,Hypertension,2021-09-24
+1864,178,Cardiovascular Diseases,Anti-inflammatory,Dermatitis,2020-10-27
+1865,801,Respiratory Diseases,Bronchodilators,Hypertension,2022-08-27
+1866,491,Cardiovascular Diseases,None,Asthma,2020-08-18
+1867,373,Skin Disorders,Anti-hypertensive,Dermatitis,2020-01-18
+1868,519,Cardiovascular Diseases,Anti-inflammatory,Dermatitis,2019-01-11
+1869,677,Respiratory Diseases,Anti-hypertensive,Back Pain,2022-08-17
+1870,119,Musculoskeletal Disorders,Anti-inflammatory,Asthma,2020-02-12
+1871,610,None,Anti-inflammatory,Dermatitis,2021-12-21
+1872,495,Skin Disorders,Anti-hypertensive,Hypertension,2019-01-02
+1873,31,Musculoskeletal Disorders,Bronchodilators,Hypertension,2021-01-20
+1874,372,Cardiovascular Diseases,Antihistamines,Back Pain,2019-08-07
+1875,325,Cardiovascular Diseases,Antihistamines,None,2019-06-29
+1876,744,Skin Disorders,Anti-hypertensive,Asthma,2020-03-25
+1877,152,Respiratory Diseases,Anti-inflammatory,Hypertension,2020-06-08
+1878,610,Respiratory Diseases,Antihistamines,Asthma,2021-10-14
+1879,934,Respiratory Diseases,Anti-hypertensive,Back Pain,2020-05-26
+1880,296,Cardiovascular Diseases,Bronchodilators,Hypertension,2020-05-26
+1881,134,Cardiovascular Diseases,Bronchodilators,Hypertension,2019-12-14
+1882,890,Respiratory Diseases,Anti-hypertensive,Dermatitis,2022-08-25
+1883,984,Skin Disorders,Bronchodilators,None,2022-03-22
+1884,110,Skin Disorders,Anti-hypertensive,Back Pain,2021-03-09
+1885,392,Skin Disorders,Antihistamines,Asthma,2020-09-21
+1886,905,Skin Disorders,Anti-inflammatory,Hypertension,2022-06-01
+1887,61,Respiratory Diseases,Anti-inflammatory,Dermatitis,2019-07-10
+1888,537,Skin Disorders,Anti-hypertensive,Dermatitis,2022-10-11
+1889,606,None,Anti-inflammatory,Dermatitis,2019-09-20
+1890,88,Cardiovascular Diseases,None,Back Pain,2021-03-21
+1891,725,Cardiovascular Diseases,Anti-inflammatory,Asthma,2021-04-12
+1892,827,Cardiovascular Diseases,None,None,2022-05-23
+1893,654,Skin Disorders,Antihistamines,None,2021-10-13
+1894,961,None,Anti-hypertensive,Dermatitis,2020-06-26
+1895,612,Respiratory Diseases,Bronchodilators,None,2021-06-07
+1896,609,Cardiovascular Diseases,Antihistamines,Asthma,2019-08-03
+1897,378,None,Anti-hypertensive,Dermatitis,2022-01-10
+1898,693,Respiratory Diseases,Anti-hypertensive,Dermatitis,2020-01-06
+1899,182,Cardiovascular Diseases,Bronchodilators,Dermatitis,2020-04-19
+1900,344,Respiratory Diseases,Antihistamines,Hypertension,2022-02-13
+1901,207,Skin Disorders,Bronchodilators,Asthma,2021-01-28
+1902,353,Cardiovascular Diseases,Bronchodilators,Dermatitis,2022-09-07
+1903,527,Skin Disorders,None,Asthma,2020-10-07
+1904,670,Skin Disorders,Anti-inflammatory,Hypertension,2021-08-01
+1905,891,Cardiovascular Diseases,Antihistamines,Asthma,2021-02-07
+1906,114,None,Antihistamines,None,2021-12-22
+1907,547,Respiratory Diseases,Bronchodilators,Dermatitis,2019-05-06
+1908,606,Skin Disorders,Antihistamines,Hypertension,2022-05-03
+1909,224,None,Bronchodilators,Asthma,2020-07-25
+1910,622,Cardiovascular Diseases,Anti-hypertensive,Hypertension,2021-10-13
+1911,310,Respiratory Diseases,Antihistamines,Asthma,2019-05-10
+1912,287,None,Anti-inflammatory,Hypertension,2020-06-22
+1913,50,None,Anti-hypertensive,None,2020-01-10
+1914,935,Cardiovascular Diseases,Anti-inflammatory,Back Pain,2021-07-18
+1915,79,None,Anti-hypertensive,Hypertension,2020-01-11
+1916,414,None,Bronchodilators,Dermatitis,2020-09-05
+1917,399,Musculoskeletal Disorders,Bronchodilators,Asthma,2019-12-10
+1918,353,Musculoskeletal Disorders,Anti-hypertensive,Hypertension,2019-08-26
+1919,57,Musculoskeletal Disorders,Antihistamines,Dermatitis,2020-05-02
+1920,93,Respiratory Diseases,Anti-inflammatory,Dermatitis,2022-05-14
+1921,498,Respiratory Diseases,Anti-inflammatory,Dermatitis,2020-07-20
+1922,376,Cardiovascular Diseases,Anti-hypertensive,None,2021-10-21
+1923,436,None,Antihistamines,Hypertension,2022-09-05
+1924,722,Musculoskeletal Disorders,Anti-inflammatory,Dermatitis,2022-02-02
+1925,129,Cardiovascular Diseases,Antihistamines,Dermatitis,2021-05-31
+1926,483,Respiratory Diseases,Anti-inflammatory,Hypertension,2021-06-29
+1927,207,Respiratory Diseases,Anti-hypertensive,None,2022-10-14
+1928,950,Cardiovascular Diseases,Antihistamines,Dermatitis,2020-08-09
+1929,882,Respiratory Diseases,Bronchodilators,Asthma,2020-08-18
+1930,694,Cardiovascular Diseases,Antihistamines,None,2019-01-05
+1931,990,Skin Disorders,None,None,2021-03-21
+1932,383,Cardiovascular Diseases,Bronchodilators,Dermatitis,2020-11-04
+1933,419,Musculoskeletal Disorders,Anti-hypertensive,Asthma,2022-07-15
+1934,76,Respiratory Diseases,Bronchodilators,Back Pain,2019-07-24
+1935,949,Cardiovascular Diseases,Antihistamines,Dermatitis,2022-01-31
+1936,311,Musculoskeletal Disorders,Bronchodilators,Back Pain,2020-05-27
+1937,583,None,Antihistamines,None,2022-04-01
+1938,841,Cardiovascular Diseases,Antihistamines,Hypertension,2021-02-04
+1939,486,Respiratory Diseases,Bronchodilators,Back Pain,2021-11-05
+1940,116,None,Antihistamines,Back Pain,2020-04-27
+1941,755,Cardiovascular Diseases,Antihistamines,Asthma,2022-02-09
+1942,401,Respiratory Diseases,Anti-hypertensive,Dermatitis,2019-02-13
+1943,823,None,Antihistamines,Dermatitis,2022-03-03
+1944,933,Cardiovascular Diseases,Bronchodilators,None,2019-07-04
+1945,380,Respiratory Diseases,Antihistamines,Asthma,2019-03-31
+1946,163,None,Bronchodilators,None,2019-08-13
+1947,949,None,Anti-inflammatory,None,2022-10-10
+1948,116,Respiratory Diseases,Anti-inflammatory,Asthma,2019-11-24
+1949,410,Musculoskeletal Disorders,Bronchodilators,Back Pain,2022-08-12
+1950,954,Musculoskeletal Disorders,Anti-hypertensive,Back Pain,2022-12-25
+1951,584,Cardiovascular Diseases,Anti-inflammatory,Back Pain,2020-08-28
+1952,730,Skin Disorders,Antihistamines,Back Pain,2022-09-18
+1953,62,None,Bronchodilators,Back Pain,2019-04-28
+1954,545,Musculoskeletal Disorders,Anti-hypertensive,None,2021-06-22
+1955,436,Cardiovascular Diseases,Anti-inflammatory,None,2019-09-07
+1956,400,Cardiovascular Diseases,Antihistamines,Dermatitis,2020-11-07
+1957,168,Skin Disorders,Anti-inflammatory,None,2020-01-28
+1958,7,None,Anti-hypertensive,Hypertension,2021-03-13
+1959,153,Cardiovascular Diseases,Anti-hypertensive,Hypertension,2020-09-23
+1960,318,Musculoskeletal Disorders,Antihistamines,None,2021-08-21
+1961,113,Respiratory Diseases,Anti-inflammatory,None,2019-09-24
+1962,574,Skin Disorders,Anti-inflammatory,Back Pain,2020-07-28
+1963,226,Respiratory Diseases,None,None,2021-09-08
+1964,158,Musculoskeletal Disorders,None,Back Pain,2019-11-01
+1965,635,Cardiovascular Diseases,None,Dermatitis,2020-10-09
+1966,729,Skin Disorders,None,None,2021-02-08
+1967,802,Cardiovascular Diseases,Anti-hypertensive,None,2022-01-20
+1968,625,Musculoskeletal Disorders,Anti-hypertensive,Dermatitis,2022-03-09
+1969,521,Cardiovascular Diseases,Bronchodilators,Back Pain,2022-01-08
+1970,801,None,None,None,2022-04-14
+1971,387,Skin Disorders,None,Asthma,2022-04-16
+1972,59,Cardiovascular Diseases,Anti-inflammatory,Back Pain,2022-07-30
+1973,23,Respiratory Diseases,Anti-inflammatory,Hypertension,2020-12-27
+1974,379,Respiratory Diseases,None,Back Pain,2019-06-17
+1975,682,Respiratory Diseases,Antihistamines,Back Pain,2022-01-29
+1976,210,None,None,Asthma,2022-07-02
+1977,5,Cardiovascular Diseases,Antihistamines,Asthma,2020-08-15
+1978,725,None,Anti-inflammatory,Asthma,2019-04-19
+1979,780,Cardiovascular Diseases,Anti-hypertensive,Dermatitis,2020-06-23
+1980,652,Skin Disorders,Bronchodilators,Dermatitis,2019-03-13
+1981,754,Respiratory Diseases,Anti-hypertensive,None,2020-04-11
+1982,166,Skin Disorders,Antihistamines,Back Pain,2022-09-13
+1983,782,Musculoskeletal Disorders,Antihistamines,Asthma,2019-05-03
+1984,277,Skin Disorders,Anti-inflammatory,Dermatitis,2020-11-23
+1985,669,Cardiovascular Diseases,Anti-hypertensive,Hypertension,2019-07-20
+1986,277,Cardiovascular Diseases,Anti-inflammatory,Hypertension,2020-12-28
+1987,199,None,Anti-inflammatory,Dermatitis,2019-05-19
+1988,129,Skin Disorders,Antihistamines,Back Pain,2020-07-13
+1989,393,Skin Disorders,Bronchodilators,Back Pain,2021-09-09
+1990,444,Musculoskeletal Disorders,Antihistamines,None,2022-10-07
+1991,959,Skin Disorders,None,Hypertension,2019-10-11
+1992,847,Cardiovascular Diseases,Bronchodilators,Asthma,2022-09-15
+1993,654,None,None,Back Pain,2020-03-10
+1994,92,None,None,Asthma,2022-05-14
+1995,827,Skin Disorders,Anti-inflammatory,None,2020-06-07
+1996,646,Cardiovascular Diseases,None,None,2019-05-23
+1997,421,Respiratory Diseases,Antihistamines,Back Pain,2021-09-03
+1998,427,Respiratory Diseases,Bronchodilators,Hypertension,2021-05-18
+1999,282,Musculoskeletal Disorders,Bronchodilators,Hypertension,2020-05-31
+2000,94,Skin Disorders,Anti-inflammatory,None,2021-05-21
+2001,903,Cardiovascular Diseases,None,Hypertension,2019-06-04
+2002,115,Respiratory Diseases,Anti-inflammatory,Back Pain,2019-03-12
+2003,853,Respiratory Diseases,None,Asthma,2022-12-29
+2004,112,Cardiovascular Diseases,Anti-inflammatory,None,2021-11-28
+2005,850,None,None,Back Pain,2021-01-02
+2006,583,Respiratory Diseases,Anti-inflammatory,Hypertension,2021-12-20
+2007,505,Cardiovascular Diseases,Antihistamines,Hypertension,2020-06-22
+2008,924,None,Bronchodilators,Hypertension,2021-09-16
+2009,698,Cardiovascular Diseases,Antihistamines,Hypertension,2020-01-10
+2010,522,Skin Disorders,Antihistamines,Dermatitis,2019-03-02
+2011,776,None,Bronchodilators,Dermatitis,2022-10-30
+2012,5,Respiratory Diseases,Anti-inflammatory,None,2020-02-09
+2013,43,Cardiovascular Diseases,Antihistamines,Hypertension,2021-09-07
+2014,449,Respiratory Diseases,Anti-inflammatory,Dermatitis,2021-06-19
+2015,903,Respiratory Diseases,Anti-hypertensive,Asthma,2019-07-15
+2016,753,Cardiovascular Diseases,Antihistamines,Back Pain,2020-02-29
+2017,586,None,Anti-inflammatory,None,2022-09-06
+2018,797,Cardiovascular Diseases,Anti-inflammatory,Asthma,2020-10-04
+2019,181,Cardiovascular Diseases,Anti-hypertensive,Hypertension,2022-07-07
+2020,674,Musculoskeletal Disorders,Antihistamines,None,2019-08-18
+2021,716,Respiratory Diseases,Anti-inflammatory,Asthma,2022-06-28
+2022,754,Cardiovascular Diseases,Anti-inflammatory,Dermatitis,2020-05-18
+2023,751,Skin Disorders,Antihistamines,Dermatitis,2022-07-29
+2024,771,Respiratory Diseases,Anti-hypertensive,Back Pain,2020-08-24
+2025,176,Cardiovascular Diseases,Antihistamines,None,2020-12-10
+2026,952,Musculoskeletal Disorders,Anti-hypertensive,Back Pain,2020-04-26
+2027,257,Respiratory Diseases,Bronchodilators,None,2019-10-06
+2028,250,Cardiovascular Diseases,Anti-hypertensive,None,2022-07-02
+2029,799,Cardiovascular Diseases,Bronchodilators,Hypertension,2020-02-14
+2030,701,Cardiovascular Diseases,Anti-inflammatory,Back Pain,2019-07-27
+2031,611,Musculoskeletal Disorders,Antihistamines,None,2021-08-06
+2032,646,None,Antihistamines,Back Pain,2021-03-18
+2033,174,Cardiovascular Diseases,Antihistamines,None,2022-04-03
+2034,425,Skin Disorders,Antihistamines,None,2022-07-31
+2035,676,None,Bronchodilators,Dermatitis,2020-04-24
+2036,329,Cardiovascular Diseases,Bronchodilators,Asthma,2020-06-17
+2037,526,Musculoskeletal Disorders,Anti-inflammatory,Hypertension,2020-12-27
+2038,790,Cardiovascular Diseases,None,Back Pain,2020-06-05
+2039,868,Skin Disorders,None,Asthma,2019-05-04
+2040,74,Respiratory Diseases,Bronchodilators,None,2020-05-12
+2041,854,Skin Disorders,Bronchodilators,Asthma,2022-11-15
+2042,30,None,Antihistamines,Hypertension,2020-09-15
+2043,445,Respiratory Diseases,None,None,2021-07-16
+2044,436,Musculoskeletal Disorders,Bronchodilators,Asthma,2019-02-05
+2045,523,Cardiovascular Diseases,Anti-inflammatory,Asthma,2021-02-01
+2046,727,None,Anti-hypertensive,Hypertension,2022-07-24
+2047,869,Skin Disorders,Anti-hypertensive,None,2020-10-03
+2048,924,Musculoskeletal Disorders,Anti-hypertensive,Dermatitis,2021-07-03
+2049,759,Skin Disorders,Antihistamines,Back Pain,2021-03-31
+2050,946,Respiratory Diseases,Antihistamines,None,2019-08-28
+2051,669,None,Anti-hypertensive,Hypertension,2022-07-19
+2052,738,Cardiovascular Diseases,Bronchodilators,None,2020-09-26
+2053,181,Respiratory Diseases,None,Hypertension,2021-05-06
+2054,452,Musculoskeletal Disorders,Anti-hypertensive,Asthma,2021-09-22
+2055,271,Cardiovascular Diseases,None,Hypertension,2020-05-19
+2056,655,Cardiovascular Diseases,Antihistamines,Back Pain,2021-05-29
+2057,718,Skin Disorders,Bronchodilators,Back Pain,2019-09-25
+2058,395,None,None,Back Pain,2019-03-29
+2059,118,Respiratory Diseases,Anti-inflammatory,Back Pain,2022-05-13
+2060,145,None,Anti-hypertensive,Hypertension,2019-08-05
+2061,542,Cardiovascular Diseases,Antihistamines,Asthma,2022-09-21
+2062,411,Cardiovascular Diseases,None,Asthma,2020-10-23
+2063,880,Respiratory Diseases,Anti-hypertensive,Back Pain,2019-05-13
+2064,682,Respiratory Diseases,Anti-hypertensive,Asthma,2020-01-12
+2065,791,Cardiovascular Diseases,Bronchodilators,Back Pain,2020-08-01
+2066,304,Respiratory Diseases,Anti-inflammatory,Asthma,2022-05-10
+2067,735,None,None,None,2019-04-07
+2068,878,Cardiovascular Diseases,None,Dermatitis,2019-04-10
+2069,430,None,Antihistamines,None,2021-04-08
+2070,141,Skin Disorders,Antihistamines,Back Pain,2021-05-31
+2071,877,Skin Disorders,Anti-hypertensive,None,2019-05-15
+2072,385,Cardiovascular Diseases,Anti-inflammatory,Dermatitis,2020-08-09
+2073,705,Skin Disorders,Bronchodilators,Back Pain,2022-07-22
+2074,72,Cardiovascular Diseases,None,Hypertension,2021-10-06
+2075,902,None,Anti-hypertensive,Back Pain,2022-04-17
+2076,487,Respiratory Diseases,None,Back Pain,2022-05-30
+2077,911,Skin Disorders,None,Dermatitis,2020-02-10
+2078,198,Skin Disorders,Anti-hypertensive,Dermatitis,2021-09-20
+2079,411,Cardiovascular Diseases,Anti-hypertensive,Hypertension,2020-10-20
+2080,789,Cardiovascular Diseases,Antihistamines,Asthma,2021-09-27
+2081,572,Respiratory Diseases,None,Dermatitis,2020-08-03
+2082,345,Cardiovascular Diseases,Anti-inflammatory,Asthma,2019-06-04
+2083,185,Skin Disorders,Bronchodilators,None,2021-11-03
+2084,98,None,Anti-hypertensive,Dermatitis,2019-06-03
+2085,304,None,Bronchodilators,Hypertension,2022-10-08
+2086,624,Skin Disorders,Anti-hypertensive,Hypertension,2020-08-25
+2087,207,Skin Disorders,Anti-inflammatory,None,2019-11-06
+2088,558,None,Bronchodilators,Asthma,2021-04-18
+2089,675,Cardiovascular Diseases,None,Dermatitis,2021-05-28
+2090,682,Respiratory Diseases,Anti-inflammatory,Asthma,2020-07-18
+2091,490,Skin Disorders,Bronchodilators,None,2022-05-11
+2092,597,Cardiovascular Diseases,None,Dermatitis,2022-08-23
+2093,681,Respiratory Diseases,Anti-inflammatory,Back Pain,2020-11-19
+2094,2,Respiratory Diseases,Anti-inflammatory,Hypertension,2022-05-10
+2095,858,Cardiovascular Diseases,Anti-hypertensive,Hypertension,2022-09-18
+2096,900,Cardiovascular Diseases,None,Asthma,2022-01-30
+2097,336,Cardiovascular Diseases,None,Dermatitis,2022-02-17
+2098,614,None,Bronchodilators,Dermatitis,2020-02-21
+2099,340,Respiratory Diseases,Anti-hypertensive,Back Pain,2021-11-09
+2100,191,Cardiovascular Diseases,Bronchodilators,Hypertension,2022-09-13
+2101,566,Cardiovascular Diseases,Anti-inflammatory,Hypertension,2021-02-05
+2102,967,Respiratory Diseases,Anti-hypertensive,Dermatitis,2020-11-09
+2103,186,None,Anti-inflammatory,Dermatitis,2020-06-03
+2104,532,Cardiovascular Diseases,Anti-inflammatory,Dermatitis,2021-02-21
+2105,225,Cardiovascular Diseases,Bronchodilators,Asthma,2021-05-08
+2106,840,None,None,Asthma,2019-03-27
+2107,513,Cardiovascular Diseases,Anti-inflammatory,Hypertension,2019-03-01
+2108,574,Cardiovascular Diseases,Anti-inflammatory,Dermatitis,2022-06-28
+2109,369,Respiratory Diseases,None,Hypertension,2020-07-07
+2110,143,Cardiovascular Diseases,Anti-hypertensive,Dermatitis,2021-04-05
+2111,794,Skin Disorders,Bronchodilators,None,2020-09-12
+2112,127,Cardiovascular Diseases,Antihistamines,Back Pain,2022-05-22
+2113,145,Skin Disorders,Anti-hypertensive,Dermatitis,2021-06-03
+2114,361,Cardiovascular Diseases,None,Back Pain,2020-02-11
+2115,819,None,None,None,2021-03-24
+2116,34,Cardiovascular Diseases,Anti-inflammatory,Back Pain,2022-08-26
+2117,720,Cardiovascular Diseases,Anti-inflammatory,Back Pain,2019-12-29
+2118,196,Musculoskeletal Disorders,Bronchodilators,Back Pain,2021-07-11
+2119,961,Musculoskeletal Disorders,Anti-hypertensive,Asthma,2021-11-28
+2120,236,Respiratory Diseases,Antihistamines,None,2022-09-16
+2121,251,Cardiovascular Diseases,None,Asthma,2020-08-01
+2122,201,Cardiovascular Diseases,None,Hypertension,2021-03-01
+2123,433,Cardiovascular Diseases,None,Dermatitis,2021-01-24
+2124,736,Respiratory Diseases,Anti-inflammatory,Back Pain,2022-12-17
+2125,668,Respiratory Diseases,Bronchodilators,Dermatitis,2019-08-29
+2126,282,Respiratory Diseases,Bronchodilators,Dermatitis,2021-08-21
+2127,613,Respiratory Diseases,None,Asthma,2022-10-22
+2128,444,Cardiovascular Diseases,Antihistamines,Dermatitis,2022-12-24
+2129,389,None,Anti-inflammatory,Dermatitis,2022-03-27
+2130,8,Skin Disorders,Bronchodilators,Asthma,2022-05-20
+2131,561,Musculoskeletal Disorders,Antihistamines,Asthma,2020-03-21
+2132,635,None,None,Back Pain,2019-11-01
+2133,336,Cardiovascular Diseases,Anti-hypertensive,None,2022-12-15
+2134,736,Cardiovascular Diseases,Anti-hypertensive,Back Pain,2020-07-13
+2135,777,Skin Disorders,None,Hypertension,2021-11-02
+2136,703,Cardiovascular Diseases,None,None,2020-10-16
+2137,552,Skin Disorders,Antihistamines,Dermatitis,2019-03-27
+2138,820,None,None,Asthma,2022-02-02
+2139,224,Cardiovascular Diseases,Anti-inflammatory,None,2019-05-06
+2140,321,Skin Disorders,None,Back Pain,2022-08-31
+2141,155,Cardiovascular Diseases,Antihistamines,Back Pain,2020-03-14
+2142,940,Cardiovascular Diseases,Antihistamines,Hypertension,2019-03-31
+2143,986,Cardiovascular Diseases,None,None,2021-11-30
+2144,661,None,Anti-hypertensive,Back Pain,2019-09-01
+2145,872,Respiratory Diseases,Antihistamines,Hypertension,2020-01-04
+2146,943,Skin Disorders,Anti-hypertensive,Asthma,2021-01-26
+2147,378,Skin Disorders,Anti-inflammatory,Hypertension,2020-12-25
+2148,45,Cardiovascular Diseases,Antihistamines,Hypertension,2022-05-19
+2149,578,Respiratory Diseases,Antihistamines,Asthma,2022-12-04
+2150,498,Cardiovascular Diseases,Bronchodilators,Asthma,2022-10-11
+2151,800,None,None,Asthma,2022-10-31
+2152,529,None,Anti-inflammatory,Asthma,2020-01-13
+2153,640,Skin Disorders,None,None,2020-08-12
+2154,289,Skin Disorders,None,None,2021-10-11
+2155,67,Skin Disorders,None,None,2019-04-17
+2156,186,Cardiovascular Diseases,Anti-inflammatory,Dermatitis,2019-10-09
+2157,875,None,Anti-inflammatory,Hypertension,2019-02-23
+2158,897,Cardiovascular Diseases,Anti-hypertensive,Back Pain,2019-05-30
+2159,694,None,Anti-hypertensive,None,2021-11-08
+2160,156,Cardiovascular Diseases,Anti-hypertensive,None,2022-10-28
+2161,591,Respiratory Diseases,Bronchodilators,Back Pain,2021-07-31
+2162,83,None,Antihistamines,None,2020-09-04
+2163,790,Skin Disorders,Anti-inflammatory,None,2021-01-08
+2164,528,None,None,Asthma,2021-10-27
+2165,409,Cardiovascular Diseases,None,Dermatitis,2021-08-21
+2166,984,Respiratory Diseases,Bronchodilators,Back Pain,2022-12-16
+2167,360,Respiratory Diseases,Anti-hypertensive,Dermatitis,2019-06-18
+2168,698,Musculoskeletal Disorders,None,Asthma,2019-03-17
+2169,416,Skin Disorders,Antihistamines,Hypertension,2020-12-31
+2170,222,Cardiovascular Diseases,Antihistamines,Dermatitis,2020-03-15
+2171,816,Cardiovascular Diseases,Anti-hypertensive,Asthma,2021-01-17
+2172,153,Respiratory Diseases,Anti-inflammatory,Back Pain,2021-04-20
+2173,211,Skin Disorders,Anti-hypertensive,Hypertension,2020-02-08
+2174,473,Cardiovascular Diseases,None,Back Pain,2022-01-04
+2175,198,None,Anti-inflammatory,Hypertension,2019-04-01
+2176,662,None,Anti-inflammatory,Back Pain,2020-11-03
+2177,673,None,Antihistamines,Asthma,2019-08-12
+2178,860,Respiratory Diseases,Anti-hypertensive,Dermatitis,2020-05-08
+2179,168,Skin Disorders,Antihistamines,Hypertension,2019-08-21
+2180,471,None,Anti-inflammatory,Hypertension,2021-02-07
+2181,111,Cardiovascular Diseases,Antihistamines,Asthma,2021-10-21
+2182,405,None,Bronchodilators,Hypertension,2020-05-13
+2183,366,None,Bronchodilators,Hypertension,2021-08-25
+2184,347,None,Antihistamines,Dermatitis,2019-04-21
+2185,268,Skin Disorders,Anti-hypertensive,Hypertension,2021-10-26
+2186,226,None,None,Asthma,2020-02-14
+2187,900,Cardiovascular Diseases,Bronchodilators,Dermatitis,2020-10-08
+2188,260,Respiratory Diseases,Anti-inflammatory,Asthma,2019-12-13
+2189,608,Cardiovascular Diseases,None,None,2022-07-18
+2190,507,Respiratory Diseases,None,Dermatitis,2021-03-30
+2191,759,None,None,None,2022-01-28
+2192,130,Cardiovascular Diseases,Antihistamines,Hypertension,2021-08-22
+2193,814,Skin Disorders,None,None,2021-06-03
+2194,393,Skin Disorders,Antihistamines,Hypertension,2019-12-25
+2195,454,Skin Disorders,Bronchodilators,Dermatitis,2020-06-25
+2196,316,Respiratory Diseases,None,Hypertension,2019-10-01
+2197,252,None,Bronchodilators,Hypertension,2022-04-06
+2198,884,Skin Disorders,Anti-inflammatory,None,2020-07-12
+2199,969,Cardiovascular Diseases,Antihistamines,Back Pain,2020-11-27
+2200,4,None,Anti-hypertensive,None,2020-11-19
+2201,723,None,Anti-inflammatory,Dermatitis,2022-12-02
+2202,825,Respiratory Diseases,Bronchodilators,Asthma,2020-09-13
+2203,723,Cardiovascular Diseases,Anti-inflammatory,Dermatitis,2020-01-12
+2204,540,Skin Disorders,None,Asthma,2022-10-27
+2205,856,Respiratory Diseases,Anti-hypertensive,Back Pain,2019-03-20
+2206,78,Respiratory Diseases,Bronchodilators,Asthma,2020-10-14
+2207,432,Skin Disorders,Anti-hypertensive,Asthma,2020-10-27
+2208,648,Cardiovascular Diseases,None,Hypertension,2019-10-22
+2209,737,Cardiovascular Diseases,Antihistamines,Asthma,2022-11-18
+2210,526,Respiratory Diseases,Anti-hypertensive,Dermatitis,2021-05-08
+2211,412,Respiratory Diseases,None,Dermatitis,2021-02-28
+2212,22,Cardiovascular Diseases,None,None,2019-04-09
+2213,172,Cardiovascular Diseases,Antihistamines,Asthma,2020-02-09
+2214,146,Cardiovascular Diseases,Anti-inflammatory,Dermatitis,2020-08-22
+2215,328,Skin Disorders,Antihistamines,None,2020-10-19
+2216,408,None,Anti-hypertensive,Back Pain,2020-06-23
+2217,785,None,None,Hypertension,2022-11-04
+2218,510,Respiratory Diseases,Anti-inflammatory,Dermatitis,2020-06-19
+2219,872,Respiratory Diseases,Anti-hypertensive,Hypertension,2020-08-24
+2220,262,None,Anti-inflammatory,Hypertension,2022-10-18
+2221,164,Cardiovascular Diseases,Bronchodilators,Asthma,2021-07-14
+2222,860,Skin Disorders,Antihistamines,Dermatitis,2020-11-09
+2223,996,Cardiovascular Diseases,Anti-inflammatory,Hypertension,2019-10-15
+2224,781,Cardiovascular Diseases,None,Back Pain,2021-01-07
+2225,103,Cardiovascular Diseases,None,Asthma,2021-08-07
+2226,684,Skin Disorders,Antihistamines,Dermatitis,2021-07-21
+2227,144,Cardiovascular Diseases,Bronchodilators,Dermatitis,2019-07-22
+2228,846,Cardiovascular Diseases,Antihistamines,Back Pain,2022-04-23
+2229,556,Skin Disorders,Anti-hypertensive,None,2022-08-22
+2230,395,Cardiovascular Diseases,Bronchodilators,Back Pain,2019-02-05
+2231,622,None,Antihistamines,Asthma,2020-01-30
+2232,415,Skin Disorders,Anti-hypertensive,Dermatitis,2022-02-10
+2233,949,Cardiovascular Diseases,None,None,2022-09-24
+2234,588,Respiratory Diseases,Bronchodilators,None,2019-04-26
+2235,684,Cardiovascular Diseases,Anti-inflammatory,None,2020-08-05
+2236,495,None,Anti-inflammatory,Back Pain,2020-09-05
+2237,268,Cardiovascular Diseases,Bronchodilators,Back Pain,2021-06-07
+2238,549,Cardiovascular Diseases,None,Asthma,2022-09-18
+2239,965,Skin Disorders,None,Back Pain,2022-04-11
+2240,774,Cardiovascular Diseases,Anti-inflammatory,Hypertension,2022-08-12
+2241,246,Skin Disorders,Bronchodilators,Dermatitis,2021-09-24
+2242,620,None,Anti-hypertensive,Dermatitis,2022-02-24
+2243,61,None,Anti-hypertensive,Back Pain,2022-02-21
+2244,568,Cardiovascular Diseases,Anti-hypertensive,Dermatitis,2019-06-22
+2245,498,Skin Disorders,Anti-hypertensive,Dermatitis,2020-11-14
+2246,143,Cardiovascular Diseases,Bronchodilators,Back Pain,2020-09-26
+2247,731,Skin Disorders,Anti-hypertensive,None,2021-03-20
+2248,998,Respiratory Diseases,Anti-hypertensive,Asthma,2019-05-03
+2249,518,None,Anti-inflammatory,Dermatitis,2021-01-29
+2250,168,Cardiovascular Diseases,Bronchodilators,Back Pain,2021-06-23
+2251,205,Skin Disorders,None,Hypertension,2019-07-06
+2252,174,Respiratory Diseases,Bronchodilators,Hypertension,2020-06-13
+2253,577,Respiratory Diseases,Anti-inflammatory,Asthma,2020-07-30
+2254,831,Skin Disorders,Bronchodilators,Dermatitis,2020-12-13
+2255,124,Skin Disorders,None,Dermatitis,2021-07-03
+2256,971,Respiratory Diseases,Anti-hypertensive,None,2019-11-12
+2257,583,Skin Disorders,None,Asthma,2022-09-09
+2258,896,Cardiovascular Diseases,Antihistamines,Asthma,2019-09-11
+2259,700,Cardiovascular Diseases,Antihistamines,Asthma,2020-01-26
+2260,953,Respiratory Diseases,Bronchodilators,None,2020-04-26
+2261,957,Skin Disorders,Bronchodilators,Asthma,2020-09-17
+2262,295,None,Antihistamines,Asthma,2020-01-12
+2263,651,Respiratory Diseases,None,Dermatitis,2022-01-30
+2264,678,Musculoskeletal Disorders,Anti-hypertensive,Hypertension,2021-12-30
+2265,985,Cardiovascular Diseases,Antihistamines,Asthma,2019-01-31
+2266,918,Skin Disorders,Anti-hypertensive,Back Pain,2022-07-27
+2267,336,Respiratory Diseases,Anti-hypertensive,Hypertension,2021-12-20
+2268,958,Cardiovascular Diseases,Anti-inflammatory,None,2022-12-19
+2269,781,Skin Disorders,Anti-inflammatory,Back Pain,2022-07-13
+2270,903,Cardiovascular Diseases,Antihistamines,Back Pain,2022-04-10
+2271,153,Cardiovascular Diseases,Anti-hypertensive,Dermatitis,2019-08-23
+2272,513,Musculoskeletal Disorders,Anti-inflammatory,Dermatitis,2019-07-16
+2273,667,Respiratory Diseases,Bronchodilators,Back Pain,2022-07-25
+2274,703,Musculoskeletal Disorders,Antihistamines,Asthma,2020-04-20
+2275,161,Cardiovascular Diseases,Antihistamines,Dermatitis,2021-03-08
+2276,164,Skin Disorders,Anti-hypertensive,Dermatitis,2020-01-09
+2277,396,Musculoskeletal Disorders,Anti-inflammatory,Hypertension,2019-06-22
+2278,471,Skin Disorders,Anti-hypertensive,None,2021-02-21
+2279,133,Cardiovascular Diseases,Antihistamines,Hypertension,2019-06-17
+2280,704,Cardiovascular Diseases,Anti-inflammatory,Asthma,2019-12-20
+2281,786,Cardiovascular Diseases,Antihistamines,Hypertension,2021-07-20
+2282,428,Respiratory Diseases,Antihistamines,Back Pain,2022-05-31
+2283,326,Musculoskeletal Disorders,Antihistamines,Asthma,2022-01-22
+2284,763,Cardiovascular Diseases,Anti-inflammatory,Asthma,2019-05-16
+2285,843,Musculoskeletal Disorders,None,None,2020-11-17
+2286,440,Cardiovascular Diseases,Anti-inflammatory,None,2020-02-14
+2287,399,None,Anti-inflammatory,None,2022-12-05
+2288,522,Cardiovascular Diseases,None,None,2019-11-25
+2289,388,Skin Disorders,Bronchodilators,None,2021-01-07
+2290,993,None,Bronchodilators,Back Pain,2019-10-02
+2291,460,Cardiovascular Diseases,Anti-inflammatory,None,2022-12-13
+2292,332,Skin Disorders,Antihistamines,None,2021-09-04
+2293,498,Respiratory Diseases,Bronchodilators,Hypertension,2020-08-05
+2294,529,None,None,Asthma,2019-09-07
+2295,432,Skin Disorders,Bronchodilators,Back Pain,2019-08-18
+2296,395,Skin Disorders,Anti-hypertensive,None,2019-04-05
+2297,660,Respiratory Diseases,Bronchodilators,Hypertension,2019-09-27
+2298,815,Musculoskeletal Disorders,Antihistamines,None,2022-05-09
+2299,747,Cardiovascular Diseases,Anti-inflammatory,None,2021-04-05
+2300,67,Skin Disorders,None,Back Pain,2021-03-21
+2301,754,Cardiovascular Diseases,Anti-inflammatory,Hypertension,2022-01-19
+2302,992,None,Anti-hypertensive,Hypertension,2020-04-05
+2303,690,Skin Disorders,Antihistamines,None,2022-11-09
+2304,832,Cardiovascular Diseases,Anti-hypertensive,Dermatitis,2020-09-17
+2305,190,None,Anti-inflammatory,Asthma,2021-03-16
+2306,29,Cardiovascular Diseases,Anti-inflammatory,Asthma,2022-04-18
+2307,746,None,Anti-inflammatory,Hypertension,2019-10-04
+2308,324,None,Anti-hypertensive,Asthma,2020-04-28
+2309,515,Cardiovascular Diseases,None,Dermatitis,2022-07-04
+2310,359,Cardiovascular Diseases,None,Hypertension,2021-04-26
+2311,632,Skin Disorders,Antihistamines,Back Pain,2019-09-04
+2312,786,None,Antihistamines,Back Pain,2019-05-18
+2313,973,Skin Disorders,None,Hypertension,2020-04-01
+2314,880,Respiratory Diseases,Antihistamines,Dermatitis,2022-01-25
+2315,483,Respiratory Diseases,Antihistamines,Dermatitis,2021-05-31
+2316,956,Respiratory Diseases,None,Back Pain,2020-09-24
+2317,274,None,Anti-hypertensive,Back Pain,2022-01-20
+2318,249,None,Anti-hypertensive,None,2021-06-03
+2319,954,Skin Disorders,Anti-hypertensive,Back Pain,2019-08-15
+2320,916,Cardiovascular Diseases,Anti-hypertensive,Asthma,2020-04-14
+2321,786,Musculoskeletal Disorders,Antihistamines,Asthma,2020-07-29
+2322,172,None,Anti-inflammatory,Hypertension,2020-12-13
+2323,470,Skin Disorders,Bronchodilators,None,2022-10-30
+2324,531,Cardiovascular Diseases,None,Hypertension,2019-02-02
+2325,437,Respiratory Diseases,None,None,2019-08-10
+2326,475,None,None,Asthma,2022-08-28
+2327,12,Skin Disorders,Anti-inflammatory,Asthma,2022-06-28
+2328,526,Skin Disorders,Anti-hypertensive,Dermatitis,2021-12-11
+2329,143,Skin Disorders,Antihistamines,Hypertension,2019-05-04
+2330,514,Cardiovascular Diseases,Bronchodilators,Back Pain,2020-03-11
+2331,177,Cardiovascular Diseases,None,Dermatitis,2020-08-30
+2332,676,Skin Disorders,None,Asthma,2022-08-09
+2333,638,Cardiovascular Diseases,Anti-hypertensive,None,2021-08-25
+2334,797,Skin Disorders,None,Dermatitis,2020-05-12
+2335,986,Musculoskeletal Disorders,None,Hypertension,2021-08-07
+2336,563,Cardiovascular Diseases,Anti-hypertensive,Asthma,2019-09-06
+2337,588,Skin Disorders,Anti-hypertensive,Asthma,2020-10-19
+2338,358,None,None,Dermatitis,2021-07-07
+2339,442,None,None,None,2019-04-13
+2340,290,None,Anti-inflammatory,Asthma,2019-12-09
+2341,717,Cardiovascular Diseases,None,Dermatitis,2020-02-25
+2342,379,Skin Disorders,Bronchodilators,Dermatitis,2020-01-12
+2343,241,None,Antihistamines,Dermatitis,2021-12-31
+2344,816,Cardiovascular Diseases,Anti-hypertensive,Asthma,2021-11-28
+2345,775,Cardiovascular Diseases,Bronchodilators,Dermatitis,2020-01-12
+2346,624,Musculoskeletal Disorders,Anti-inflammatory,None,2022-11-04
+2347,814,Respiratory Diseases,Anti-inflammatory,Hypertension,2019-08-26
+2348,785,None,Bronchodilators,Dermatitis,2020-12-21
+2349,208,None,Anti-inflammatory,Back Pain,2020-04-18
+2350,954,None,Anti-hypertensive,Hypertension,2019-12-20
+2351,770,Cardiovascular Diseases,Anti-inflammatory,Back Pain,2019-12-02
+2352,665,Musculoskeletal Disorders,None,Asthma,2021-02-03
+2353,144,Skin Disorders,Antihistamines,None,2019-12-27
+2354,543,None,Antihistamines,Asthma,2022-01-09
+2355,50,Cardiovascular Diseases,None,Back Pain,2022-03-28
+2356,128,Cardiovascular Diseases,Anti-inflammatory,None,2020-06-28
+2357,737,Skin Disorders,Anti-hypertensive,None,2022-02-14
+2358,645,Skin Disorders,Anti-inflammatory,Hypertension,2021-11-10
+2359,99,Skin Disorders,Anti-hypertensive,Hypertension,2019-02-02
+2360,681,None,Anti-inflammatory,Hypertension,2020-09-09
+2361,8,Cardiovascular Diseases,Anti-inflammatory,Back Pain,2019-02-17
+2362,41,Cardiovascular Diseases,Bronchodilators,None,2022-07-08
+2363,703,Skin Disorders,Bronchodilators,Back Pain,2019-10-18
+2364,853,Skin Disorders,Anti-hypertensive,None,2020-06-07
+2365,109,None,None,Dermatitis,2021-11-21
+2366,785,Cardiovascular Diseases,Anti-inflammatory,None,2021-01-28
+2367,472,None,Anti-hypertensive,None,2020-04-14
+2368,140,None,Anti-inflammatory,Dermatitis,2021-07-22
+2369,925,Respiratory Diseases,Bronchodilators,Dermatitis,2020-01-22
+2370,87,None,Anti-hypertensive,Dermatitis,2022-10-13
+2371,440,Cardiovascular Diseases,Anti-hypertensive,Hypertension,2022-12-23
+2372,497,Cardiovascular Diseases,Anti-inflammatory,None,2022-08-28
+2373,194,None,None,Hypertension,2020-11-13
+2374,213,Musculoskeletal Disorders,Anti-inflammatory,None,2019-06-15
+2375,581,Respiratory Diseases,Anti-inflammatory,Asthma,2020-11-27
+2376,455,Musculoskeletal Disorders,Antihistamines,Back Pain,2020-12-16
+2377,443,Cardiovascular Diseases,None,Asthma,2020-11-12
+2378,613,Cardiovascular Diseases,Anti-inflammatory,Dermatitis,2022-03-21
+2379,958,Cardiovascular Diseases,Antihistamines,None,2019-04-11
+2380,368,Cardiovascular Diseases,Anti-inflammatory,Hypertension,2021-10-20
+2381,405,Respiratory Diseases,Anti-hypertensive,Hypertension,2021-01-08
+2382,618,Cardiovascular Diseases,Bronchodilators,Dermatitis,2022-11-08
+2383,395,Cardiovascular Diseases,None,None,2019-03-19
+2384,965,Cardiovascular Diseases,Anti-inflammatory,None,2019-10-09
+2385,639,Skin Disorders,Antihistamines,Hypertension,2022-03-28
+2386,760,Cardiovascular Diseases,Anti-inflammatory,Back Pain,2019-04-04
+2387,517,Skin Disorders,Antihistamines,None,2019-09-25
+2388,384,Musculoskeletal Disorders,Anti-inflammatory,None,2019-01-22
+2389,137,Cardiovascular Diseases,Antihistamines,Back Pain,2019-08-17
+2390,578,None,Bronchodilators,None,2019-03-10
+2391,917,Cardiovascular Diseases,Anti-inflammatory,None,2020-12-05
+2392,254,Respiratory Diseases,Anti-hypertensive,None,2022-01-02
+2393,727,Musculoskeletal Disorders,Antihistamines,None,2021-07-03
+2394,415,Musculoskeletal Disorders,Antihistamines,Hypertension,2022-10-09
+2395,285,Musculoskeletal Disorders,Anti-inflammatory,Dermatitis,2022-09-14
+2396,936,Cardiovascular Diseases,Anti-inflammatory,Dermatitis,2020-07-09
+2397,462,Musculoskeletal Disorders,Anti-hypertensive,Back Pain,2020-08-23
+2398,27,Cardiovascular Diseases,Antihistamines,Back Pain,2021-04-03
+2399,518,Respiratory Diseases,Bronchodilators,Asthma,2019-03-20
+2400,368,Cardiovascular Diseases,Anti-inflammatory,Hypertension,2022-03-18
+2401,743,Cardiovascular Diseases,Bronchodilators,Asthma,2019-01-07
+2402,874,None,Antihistamines,Back Pain,2019-01-24
+2403,297,Cardiovascular Diseases,Antihistamines,Asthma,2021-04-08
+2404,315,Cardiovascular Diseases,None,Dermatitis,2020-04-22
+2405,891,Cardiovascular Diseases,Bronchodilators,None,2020-07-15
+2406,376,Cardiovascular Diseases,None,Back Pain,2021-06-09
+2407,868,None,Anti-inflammatory,Asthma,2022-05-29
+2408,501,Cardiovascular Diseases,None,Back Pain,2021-12-13
+2409,134,None,Antihistamines,Asthma,2020-05-14
+2410,499,Respiratory Diseases,Anti-hypertensive,None,2022-05-04
+2411,335,Cardiovascular Diseases,Anti-hypertensive,Hypertension,2019-04-28
+2412,451,Respiratory Diseases,Antihistamines,Hypertension,2020-12-04
+2413,254,Cardiovascular Diseases,Anti-hypertensive,Asthma,2021-05-25
+2414,425,Musculoskeletal Disorders,None,None,2022-03-25
+2415,313,Cardiovascular Diseases,Anti-hypertensive,None,2020-09-22
+2416,932,Skin Disorders,None,Dermatitis,2021-06-20
+2417,873,Skin Disorders,Bronchodilators,Back Pain,2019-11-24
+2418,130,Skin Disorders,Bronchodilators,Dermatitis,2022-02-21
+2419,132,Musculoskeletal Disorders,Anti-hypertensive,Back Pain,2019-05-09
+2420,437,Skin Disorders,Anti-hypertensive,None,2019-08-11
+2421,893,Cardiovascular Diseases,Bronchodilators,None,2022-08-15
+2422,289,Respiratory Diseases,Bronchodilators,Back Pain,2020-10-02
+2423,514,Respiratory Diseases,None,Asthma,2019-07-11
+2424,45,Skin Disorders,Anti-hypertensive,None,2020-08-01
+2425,573,Cardiovascular Diseases,None,Asthma,2021-05-14
+2426,437,Cardiovascular Diseases,Anti-hypertensive,Dermatitis,2021-01-17
+2427,62,Cardiovascular Diseases,None,Back Pain,2021-06-18
+2428,108,Cardiovascular Diseases,Anti-hypertensive,Asthma,2019-01-28
+2429,961,Cardiovascular Diseases,Bronchodilators,None,2019-07-02
+2430,185,Skin Disorders,Anti-hypertensive,Dermatitis,2021-03-27
+2431,279,Musculoskeletal Disorders,None,Dermatitis,2022-08-23
+2432,268,None,Anti-hypertensive,Asthma,2020-07-15
+2433,271,Cardiovascular Diseases,None,None,2021-04-04
+2434,910,Cardiovascular Diseases,Antihistamines,Asthma,2022-02-24
+2435,811,Musculoskeletal Disorders,Anti-inflammatory,Dermatitis,2021-07-26
+2436,527,Respiratory Diseases,None,Hypertension,2019-08-30
+2437,796,Cardiovascular Diseases,Anti-hypertensive,Hypertension,2020-06-11
+2438,911,Skin Disorders,Antihistamines,Back Pain,2019-11-23
+2439,439,Cardiovascular Diseases,None,Dermatitis,2021-03-31
+2440,241,Respiratory Diseases,Bronchodilators,Back Pain,2021-05-05
+2441,32,Skin Disorders,Anti-inflammatory,Back Pain,2022-07-08
+2442,915,Respiratory Diseases,Bronchodilators,Dermatitis,2021-03-17
+2443,629,Skin Disorders,Anti-inflammatory,Asthma,2022-12-01
+2444,721,None,Anti-inflammatory,None,2022-05-08
+2445,970,Skin Disorders,Bronchodilators,Asthma,2019-02-14
+2446,260,Respiratory Diseases,None,Back Pain,2021-12-16
+2447,756,Cardiovascular Diseases,Anti-inflammatory,Asthma,2020-11-08
+2448,112,Cardiovascular Diseases,Anti-hypertensive,Dermatitis,2020-07-30
+2449,449,Cardiovascular Diseases,Bronchodilators,Hypertension,2020-06-05
+2450,370,Cardiovascular Diseases,Anti-inflammatory,Asthma,2022-06-18
+2451,612,None,Anti-hypertensive,Hypertension,2019-11-03
+2452,81,Cardiovascular Diseases,Anti-inflammatory,None,2019-12-13
+2453,51,Cardiovascular Diseases,Antihistamines,Dermatitis,2021-02-20
+2454,780,Skin Disorders,Anti-hypertensive,Hypertension,2022-06-17
+2455,56,Respiratory Diseases,Bronchodilators,None,2019-12-26
+2456,559,Skin Disorders,Anti-hypertensive,None,2022-12-27
+2457,820,None,Anti-inflammatory,Hypertension,2021-08-21
+2458,107,Skin Disorders,Antihistamines,None,2020-05-07
+2459,840,Cardiovascular Diseases,Anti-inflammatory,Back Pain,2019-02-07
+2460,800,None,Anti-inflammatory,Asthma,2020-10-24
+2461,825,Cardiovascular Diseases,Antihistamines,None,2020-10-20
+2462,334,None,Bronchodilators,Back Pain,2020-10-05
+2463,187,Cardiovascular Diseases,Anti-hypertensive,None,2022-08-26
+2464,678,Cardiovascular Diseases,Antihistamines,Asthma,2019-05-11
+2465,328,Cardiovascular Diseases,None,Back Pain,2019-06-12
+2466,376,Cardiovascular Diseases,None,Asthma,2022-11-28
+2467,665,Cardiovascular Diseases,Bronchodilators,Hypertension,2022-08-06
+2468,307,Musculoskeletal Disorders,Anti-hypertensive,None,2022-11-02
+2469,682,Cardiovascular Diseases,Bronchodilators,Asthma,2021-11-23
+2470,847,Musculoskeletal Disorders,Bronchodilators,Back Pain,2022-02-07
+2471,223,None,Anti-hypertensive,Asthma,2019-02-26
+2472,364,Skin Disorders,Bronchodilators,Dermatitis,2020-06-19
+2473,945,Cardiovascular Diseases,Anti-inflammatory,None,2022-06-04
+2474,918,Skin Disorders,Anti-hypertensive,Back Pain,2020-08-31
+2475,462,Respiratory Diseases,Anti-hypertensive,Back Pain,2022-12-17
+2476,313,Skin Disorders,Anti-inflammatory,Asthma,2020-06-10
+2477,697,Skin Disorders,Anti-inflammatory,None,2021-11-01
+2478,986,Skin Disorders,Anti-hypertensive,Hypertension,2020-07-13
+2479,849,Cardiovascular Diseases,Anti-inflammatory,Hypertension,2022-06-23
+2480,964,None,Bronchodilators,Back Pain,2019-10-20
+2481,908,Musculoskeletal Disorders,None,Dermatitis,2021-12-14
+2482,408,Musculoskeletal Disorders,None,Back Pain,2020-11-01
+2483,296,Respiratory Diseases,Bronchodilators,None,2022-04-12
+2484,386,Skin Disorders,Antihistamines,None,2022-06-25
+2485,396,Cardiovascular Diseases,None,None,2020-03-24
+2486,688,Skin Disorders,Anti-inflammatory,Hypertension,2020-03-02
+2487,935,None,None,None,2019-05-12
+2488,558,Respiratory Diseases,Antihistamines,Back Pain,2020-11-28
+2489,103,Skin Disorders,Anti-hypertensive,Asthma,2021-07-04
+2490,21,Cardiovascular Diseases,Anti-hypertensive,Asthma,2020-03-13
+2491,341,Musculoskeletal Disorders,Antihistamines,Hypertension,2020-12-26
+2492,865,Cardiovascular Diseases,None,Hypertension,2020-01-23
+2493,805,Skin Disorders,Anti-hypertensive,Dermatitis,2021-07-04
+2494,322,Cardiovascular Diseases,Antihistamines,Hypertension,2022-07-05
+2495,483,Skin Disorders,Antihistamines,Asthma,2020-05-06
+2496,111,Respiratory Diseases,Antihistamines,Dermatitis,2022-09-25
+2497,134,Cardiovascular Diseases,None,None,2019-10-16
+2498,265,Cardiovascular Diseases,Anti-hypertensive,Hypertension,2020-02-26
+2499,717,None,Bronchodilators,Dermatitis,2022-05-30
+2500,663,Cardiovascular Diseases,None,None,2019-09-01
+2501,904,Skin Disorders,None,Asthma,2020-10-15
+2502,308,None,None,Back Pain,2019-08-09
+2503,290,Skin Disorders,Bronchodilators,Back Pain,2022-09-24
+2504,697,Respiratory Diseases,Anti-inflammatory,Hypertension,2021-02-10
+2505,352,None,Bronchodilators,None,2019-03-18
+2506,894,Musculoskeletal Disorders,None,Asthma,2021-10-03
+2507,410,None,Anti-inflammatory,None,2022-09-04
+2508,626,None,Anti-hypertensive,Asthma,2020-10-24
+2509,283,None,Anti-hypertensive,Hypertension,2021-02-05
+2510,77,None,None,Asthma,2021-11-23
+2511,399,Respiratory Diseases,Antihistamines,Asthma,2020-01-17
+2512,770,Skin Disorders,Antihistamines,Asthma,2019-06-24
+2513,904,Cardiovascular Diseases,Bronchodilators,Asthma,2019-06-15
+2514,16,Cardiovascular Diseases,None,Hypertension,2022-05-21
+2515,496,Respiratory Diseases,Antihistamines,Hypertension,2020-10-27
+2516,349,None,Anti-inflammatory,Dermatitis,2021-03-04
+2517,752,Respiratory Diseases,Anti-hypertensive,Dermatitis,2019-11-10
+2518,817,Skin Disorders,None,Hypertension,2022-01-13
+2519,838,None,Anti-hypertensive,Asthma,2021-03-12
+2520,625,Cardiovascular Diseases,None,Back Pain,2019-10-09
+2521,524,Respiratory Diseases,None,Hypertension,2019-06-09
+2522,769,Cardiovascular Diseases,Anti-hypertensive,Back Pain,2021-07-25
+2523,997,Cardiovascular Diseases,Anti-hypertensive,Dermatitis,2019-10-12
+2524,162,Skin Disorders,Bronchodilators,None,2020-12-12
+2525,69,Respiratory Diseases,None,Back Pain,2019-06-26
+2526,512,Skin Disorders,Antihistamines,Back Pain,2019-01-31
+2527,30,Respiratory Diseases,Bronchodilators,Back Pain,2022-02-15
+2528,295,Skin Disorders,None,None,2021-09-05
+2529,677,Musculoskeletal Disorders,Anti-hypertensive,Asthma,2019-07-06
+2530,388,Respiratory Diseases,Anti-hypertensive,Back Pain,2020-09-15
+2531,344,Cardiovascular Diseases,None,Back Pain,2020-12-28
+2532,371,Cardiovascular Diseases,Bronchodilators,Asthma,2022-09-05
+2533,167,Respiratory Diseases,Antihistamines,Hypertension,2021-09-18
+2534,52,Skin Disorders,Anti-hypertensive,Back Pain,2020-06-23
+2535,319,Cardiovascular Diseases,Anti-inflammatory,Asthma,2019-09-07
+2536,995,Cardiovascular Diseases,Bronchodilators,None,2021-08-19
+2537,752,Cardiovascular Diseases,Anti-inflammatory,Hypertension,2019-12-17
+2538,682,Cardiovascular Diseases,Anti-hypertensive,Dermatitis,2021-04-19
+2539,901,None,Anti-inflammatory,Dermatitis,2021-02-02
+2540,768,Cardiovascular Diseases,Anti-hypertensive,Dermatitis,2021-07-22
+2541,731,Cardiovascular Diseases,None,Hypertension,2021-09-06
+2542,581,Respiratory Diseases,Antihistamines,None,2021-12-10
+2543,921,Cardiovascular Diseases,Anti-inflammatory,Hypertension,2022-01-09
+2544,713,None,Antihistamines,Dermatitis,2020-05-17
+2545,511,Cardiovascular Diseases,None,Dermatitis,2022-04-12
+2546,902,None,Anti-inflammatory,Asthma,2020-12-04
+2547,882,Cardiovascular Diseases,Anti-hypertensive,Asthma,2022-05-13
+2548,346,Skin Disorders,Antihistamines,Dermatitis,2021-10-06
+2549,514,Cardiovascular Diseases,Bronchodilators,Asthma,2020-05-31
+2550,562,None,Anti-hypertensive,Asthma,2020-01-27
+2551,840,Cardiovascular Diseases,Antihistamines,Dermatitis,2021-10-07
+2552,356,Respiratory Diseases,Anti-inflammatory,Asthma,2020-01-27
+2553,848,Respiratory Diseases,Bronchodilators,Back Pain,2021-07-18
+2554,190,Cardiovascular Diseases,Anti-inflammatory,Back Pain,2021-08-29
+2555,57,Cardiovascular Diseases,Bronchodilators,Dermatitis,2022-04-09
+2556,653,Cardiovascular Diseases,Bronchodilators,Back Pain,2020-12-05
+2557,104,Skin Disorders,None,Dermatitis,2020-07-05
+2558,401,Skin Disorders,None,Dermatitis,2021-08-03
+2559,939,Skin Disorders,Anti-inflammatory,Dermatitis,2020-09-25
+2560,428,Cardiovascular Diseases,Antihistamines,Back Pain,2020-03-20
+2561,198,Skin Disorders,None,Asthma,2022-08-21
+2562,752,None,Bronchodilators,Back Pain,2022-01-19
+2563,403,Respiratory Diseases,None,Dermatitis,2021-06-16
+2564,885,Cardiovascular Diseases,Anti-inflammatory,Asthma,2022-04-27
+2565,524,Cardiovascular Diseases,None,None,2019-05-09
+2566,770,Cardiovascular Diseases,Bronchodilators,Dermatitis,2022-08-14
+2567,483,Cardiovascular Diseases,Anti-inflammatory,Asthma,2021-01-23
+2568,898,Cardiovascular Diseases,Antihistamines,Hypertension,2020-08-19
+2569,390,None,Anti-hypertensive,Asthma,2021-12-07
+2570,317,Cardiovascular Diseases,None,Hypertension,2022-11-15
+2571,718,Skin Disorders,Anti-inflammatory,None,2022-02-04
+2572,156,None,Bronchodilators,Dermatitis,2020-08-02
+2573,564,Respiratory Diseases,None,Dermatitis,2019-08-10
+2574,169,Cardiovascular Diseases,None,Asthma,2022-10-05
+2575,123,Respiratory Diseases,Antihistamines,Asthma,2022-08-10
+2576,457,None,Anti-inflammatory,Hypertension,2020-12-22
+2577,368,Cardiovascular Diseases,Bronchodilators,None,2022-12-12
+2578,701,None,None,Back Pain,2019-08-26
+2579,740,Musculoskeletal Disorders,Bronchodilators,Dermatitis,2020-09-28
+2580,410,None,Anti-hypertensive,Back Pain,2019-03-10
+2581,232,Cardiovascular Diseases,Anti-hypertensive,Hypertension,2021-12-03
+2582,402,Skin Disorders,Anti-inflammatory,Hypertension,2019-10-28
+2583,106,Cardiovascular Diseases,Antihistamines,Back Pain,2022-09-08
+2584,982,Cardiovascular Diseases,Anti-inflammatory,Back Pain,2022-08-22
+2585,712,Musculoskeletal Disorders,None,Back Pain,2020-04-09
+2586,517,Cardiovascular Diseases,None,Dermatitis,2021-05-15
+2587,483,None,Anti-inflammatory,Back Pain,2020-08-04
+2588,971,Respiratory Diseases,Anti-inflammatory,None,2020-08-13
+2589,93,Respiratory Diseases,Anti-inflammatory,None,2021-11-14
+2590,285,None,Antihistamines,Asthma,2022-02-20
+2591,109,Cardiovascular Diseases,Bronchodilators,None,2022-01-24
+2592,407,Musculoskeletal Disorders,None,Back Pain,2022-10-08
+2593,36,Respiratory Diseases,Bronchodilators,Dermatitis,2022-05-03
+2594,518,Musculoskeletal Disorders,Antihistamines,Hypertension,2019-04-13
+2595,126,None,None,Asthma,2021-08-09
+2596,309,Cardiovascular Diseases,Anti-inflammatory,None,2022-11-04
+2597,985,Cardiovascular Diseases,None,Dermatitis,2020-04-07
+2598,913,Cardiovascular Diseases,None,None,2019-12-24
+2599,228,Cardiovascular Diseases,Bronchodilators,Asthma,2020-03-12
+2600,785,Cardiovascular Diseases,Anti-inflammatory,Dermatitis,2022-05-15
+2601,703,Respiratory Diseases,Antihistamines,Dermatitis,2021-12-16
+2602,924,Respiratory Diseases,None,Hypertension,2021-09-22
+2603,836,Respiratory Diseases,None,Back Pain,2020-10-24
+2604,297,Respiratory Diseases,None,None,2022-01-09
+2605,987,Musculoskeletal Disorders,Antihistamines,Dermatitis,2019-10-15
+2606,76,Respiratory Diseases,Bronchodilators,Back Pain,2020-10-02
+2607,697,Cardiovascular Diseases,Antihistamines,Dermatitis,2021-07-28
+2608,194,Respiratory Diseases,Anti-inflammatory,Asthma,2019-01-20
+2609,31,Cardiovascular Diseases,Anti-inflammatory,Back Pain,2020-10-18
+2610,765,Respiratory Diseases,None,Dermatitis,2019-03-13
+2611,437,Respiratory Diseases,Anti-hypertensive,Dermatitis,2019-12-15
+2612,664,Skin Disorders,Anti-hypertensive,Asthma,2022-11-02
+2613,507,Skin Disorders,None,Hypertension,2022-06-21
+2614,767,None,Antihistamines,None,2019-04-11
+2615,971,Skin Disorders,Bronchodilators,Asthma,2021-12-30
+2616,876,Respiratory Diseases,None,Asthma,2020-10-21
+2617,636,None,Anti-hypertensive,Back Pain,2021-07-29
+2618,957,Skin Disorders,None,Asthma,2022-11-05
+2619,244,None,Antihistamines,None,2021-02-05
+2620,843,Skin Disorders,None,Dermatitis,2020-03-24
+2621,27,Respiratory Diseases,Anti-inflammatory,Asthma,2019-12-20
+2622,15,Skin Disorders,Antihistamines,Dermatitis,2021-05-15
+2623,208,Cardiovascular Diseases,Bronchodilators,Asthma,2019-06-30
+2624,110,Skin Disorders,Bronchodilators,None,2021-12-09
+2625,988,Skin Disorders,Antihistamines,Dermatitis,2021-04-23
+2626,499,Cardiovascular Diseases,Antihistamines,Dermatitis,2022-01-05
+2627,715,None,Anti-inflammatory,Dermatitis,2020-04-17
+2628,471,Cardiovascular Diseases,Anti-hypertensive,Dermatitis,2021-06-06
+2629,674,Musculoskeletal Disorders,None,Dermatitis,2020-02-21
+2630,362,Cardiovascular Diseases,Anti-hypertensive,Back Pain,2019-09-13
+2631,201,Cardiovascular Diseases,Anti-hypertensive,Dermatitis,2020-03-23
+2632,765,Skin Disorders,Bronchodilators,Asthma,2021-09-19
+2633,946,Musculoskeletal Disorders,Anti-hypertensive,Dermatitis,2021-04-06
+2634,541,Skin Disorders,Anti-hypertensive,None,2020-04-15
+2635,245,None,Antihistamines,Hypertension,2021-01-27
+2636,271,None,None,Dermatitis,2021-01-14
+2637,516,None,Bronchodilators,None,2019-07-19
+2638,395,Respiratory Diseases,None,None,2019-05-11
+2639,892,Cardiovascular Diseases,Anti-inflammatory,Hypertension,2019-06-11
+2640,416,None,None,None,2022-10-27
+2641,668,Respiratory Diseases,Bronchodilators,Asthma,2021-01-01
+2642,486,Cardiovascular Diseases,Anti-hypertensive,Hypertension,2021-04-07
+2643,176,Skin Disorders,Anti-inflammatory,Hypertension,2020-12-16
+2644,915,Cardiovascular Diseases,Bronchodilators,Back Pain,2021-08-12
+2645,112,Cardiovascular Diseases,Anti-hypertensive,None,2020-10-07
+2646,287,Respiratory Diseases,Antihistamines,Hypertension,2019-04-04
+2647,466,Cardiovascular Diseases,Bronchodilators,Hypertension,2022-03-25
+2648,947,None,Anti-inflammatory,None,2022-05-26
+2649,702,None,Anti-hypertensive,Asthma,2021-10-13
+2650,178,None,None,Hypertension,2022-11-07
+2651,520,None,Anti-inflammatory,Dermatitis,2021-11-15
+2652,635,Cardiovascular Diseases,Anti-hypertensive,Asthma,2022-09-14
+2653,77,Skin Disorders,Antihistamines,Asthma,2022-12-08
+2654,11,Cardiovascular Diseases,None,Back Pain,2020-10-14
+2655,990,Cardiovascular Diseases,Anti-hypertensive,Dermatitis,2021-07-07
+2656,751,Respiratory Diseases,Anti-inflammatory,Asthma,2022-12-04
+2657,854,Respiratory Diseases,Bronchodilators,None,2019-05-24
+2658,126,Musculoskeletal Disorders,Bronchodilators,Dermatitis,2019-05-14
+2659,22,Cardiovascular Diseases,Anti-inflammatory,Dermatitis,2022-05-08
+2660,390,Skin Disorders,None,None,2020-06-18
+2661,307,None,Anti-inflammatory,Back Pain,2019-09-26
+2662,7,Skin Disorders,Anti-inflammatory,Hypertension,2022-01-12
+2663,435,Cardiovascular Diseases,None,Asthma,2019-03-20
+2664,790,Cardiovascular Diseases,Bronchodilators,Asthma,2020-11-29
+2665,3,Skin Disorders,None,Dermatitis,2020-02-12
+2666,403,Musculoskeletal Disorders,None,Dermatitis,2022-08-16
+2667,21,Respiratory Diseases,Anti-inflammatory,Dermatitis,2022-10-20
+2668,524,Cardiovascular Diseases,Antihistamines,Back Pain,2019-10-21
+2669,88,Skin Disorders,Anti-hypertensive,Asthma,2021-12-03
+2670,245,None,Antihistamines,Back Pain,2020-08-21
+2671,246,Skin Disorders,None,Hypertension,2022-01-27
+2672,91,Skin Disorders,Anti-inflammatory,Back Pain,2021-11-20
+2673,737,None,Anti-inflammatory,Hypertension,2019-05-31
+2674,973,Respiratory Diseases,Antihistamines,None,2020-07-12
+2675,484,None,Bronchodilators,Hypertension,2022-12-11
+2676,904,Skin Disorders,Antihistamines,Dermatitis,2022-10-03
+2677,377,Respiratory Diseases,None,Asthma,2020-05-08
+2678,205,Musculoskeletal Disorders,None,Back Pain,2019-01-09
+2679,461,Cardiovascular Diseases,Anti-inflammatory,None,2019-10-11
+2680,114,Musculoskeletal Disorders,Anti-hypertensive,Dermatitis,2021-05-24
+2681,374,None,Anti-inflammatory,Back Pain,2021-08-04
+2682,667,Cardiovascular Diseases,Anti-hypertensive,Hypertension,2019-05-11
+2683,767,Skin Disorders,Anti-hypertensive,Hypertension,2022-04-02
+2684,729,None,Bronchodilators,None,2019-11-21
+2685,962,Respiratory Diseases,Bronchodilators,None,2020-01-25
+2686,602,Skin Disorders,None,Back Pain,2021-02-15
+2687,366,Respiratory Diseases,None,Hypertension,2019-01-19
+2688,732,Respiratory Diseases,None,Dermatitis,2022-12-03
+2689,414,Skin Disorders,None,Dermatitis,2022-11-01
+2690,145,None,Anti-inflammatory,Hypertension,2020-03-09
+2691,109,Cardiovascular Diseases,None,Dermatitis,2020-09-29
+2692,557,Respiratory Diseases,Antihistamines,None,2019-03-29
+2693,705,Respiratory Diseases,Anti-inflammatory,Asthma,2019-04-11
+2694,184,None,None,Back Pain,2021-01-01
+2695,705,Musculoskeletal Disorders,Bronchodilators,Asthma,2020-01-02
+2696,123,Cardiovascular Diseases,Antihistamines,Hypertension,2022-09-09
+2697,343,None,None,Hypertension,2019-07-03
+2698,462,Skin Disorders,Bronchodilators,Asthma,2019-08-02
+2699,511,None,Anti-hypertensive,Hypertension,2021-03-30
+2700,349,Cardiovascular Diseases,Antihistamines,Back Pain,2022-10-14
+2701,284,None,None,Dermatitis,2019-04-09
+2702,16,Cardiovascular Diseases,Antihistamines,Hypertension,2020-07-30
+2703,373,Skin Disorders,Anti-hypertensive,Back Pain,2021-10-11
+2704,700,None,Antihistamines,Hypertension,2021-02-06
+2705,226,None,None,Hypertension,2021-07-02
+2706,959,Respiratory Diseases,Bronchodilators,Back Pain,2019-09-17
+2707,51,None,Anti-inflammatory,None,2020-07-19
+2708,605,None,Anti-inflammatory,Hypertension,2020-05-19
+2709,405,Cardiovascular Diseases,Anti-hypertensive,Dermatitis,2019-02-05
+2710,861,Cardiovascular Diseases,Anti-inflammatory,Dermatitis,2020-06-29
+2711,65,None,Bronchodilators,Dermatitis,2020-03-14
+2712,651,Respiratory Diseases,Anti-hypertensive,Back Pain,2022-02-19
+2713,690,Skin Disorders,None,Dermatitis,2022-06-12
+2714,252,Cardiovascular Diseases,Anti-inflammatory,None,2022-09-27
+2715,692,Musculoskeletal Disorders,Anti-inflammatory,None,2019-10-12
+2716,738,Musculoskeletal Disorders,Bronchodilators,Dermatitis,2021-07-01
+2717,416,Cardiovascular Diseases,None,None,2021-12-24
+2718,807,Skin Disorders,None,None,2021-03-05
+2719,811,Respiratory Diseases,None,Dermatitis,2019-08-05
+2720,375,Cardiovascular Diseases,Bronchodilators,Back Pain,2021-09-03
+2721,271,Cardiovascular Diseases,None,Dermatitis,2022-02-08
+2722,750,Respiratory Diseases,Anti-inflammatory,Dermatitis,2019-11-14
+2723,804,Cardiovascular Diseases,Anti-inflammatory,Asthma,2021-09-25
+2724,518,Respiratory Diseases,Anti-hypertensive,Hypertension,2021-10-13
+2725,615,Cardiovascular Diseases,None,Asthma,2020-07-02
+2726,814,Respiratory Diseases,Anti-hypertensive,Back Pain,2019-05-04
+2727,208,None,Anti-inflammatory,Hypertension,2022-12-12
+2728,796,Musculoskeletal Disorders,None,Dermatitis,2021-04-20
+2729,85,Musculoskeletal Disorders,Anti-inflammatory,Hypertension,2019-01-10
+2730,359,Musculoskeletal Disorders,None,Back Pain,2022-08-11
+2731,403,Respiratory Diseases,None,Dermatitis,2019-12-23
+2732,443,Cardiovascular Diseases,Bronchodilators,Dermatitis,2020-09-08
+2733,964,Musculoskeletal Disorders,Anti-hypertensive,None,2021-06-15
+2734,400,Cardiovascular Diseases,None,Dermatitis,2021-11-20
+2735,759,Cardiovascular Diseases,None,Back Pain,2021-11-17
+2736,737,Respiratory Diseases,None,Hypertension,2020-09-04
+2737,850,Respiratory Diseases,Bronchodilators,None,2020-09-22
+2738,137,Respiratory Diseases,Bronchodilators,Back Pain,2020-02-01
+2739,5,Cardiovascular Diseases,Anti-inflammatory,Back Pain,2019-12-21
+2740,441,Respiratory Diseases,None,None,2021-10-31
+2741,328,None,Antihistamines,Dermatitis,2022-05-24
+2742,188,Cardiovascular Diseases,Anti-inflammatory,Dermatitis,2022-12-30
+2743,261,Musculoskeletal Disorders,Anti-hypertensive,Asthma,2020-09-17
+2744,217,Skin Disorders,Bronchodilators,Asthma,2022-06-03
+2745,962,Respiratory Diseases,Antihistamines,Asthma,2019-02-18
+2746,210,Cardiovascular Diseases,Anti-inflammatory,None,2019-01-14
+2747,818,Skin Disorders,Anti-inflammatory,Asthma,2021-05-31
+2748,710,Musculoskeletal Disorders,Anti-inflammatory,Asthma,2021-11-30
+2749,605,Musculoskeletal Disorders,Antihistamines,None,2020-04-12
+2750,97,Respiratory Diseases,Bronchodilators,Back Pain,2020-02-01
+2751,366,None,Anti-hypertensive,Dermatitis,2019-01-20
+2752,324,Cardiovascular Diseases,Bronchodilators,None,2022-12-26
+2753,449,Respiratory Diseases,Antihistamines,Hypertension,2020-01-20
+2754,617,Respiratory Diseases,None,None,2020-12-31
+2755,926,Cardiovascular Diseases,Anti-hypertensive,None,2022-01-03
+2756,28,Cardiovascular Diseases,Anti-inflammatory,None,2022-11-17
+2757,19,Respiratory Diseases,Anti-hypertensive,Back Pain,2021-10-26
+2758,410,Cardiovascular Diseases,Anti-inflammatory,Asthma,2019-06-24
+2759,690,Musculoskeletal Disorders,Bronchodilators,None,2020-09-04
+2760,650,Cardiovascular Diseases,Anti-hypertensive,Dermatitis,2020-09-28
+2761,858,Respiratory Diseases,Bronchodilators,Asthma,2022-08-11
+2762,449,Cardiovascular Diseases,None,Asthma,2022-10-15
+2763,404,Skin Disorders,Anti-inflammatory,Asthma,2020-11-07
+2764,287,Respiratory Diseases,Bronchodilators,Hypertension,2021-03-07
+2765,277,Respiratory Diseases,Bronchodilators,Dermatitis,2020-05-03
+2766,810,Cardiovascular Diseases,Bronchodilators,Hypertension,2019-04-18
+2767,779,Respiratory Diseases,Antihistamines,Hypertension,2019-05-29
+2768,44,Cardiovascular Diseases,Antihistamines,Dermatitis,2022-10-28
+2769,861,Cardiovascular Diseases,Anti-hypertensive,Hypertension,2019-07-31
+2770,282,Skin Disorders,Antihistamines,Hypertension,2021-11-23
+2771,302,Cardiovascular Diseases,None,Hypertension,2020-04-12
+2772,860,None,Anti-inflammatory,Dermatitis,2020-08-21
+2773,704,Cardiovascular Diseases,Bronchodilators,None,2019-02-14
+2774,2,Respiratory Diseases,Antihistamines,None,2019-08-02
+2775,660,None,Anti-hypertensive,Dermatitis,2020-04-26
+2776,27,Cardiovascular Diseases,Antihistamines,None,2020-11-10
+2777,294,Cardiovascular Diseases,Antihistamines,Back Pain,2022-07-09
+2778,843,Respiratory Diseases,None,Asthma,2019-02-25
+2779,700,Skin Disorders,None,Dermatitis,2021-11-12
+2780,14,Skin Disorders,Anti-hypertensive,None,2021-10-27
+2781,228,Musculoskeletal Disorders,Bronchodilators,Hypertension,2020-05-22
+2782,72,Cardiovascular Diseases,Bronchodilators,Back Pain,2019-08-17
+2783,686,Respiratory Diseases,None,Dermatitis,2019-10-25
+2784,705,None,Bronchodilators,Dermatitis,2022-09-07
+2785,624,None,Antihistamines,Asthma,2022-09-26
+2786,202,Respiratory Diseases,Anti-hypertensive,Hypertension,2020-02-02
+2787,779,Musculoskeletal Disorders,None,Back Pain,2022-12-10
+2788,802,Respiratory Diseases,Anti-hypertensive,Back Pain,2019-01-13
+2789,756,Skin Disorders,None,Dermatitis,2022-12-19
+2790,70,Skin Disorders,None,Asthma,2019-09-07
+2791,146,Cardiovascular Diseases,None,None,2020-09-20
+2792,469,None,None,None,2021-12-07
+2793,479,Cardiovascular Diseases,Anti-hypertensive,Dermatitis,2022-01-30
+2794,875,Respiratory Diseases,Antihistamines,Hypertension,2022-04-19
+2795,214,Respiratory Diseases,Antihistamines,None,2022-04-12
+2796,332,None,Anti-hypertensive,Hypertension,2022-03-13
+2797,468,Musculoskeletal Disorders,Anti-inflammatory,Dermatitis,2021-07-02
+2798,308,Cardiovascular Diseases,Anti-inflammatory,None,2022-09-06
+2799,247,Cardiovascular Diseases,None,None,2022-07-12
+2800,36,Respiratory Diseases,Anti-hypertensive,Dermatitis,2020-06-07
+2801,722,Respiratory Diseases,Antihistamines,Back Pain,2022-04-24
+2802,552,None,Bronchodilators,None,2022-03-06
+2803,158,Respiratory Diseases,None,Back Pain,2021-10-01
+2804,26,Cardiovascular Diseases,None,Asthma,2020-10-05
+2805,685,Respiratory Diseases,Bronchodilators,None,2022-07-22
+2806,861,Musculoskeletal Disorders,None,Asthma,2020-06-05
+2807,433,Cardiovascular Diseases,Anti-inflammatory,Back Pain,2022-08-14
+2808,429,None,Antihistamines,Hypertension,2020-06-15
+2809,764,Cardiovascular Diseases,Antihistamines,None,2021-04-10
+2810,57,Skin Disorders,Anti-hypertensive,None,2022-12-22
+2811,605,Cardiovascular Diseases,Antihistamines,None,2019-07-28
+2812,34,Respiratory Diseases,Anti-inflammatory,Asthma,2022-02-08
+2813,190,None,Bronchodilators,Back Pain,2021-04-16
+2814,443,Cardiovascular Diseases,Antihistamines,Dermatitis,2021-03-15
+2815,220,Cardiovascular Diseases,Anti-inflammatory,Back Pain,2021-03-08
+2816,772,Cardiovascular Diseases,Anti-inflammatory,Back Pain,2022-07-04
+2817,368,Respiratory Diseases,Bronchodilators,Asthma,2021-07-21
+2818,812,Cardiovascular Diseases,Anti-inflammatory,Back Pain,2022-02-19
+2819,40,Cardiovascular Diseases,Antihistamines,Dermatitis,2019-01-24
+2820,302,Cardiovascular Diseases,Anti-hypertensive,Back Pain,2020-01-13
+2821,351,None,Anti-inflammatory,Dermatitis,2022-01-10
+2822,460,Respiratory Diseases,Anti-hypertensive,Dermatitis,2020-11-29
+2823,281,None,None,Asthma,2022-03-11
+2824,997,Musculoskeletal Disorders,Antihistamines,Asthma,2022-05-28
+2825,200,Skin Disorders,None,Back Pain,2019-12-16
+2826,731,Skin Disorders,Antihistamines,Dermatitis,2021-05-19
+2827,634,Musculoskeletal Disorders,None,None,2019-08-12
+2828,138,Respiratory Diseases,Bronchodilators,Back Pain,2021-03-07
+2829,319,Musculoskeletal Disorders,Anti-inflammatory,Hypertension,2019-02-18
+2830,582,Skin Disorders,Anti-inflammatory,None,2020-07-30
+2831,84,Cardiovascular Diseases,Bronchodilators,None,2019-11-07
+2832,630,None,Anti-hypertensive,None,2020-07-22
+2833,772,Skin Disorders,Anti-hypertensive,Asthma,2021-06-24
+2834,3,Skin Disorders,Anti-hypertensive,None,2019-07-17
+2835,208,Respiratory Diseases,Bronchodilators,None,2022-08-17
+2836,24,Cardiovascular Diseases,Anti-hypertensive,Dermatitis,2022-03-06
+2837,361,Cardiovascular Diseases,None,Asthma,2019-08-11
+2838,476,Skin Disorders,Anti-inflammatory,Back Pain,2019-03-14
+2839,773,Cardiovascular Diseases,Anti-hypertensive,Hypertension,2022-08-20
+2840,381,Skin Disorders,None,Hypertension,2021-09-22
+2841,224,Respiratory Diseases,Anti-inflammatory,Dermatitis,2021-10-24
+2842,657,Skin Disorders,Antihistamines,Hypertension,2020-04-22
+2843,223,None,Anti-hypertensive,Dermatitis,2019-07-06
+2844,113,Musculoskeletal Disorders,Anti-hypertensive,None,2020-03-17
+2845,414,Skin Disorders,None,Hypertension,2019-01-10
+2846,708,Respiratory Diseases,None,Hypertension,2019-02-09
+2847,598,Respiratory Diseases,Anti-hypertensive,Asthma,2019-06-14
+2848,408,Respiratory Diseases,Bronchodilators,Dermatitis,2022-03-09
+2849,120,Musculoskeletal Disorders,None,None,2022-07-16
+2850,488,Cardiovascular Diseases,None,Back Pain,2022-09-11
+2851,731,None,Bronchodilators,Back Pain,2020-03-13
+2852,397,Musculoskeletal Disorders,Bronchodilators,Asthma,2020-06-07
+2853,618,Cardiovascular Diseases,Antihistamines,Asthma,2021-05-25
+2854,782,None,Anti-inflammatory,Hypertension,2020-06-09
+2855,75,Skin Disorders,Antihistamines,None,2021-07-29
+2856,759,Respiratory Diseases,Bronchodilators,None,2021-08-08
+2857,155,None,Anti-hypertensive,Back Pain,2019-04-17
+2858,405,None,Antihistamines,Back Pain,2019-05-24
+2859,434,Respiratory Diseases,None,Dermatitis,2020-01-21
+2860,790,None,Antihistamines,Hypertension,2022-11-29
+2861,778,Respiratory Diseases,Bronchodilators,Asthma,2020-04-06
+2862,48,None,Anti-hypertensive,Back Pain,2020-09-19
+2863,703,None,Bronchodilators,None,2021-07-25
+2864,636,Skin Disorders,Anti-inflammatory,Hypertension,2021-11-17
+2865,928,Skin Disorders,Antihistamines,None,2019-04-11
+2866,813,Musculoskeletal Disorders,Antihistamines,Dermatitis,2021-06-02
+2867,62,Skin Disorders,Antihistamines,Hypertension,2022-04-28
+2868,117,Skin Disorders,Anti-hypertensive,Hypertension,2022-10-12
+2869,117,Respiratory Diseases,Bronchodilators,Asthma,2022-10-15
+2870,391,Respiratory Diseases,Bronchodilators,Dermatitis,2019-09-27
+2871,617,Cardiovascular Diseases,Bronchodilators,Back Pain,2019-10-07
+2872,114,None,None,Dermatitis,2019-08-12
+2873,765,Cardiovascular Diseases,None,Asthma,2019-08-30
+2874,832,Skin Disorders,None,Dermatitis,2020-07-22
+2875,824,Musculoskeletal Disorders,Antihistamines,None,2021-03-04
+2876,637,Skin Disorders,Anti-hypertensive,Hypertension,2022-03-11
+2877,844,Skin Disorders,Anti-hypertensive,Dermatitis,2022-11-24
+2878,77,Respiratory Diseases,Antihistamines,None,2021-02-08
+2879,107,Cardiovascular Diseases,Anti-hypertensive,Dermatitis,2019-04-09
+2880,236,None,None,Asthma,2021-11-03
+2881,123,Cardiovascular Diseases,Anti-hypertensive,None,2022-05-31
+2882,521,Cardiovascular Diseases,Anti-hypertensive,None,2020-10-16
+2883,389,Respiratory Diseases,Bronchodilators,Hypertension,2019-09-19
+2884,663,Musculoskeletal Disorders,None,None,2022-12-14
+2885,362,None,None,None,2022-07-24
+2886,395,Respiratory Diseases,Antihistamines,Dermatitis,2019-08-28
+2887,436,Cardiovascular Diseases,None,Dermatitis,2020-01-04
+2888,853,None,Anti-hypertensive,Dermatitis,2020-02-11
+2889,920,Cardiovascular Diseases,Anti-inflammatory,Back Pain,2022-08-25
+2890,105,None,None,None,2022-07-11
+2891,859,None,Antihistamines,Asthma,2021-09-01
+2892,16,Respiratory Diseases,None,Asthma,2022-08-11
+2893,716,None,Antihistamines,None,2020-08-26
+2894,625,Musculoskeletal Disorders,Anti-hypertensive,Asthma,2020-12-25
+2895,259,Cardiovascular Diseases,Anti-inflammatory,Asthma,2020-08-02
+2896,647,Respiratory Diseases,Antihistamines,Dermatitis,2019-03-19
+2897,479,None,Bronchodilators,None,2020-08-30
+2898,661,None,None,Hypertension,2021-09-22
+2899,603,Cardiovascular Diseases,Antihistamines,Hypertension,2019-06-22
+2900,936,Respiratory Diseases,Anti-hypertensive,Hypertension,2019-12-06
+2901,622,Cardiovascular Diseases,None,Back Pain,2019-11-14
+2902,504,None,Anti-inflammatory,Hypertension,2019-05-28
+2903,679,None,None,Dermatitis,2020-04-28
+2904,847,Cardiovascular Diseases,Anti-inflammatory,Asthma,2019-02-25
+2905,286,Cardiovascular Diseases,Antihistamines,Back Pain,2021-08-28
+2906,279,Skin Disorders,Antihistamines,None,2022-04-18
+2907,737,Skin Disorders,None,Dermatitis,2020-07-24
+2908,296,Respiratory Diseases,Antihistamines,Hypertension,2020-03-12
+2909,220,Musculoskeletal Disorders,Bronchodilators,Asthma,2019-11-05
+2910,123,None,Bronchodilators,Dermatitis,2019-06-06
+2911,574,Respiratory Diseases,None,Dermatitis,2022-05-15
+2912,454,None,None,Asthma,2019-09-09
+2913,409,Skin Disorders,Anti-inflammatory,Asthma,2020-04-28
+2914,265,Cardiovascular Diseases,Antihistamines,Dermatitis,2022-06-02
+2915,391,Respiratory Diseases,None,Dermatitis,2019-03-26
+2916,75,Respiratory Diseases,None,Back Pain,2021-05-22
+2917,142,Skin Disorders,Anti-hypertensive,Back Pain,2021-03-06
+2918,493,None,Anti-inflammatory,Dermatitis,2020-05-22
+2919,662,Musculoskeletal Disorders,Antihistamines,Dermatitis,2021-10-25
+2920,956,Musculoskeletal Disorders,Anti-inflammatory,Dermatitis,2020-03-28
+2921,243,Cardiovascular Diseases,Bronchodilators,Asthma,2019-05-20
+2922,653,None,Bronchodilators,Back Pain,2019-08-09
+2923,123,Cardiovascular Diseases,Bronchodilators,Back Pain,2020-07-12
+2924,691,Musculoskeletal Disorders,Anti-inflammatory,Asthma,2022-10-07
+2925,416,Cardiovascular Diseases,Bronchodilators,None,2022-02-16
+2926,387,Skin Disorders,None,None,2022-05-08
+2927,860,Cardiovascular Diseases,Antihistamines,Asthma,2021-11-22
+2928,73,Skin Disorders,Anti-inflammatory,None,2019-01-31
+2929,660,Respiratory Diseases,Antihistamines,None,2021-01-07
+2930,773,Musculoskeletal Disorders,Antihistamines,Hypertension,2019-07-18
+2931,170,Skin Disorders,Anti-hypertensive,None,2020-04-20
+2932,232,Respiratory Diseases,Anti-inflammatory,Dermatitis,2021-02-23
+2933,389,None,Anti-hypertensive,Back Pain,2020-05-05
+2934,408,Skin Disorders,Anti-hypertensive,Dermatitis,2019-02-10
+2935,743,Cardiovascular Diseases,Antihistamines,Back Pain,2019-10-14
+2936,30,Respiratory Diseases,Antihistamines,Back Pain,2020-12-10
+2937,472,Skin Disorders,Anti-hypertensive,Asthma,2020-12-27
+2938,394,Cardiovascular Diseases,None,Dermatitis,2019-04-16
+2939,622,Musculoskeletal Disorders,Anti-hypertensive,Back Pain,2021-05-21
+2940,773,Cardiovascular Diseases,Antihistamines,Hypertension,2019-09-12
+2941,740,None,None,None,2022-02-11
+2942,387,Musculoskeletal Disorders,Antihistamines,None,2022-11-02
+2943,723,Cardiovascular Diseases,None,Dermatitis,2022-04-11
+2944,216,Respiratory Diseases,Antihistamines,Dermatitis,2021-01-09
+2945,239,Respiratory Diseases,Bronchodilators,Asthma,2020-11-05
+2946,355,Cardiovascular Diseases,Antihistamines,None,2022-06-30
+2947,676,Respiratory Diseases,Antihistamines,Hypertension,2022-04-23
+2948,286,Cardiovascular Diseases,Anti-hypertensive,Asthma,2019-01-02
+2949,40,Cardiovascular Diseases,Anti-hypertensive,Back Pain,2019-09-30
+2950,437,Skin Disorders,None,None,2020-03-20
+2951,283,Skin Disorders,None,None,2022-05-10
+2952,417,Respiratory Diseases,Anti-inflammatory,Dermatitis,2019-03-14
+2953,597,Cardiovascular Diseases,Anti-hypertensive,None,2020-06-12
+2954,889,Cardiovascular Diseases,Antihistamines,None,2022-10-11
+2955,766,Skin Disorders,Anti-inflammatory,Back Pain,2021-12-17
+2956,480,Skin Disorders,Anti-inflammatory,Back Pain,2020-12-28
+2957,604,None,Anti-hypertensive,Back Pain,2022-05-03
+2958,941,Musculoskeletal Disorders,None,Hypertension,2022-03-21
+2959,84,Respiratory Diseases,Bronchodilators,None,2019-09-28
+2960,746,Musculoskeletal Disorders,Antihistamines,None,2019-01-06
+2961,69,Cardiovascular Diseases,Anti-hypertensive,Asthma,2021-08-19
+2962,868,Skin Disorders,Anti-inflammatory,Dermatitis,2020-06-04
+2963,674,Respiratory Diseases,Anti-inflammatory,Dermatitis,2020-12-15
+2964,659,Cardiovascular Diseases,None,Hypertension,2021-04-23
+2965,734,Cardiovascular Diseases,Anti-inflammatory,Asthma,2022-01-18
+2966,794,Cardiovascular Diseases,Bronchodilators,Back Pain,2021-08-23
+2967,767,Skin Disorders,Antihistamines,Hypertension,2021-04-20
+2968,235,Cardiovascular Diseases,Anti-inflammatory,Hypertension,2021-06-03
+2969,949,Skin Disorders,Anti-hypertensive,Back Pain,2022-12-02
+2970,114,Cardiovascular Diseases,Bronchodilators,Back Pain,2021-05-28
+2971,842,Respiratory Diseases,Anti-inflammatory,Hypertension,2020-08-14
+2972,652,Cardiovascular Diseases,None,Hypertension,2020-11-17
+2973,490,None,Anti-inflammatory,None,2019-03-24
+2974,481,Skin Disorders,None,Dermatitis,2022-11-22
+2975,658,None,Anti-inflammatory,Dermatitis,2020-05-26
+2976,940,None,Anti-hypertensive,Hypertension,2020-04-10
+2977,665,Skin Disorders,Anti-hypertensive,Hypertension,2020-12-21
+2978,291,Respiratory Diseases,Bronchodilators,Hypertension,2022-11-29
+2979,356,None,Bronchodilators,None,2022-05-24
+2980,980,Respiratory Diseases,Bronchodilators,None,2022-08-16
+2981,394,None,Bronchodilators,None,2020-10-28
+2982,286,Skin Disorders,Antihistamines,None,2020-01-01
+2983,398,Skin Disorders,None,Dermatitis,2022-07-08
+2984,82,None,None,None,2020-10-23
+2985,453,None,None,None,2020-03-01
+2986,454,None,Anti-inflammatory,Dermatitis,2021-03-05
+2987,423,Cardiovascular Diseases,Bronchodilators,Hypertension,2021-07-11
+2988,680,None,Bronchodilators,Dermatitis,2021-03-01
+2989,228,Respiratory Diseases,Antihistamines,None,2020-05-15
+2990,193,Respiratory Diseases,None,Hypertension,2020-09-17
+2991,950,Cardiovascular Diseases,Bronchodilators,Hypertension,2021-05-09
+2992,88,Respiratory Diseases,Anti-inflammatory,Hypertension,2020-04-07
+2993,255,None,Bronchodilators,Dermatitis,2020-03-12
+2994,892,Respiratory Diseases,None,Back Pain,2019-09-23
+2995,494,None,Anti-hypertensive,None,2019-01-27
+2996,434,Musculoskeletal Disorders,None,Back Pain,2021-11-05
+2997,884,Skin Disorders,Anti-inflammatory,None,2020-07-24
+2998,10,None,Bronchodilators,None,2021-08-12
+2999,586,Cardiovascular Diseases,Anti-inflammatory,Hypertension,2021-12-30
+3000,303,Respiratory Diseases,Anti-inflammatory,None,2021-08-30
+3001,605,Musculoskeletal Disorders,None,None,2019-12-09
+3002,270,Musculoskeletal Disorders,Antihistamines,None,2020-01-28
+3003,852,Skin Disorders,Anti-inflammatory,Asthma,2019-11-10
+3004,126,Cardiovascular Diseases,Bronchodilators,None,2020-06-29
+3005,288,Cardiovascular Diseases,Bronchodilators,Asthma,2019-09-16
+3006,453,Cardiovascular Diseases,Anti-inflammatory,Hypertension,2022-07-12
+3007,935,None,None,Hypertension,2020-07-23
+3008,724,Cardiovascular Diseases,Antihistamines,Back Pain,2022-07-18
+3009,70,Cardiovascular Diseases,Anti-hypertensive,None,2022-01-11
+3010,591,Cardiovascular Diseases,Antihistamines,Dermatitis,2020-11-02
+3011,577,Respiratory Diseases,None,Back Pain,2022-10-26
+3012,367,Cardiovascular Diseases,None,Hypertension,2022-03-07
+3013,372,Cardiovascular Diseases,Anti-inflammatory,Hypertension,2022-06-02
+3014,315,Cardiovascular Diseases,Antihistamines,Dermatitis,2019-05-17
+3015,114,Skin Disorders,Bronchodilators,None,2019-06-06
+3016,212,Musculoskeletal Disorders,Antihistamines,Hypertension,2021-08-25
+3017,721,Respiratory Diseases,Antihistamines,Hypertension,2019-06-17
+3018,26,Cardiovascular Diseases,Anti-hypertensive,Asthma,2020-03-10
+3019,508,Respiratory Diseases,Bronchodilators,Asthma,2019-10-05
+3020,378,Skin Disorders,Bronchodilators,Back Pain,2019-05-14
+3021,659,Cardiovascular Diseases,Bronchodilators,Asthma,2019-07-03
+3022,172,Cardiovascular Diseases,None,Hypertension,2021-07-12
+3023,799,None,Anti-hypertensive,Back Pain,2019-10-30
+3024,332,Cardiovascular Diseases,Bronchodilators,Dermatitis,2019-07-08
+3025,111,None,Antihistamines,Hypertension,2020-07-01
+3026,690,Respiratory Diseases,Anti-inflammatory,Asthma,2021-02-09
+3027,159,Respiratory Diseases,None,None,2022-04-27
+3028,28,None,Anti-hypertensive,Asthma,2022-08-20
+3029,311,Musculoskeletal Disorders,Anti-hypertensive,None,2019-04-04
+3030,428,Cardiovascular Diseases,Anti-inflammatory,Asthma,2021-12-19
+3031,544,Respiratory Diseases,None,Asthma,2020-03-18
+3032,341,Cardiovascular Diseases,Anti-inflammatory,None,2021-07-25
+3033,222,Skin Disorders,None,Asthma,2020-06-27
+3034,474,None,Antihistamines,Back Pain,2022-07-16
+3035,820,Respiratory Diseases,Bronchodilators,Back Pain,2019-11-27
+3036,362,None,Anti-hypertensive,Asthma,2022-01-16
+3037,738,Cardiovascular Diseases,Antihistamines,Dermatitis,2020-06-17
+3038,979,Musculoskeletal Disorders,Anti-inflammatory,Dermatitis,2019-10-22
+3039,121,None,Antihistamines,Back Pain,2022-06-10
+3040,329,Cardiovascular Diseases,Anti-hypertensive,Dermatitis,2022-01-05
+3041,994,None,Anti-hypertensive,Back Pain,2019-08-21
+3042,240,Cardiovascular Diseases,Anti-hypertensive,Back Pain,2020-09-29
+3043,144,Cardiovascular Diseases,Bronchodilators,None,2022-03-10
+3044,860,Skin Disorders,Anti-hypertensive,None,2020-04-19
+3045,767,Respiratory Diseases,Anti-inflammatory,Dermatitis,2020-11-04
+3046,228,Cardiovascular Diseases,None,Asthma,2021-11-19
+3047,908,Musculoskeletal Disorders,Bronchodilators,Hypertension,2022-06-29
+3048,490,Cardiovascular Diseases,None,Dermatitis,2021-03-13
+3049,317,None,Anti-hypertensive,Dermatitis,2021-10-22
+3050,905,None,Anti-inflammatory,Dermatitis,2019-02-26
+3051,515,Respiratory Diseases,None,Asthma,2022-10-06
+3052,684,Cardiovascular Diseases,Antihistamines,Dermatitis,2021-07-19
+3053,594,None,Antihistamines,None,2022-02-10
+3054,734,Skin Disorders,Antihistamines,None,2022-03-18
+3055,658,None,Bronchodilators,Asthma,2021-08-07
+3056,355,Cardiovascular Diseases,None,None,2019-03-10
+3057,966,Cardiovascular Diseases,None,Dermatitis,2022-07-23
+3058,712,Cardiovascular Diseases,Bronchodilators,Asthma,2020-11-02
+3059,334,Cardiovascular Diseases,Anti-hypertensive,Hypertension,2022-01-18
+3060,544,Cardiovascular Diseases,Bronchodilators,None,2021-11-06
+3061,987,None,Anti-hypertensive,Hypertension,2019-10-13
+3062,379,None,Anti-hypertensive,None,2020-11-17
+3063,748,Skin Disorders,Anti-inflammatory,Hypertension,2020-06-08
+3064,332,None,None,Back Pain,2019-11-08
+3065,144,Respiratory Diseases,Antihistamines,None,2020-09-13
+3066,266,Cardiovascular Diseases,Anti-inflammatory,Hypertension,2022-11-03
+3067,604,Respiratory Diseases,Anti-hypertensive,None,2019-06-23
+3068,716,Skin Disorders,Bronchodilators,Back Pain,2021-11-24
+3069,491,Cardiovascular Diseases,None,Asthma,2021-05-17
+3070,299,Respiratory Diseases,Anti-hypertensive,Asthma,2019-08-10
+3071,386,Cardiovascular Diseases,Anti-inflammatory,Dermatitis,2019-08-21
+3072,533,None,Anti-hypertensive,Dermatitis,2020-02-05
+3073,318,Respiratory Diseases,None,Back Pain,2020-05-20
+3074,508,Cardiovascular Diseases,Bronchodilators,Asthma,2021-12-04
+3075,161,Respiratory Diseases,Bronchodilators,Dermatitis,2019-06-22
+3076,725,None,Anti-hypertensive,Hypertension,2021-09-10
+3077,999,Skin Disorders,Anti-inflammatory,Hypertension,2021-01-16
+3078,703,Cardiovascular Diseases,None,Back Pain,2020-04-26
+3079,718,Cardiovascular Diseases,None,Dermatitis,2022-08-08
+3080,575,None,Anti-inflammatory,Dermatitis,2021-04-16
+3081,337,Cardiovascular Diseases,Anti-inflammatory,None,2020-02-20
+3082,650,None,Antihistamines,Back Pain,2021-08-14
+3083,16,Respiratory Diseases,Anti-inflammatory,Asthma,2021-04-07
+3084,60,Skin Disorders,Bronchodilators,Back Pain,2019-07-29
+3085,944,Respiratory Diseases,Anti-inflammatory,Dermatitis,2020-09-01
+3086,803,None,None,Dermatitis,2022-04-01
+3087,484,Musculoskeletal Disorders,Antihistamines,Hypertension,2020-01-08
+3088,12,Skin Disorders,Antihistamines,Hypertension,2021-06-09
+3089,373,Cardiovascular Diseases,Antihistamines,Asthma,2022-10-15
+3090,29,None,Anti-inflammatory,Dermatitis,2020-11-16
+3091,437,Cardiovascular Diseases,None,Asthma,2022-11-27
+3092,302,None,Bronchodilators,None,2019-12-05
+3093,195,Cardiovascular Diseases,Anti-inflammatory,Back Pain,2022-01-27
+3094,869,Cardiovascular Diseases,None,Dermatitis,2020-11-13
+3095,667,Skin Disorders,Anti-inflammatory,Hypertension,2021-12-13
+3096,463,None,Antihistamines,Asthma,2021-06-20
+3097,710,Musculoskeletal Disorders,Bronchodilators,Asthma,2021-04-29
+3098,15,Musculoskeletal Disorders,Anti-inflammatory,Asthma,2019-06-22
+3099,622,Musculoskeletal Disorders,Anti-hypertensive,None,2022-05-14
+3100,546,Skin Disorders,Antihistamines,Hypertension,2020-09-01
+3101,981,Cardiovascular Diseases,Antihistamines,Dermatitis,2022-04-25
+3102,395,Respiratory Diseases,None,Asthma,2022-05-17
+3103,520,None,None,Back Pain,2020-07-05
+3104,494,Cardiovascular Diseases,None,None,2019-11-26
+3105,416,None,Anti-inflammatory,Hypertension,2022-09-27
+3106,457,Respiratory Diseases,Anti-hypertensive,Hypertension,2022-06-11
+3107,391,None,None,Back Pain,2022-07-26
+3108,898,None,Anti-hypertensive,Asthma,2021-12-07
+3109,737,None,Anti-inflammatory,Back Pain,2020-12-12
+3110,116,Cardiovascular Diseases,None,None,2020-04-25
+3111,538,None,Anti-inflammatory,None,2022-05-14
+3112,733,None,Bronchodilators,None,2022-04-04
+3113,286,Musculoskeletal Disorders,Anti-hypertensive,None,2022-01-29
+3114,412,None,None,None,2022-07-18
+3115,304,Musculoskeletal Disorders,Anti-inflammatory,Hypertension,2019-10-08
+3116,543,Skin Disorders,Anti-inflammatory,None,2019-09-10
+3117,349,None,Anti-hypertensive,None,2019-08-15
+3118,545,Skin Disorders,Anti-inflammatory,Asthma,2022-09-10
+3119,390,Skin Disorders,Bronchodilators,Asthma,2019-01-08
+3120,104,Cardiovascular Diseases,Anti-hypertensive,Dermatitis,2020-12-28
+3121,94,None,Antihistamines,Dermatitis,2022-10-10
+3122,995,Skin Disorders,Antihistamines,Dermatitis,2019-04-17
+3123,945,None,None,Dermatitis,2022-12-24
+3124,907,None,None,Back Pain,2019-10-10
+3125,116,Cardiovascular Diseases,Antihistamines,Back Pain,2022-03-30
+3126,181,Respiratory Diseases,Antihistamines,Hypertension,2021-12-16
+3127,169,Skin Disorders,Antihistamines,Hypertension,2020-05-19
+3128,18,None,Bronchodilators,Back Pain,2022-03-25
+3129,351,Cardiovascular Diseases,Antihistamines,Asthma,2020-01-21
+3130,51,Musculoskeletal Disorders,Anti-inflammatory,Dermatitis,2019-01-22
+3131,960,Cardiovascular Diseases,Bronchodilators,Hypertension,2019-09-10
+3132,829,Respiratory Diseases,None,Asthma,2021-05-03
+3133,420,Cardiovascular Diseases,Anti-hypertensive,None,2021-07-14
+3134,987,Respiratory Diseases,None,None,2020-07-15
+3135,483,Cardiovascular Diseases,Anti-hypertensive,Back Pain,2020-05-04
+3136,31,Cardiovascular Diseases,Anti-hypertensive,None,2020-07-26
+3137,187,None,Anti-inflammatory,Back Pain,2019-06-18
+3138,656,Respiratory Diseases,Bronchodilators,Asthma,2020-08-13
+3139,954,Musculoskeletal Disorders,Anti-inflammatory,Asthma,2019-08-03
+3140,499,Skin Disorders,Anti-hypertensive,Dermatitis,2019-04-27
+3141,581,Respiratory Diseases,Antihistamines,None,2022-12-23
+3142,991,Cardiovascular Diseases,Bronchodilators,Back Pain,2021-05-21
+3143,933,Musculoskeletal Disorders,None,None,2022-01-22
+3144,327,None,Bronchodilators,Back Pain,2021-07-28
+3145,719,Cardiovascular Diseases,Anti-inflammatory,None,2019-04-02
+3146,333,Musculoskeletal Disorders,None,Asthma,2020-05-30
+3147,72,Cardiovascular Diseases,Antihistamines,Dermatitis,2020-09-25
+3148,855,None,Anti-hypertensive,Dermatitis,2022-08-26
+3149,489,Skin Disorders,Anti-inflammatory,Hypertension,2019-07-21
+3150,53,Skin Disorders,Anti-inflammatory,Hypertension,2021-04-10
+3151,759,None,Bronchodilators,Asthma,2019-01-28
+3152,436,None,Bronchodilators,Dermatitis,2020-01-05
+3153,662,None,Bronchodilators,None,2021-05-08
+3154,214,Respiratory Diseases,Anti-inflammatory,Dermatitis,2019-06-22
+3155,188,Skin Disorders,Antihistamines,Dermatitis,2021-11-26
+3156,911,Musculoskeletal Disorders,None,Back Pain,2020-12-11
+3157,153,None,Anti-hypertensive,Hypertension,2019-02-08
+3158,294,Respiratory Diseases,Bronchodilators,Dermatitis,2021-01-04
+3159,28,Respiratory Diseases,Anti-hypertensive,Back Pain,2019-04-21
+3160,998,Respiratory Diseases,Anti-inflammatory,None,2019-02-24
+3161,51,Musculoskeletal Disorders,Anti-hypertensive,Asthma,2019-01-14
+3162,546,Respiratory Diseases,Anti-hypertensive,Asthma,2022-04-05
+3163,371,Cardiovascular Diseases,Anti-hypertensive,Dermatitis,2020-08-14
+3164,345,Respiratory Diseases,Anti-hypertensive,Dermatitis,2022-04-06
+3165,796,Skin Disorders,Anti-hypertensive,Back Pain,2020-06-19
+3166,155,Respiratory Diseases,Anti-hypertensive,None,2019-01-08
+3167,694,Cardiovascular Diseases,Antihistamines,Asthma,2022-07-09
+3168,408,Skin Disorders,Anti-hypertensive,None,2021-04-10
+3169,917,Respiratory Diseases,None,Asthma,2022-09-14
+3170,178,None,Antihistamines,None,2021-04-01
+3171,694,None,Anti-inflammatory,None,2021-08-14
+3172,621,Skin Disorders,Anti-hypertensive,Dermatitis,2019-03-28
+3173,114,Respiratory Diseases,Bronchodilators,Hypertension,2020-11-11
+3174,445,Cardiovascular Diseases,Antihistamines,None,2022-05-17
+3175,543,None,Anti-hypertensive,Hypertension,2022-09-20
+3176,317,Skin Disorders,Antihistamines,Asthma,2021-04-01
+3177,803,Musculoskeletal Disorders,Bronchodilators,Dermatitis,2021-08-19
+3178,422,None,None,Hypertension,2022-05-04
+3179,1000,Cardiovascular Diseases,Antihistamines,Hypertension,2022-09-06
+3180,373,None,Antihistamines,Hypertension,2020-11-29
+3181,306,None,Anti-inflammatory,Dermatitis,2021-09-06
+3182,678,Respiratory Diseases,Anti-hypertensive,Dermatitis,2022-01-11
+3183,475,None,Antihistamines,Hypertension,2019-11-08
+3184,670,Skin Disorders,Anti-hypertensive,Asthma,2021-06-03
+3185,433,Skin Disorders,Anti-inflammatory,Dermatitis,2022-12-02
+3186,104,Respiratory Diseases,Antihistamines,Back Pain,2022-10-14
+3187,769,Skin Disorders,Bronchodilators,Back Pain,2020-12-07
+3188,278,None,Anti-hypertensive,Back Pain,2019-01-10
+3189,396,Cardiovascular Diseases,Anti-inflammatory,Asthma,2019-01-02
+3190,224,Cardiovascular Diseases,None,Dermatitis,2019-01-08
+3191,363,None,Anti-inflammatory,Hypertension,2021-07-28
+3192,39,Cardiovascular Diseases,Anti-hypertensive,Back Pain,2021-06-17
+3193,562,Musculoskeletal Disorders,Antihistamines,Dermatitis,2021-06-26
+3194,101,Respiratory Diseases,Anti-inflammatory,Dermatitis,2019-07-16
+3195,283,Cardiovascular Diseases,Anti-hypertensive,Dermatitis,2022-11-19
+3196,114,Cardiovascular Diseases,Anti-inflammatory,Dermatitis,2019-08-20
+3197,729,Respiratory Diseases,Antihistamines,None,2019-12-06
+3198,978,Cardiovascular Diseases,Anti-hypertensive,Back Pain,2020-07-22
+3199,865,Musculoskeletal Disorders,Anti-hypertensive,Dermatitis,2022-01-14
+3200,572,Cardiovascular Diseases,Anti-hypertensive,None,2021-01-19

@@ -1,0 +1,73 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>MinerGuardian: Admin - Notification Center</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            padding: 20px;
+            background-color: #f7f7f7;
+        }
+
+        .notification-center {
+            background-color: white;
+            padding: 20px;
+            border-radius: 5px;
+            box-shadow: 0px 0px 5px rgba(0, 0, 0, 0.1);
+        }
+
+        label, h2 {
+            display: block;
+            margin-bottom: 20px;
+            font-weight: bold;
+        }
+
+        select, textarea, button {
+            width: 100%;
+            padding: 10px;
+            margin-bottom: 20px;
+            border: 1px solid #ccc;
+            border-radius: 4px;
+        }
+
+        button {
+            background-color: #007BFF;
+            color: white;
+            cursor: pointer;
+        }
+
+        button:hover {
+            background-color: #0056b3;
+        }
+    </style>
+</head>
+
+<body>
+
+<div class="notification-center">
+    <h1>Notification Center</h1>
+    <p>Send updates and alerts to workers.</p>
+
+    <label for="recipient">Select Recipients:</label>
+    <select id="recipient" multiple>
+        <option value="all">All Workers</option>
+        <!-- Here you can populate the list with individual workers as needed -->
+        <option value="worker1">Worker 1</option>
+        <option value="worker2">Worker 2</option>
+        <!-- ... -->
+    </select>
+
+    <label for="message">Message:</label>
+    <textarea id="message" rows="6" placeholder="Enter your message..."></textarea>
+
+    <button type="submit">Send Notification</button>
+</div>
+
+<!-- Any scripts for handling the sending of notifications would be added below, connecting to your backend service. -->
+
+</body>
+
+</html>

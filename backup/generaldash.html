@@ -1,0 +1,86 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>MinerGuardian - General Worker Dashboard</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            background-color: #f4f4f4;
+            margin: 0;
+            padding: 0;
+        }
+
+        .dashboard {
+            max-width: 800px;
+            margin: 50px auto;
+            background-color: white;
+            padding: 20px;
+            border-radius: 5px;
+            box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.1);
+        }
+
+        h1 {
+            text-align: center;
+            margin-bottom: 20px;
+        }
+
+        .feature {
+            padding: 15px;
+            border: 1px solid #e1e1e1;
+            margin: 15px 0;
+            border-radius: 5px;
+            cursor: pointer;
+            transition: background-color 0.3s;
+        }
+
+        .feature:hover {
+            background-color: #f4f4f4;
+        }
+
+        .feature h2 {
+            margin: 0;
+        }
+
+        .feature p {
+            margin-top: 5px;
+            color: #777;
+        }
+
+    </style>
+</head>
+<body>
+
+<div class="dashboard">
+    <h1>Welcome to MinerGuardian</h1>
+    
+    <div class="feature" onclick="location.href='health_profile.html'">
+        <h2>Health Profile</h2>
+        <p>View and update your personal health data, and see AI-driven insights on your health trends.</p>
+    </div>
+    
+    <div class="feature" onclick="location.href='sexual_health_support.html'">
+        <h2>Sexual Health Information & Support</h2>
+        <p>Access our AI chatbox or request professional human assistance.</p>
+    </div>
+
+    <div class="feature" onclick="location.href='health_safety_inductions.html'">
+        <h2>Health Safety Inductions</h2>
+        <p>View tutorials and documents on health and safety procedures tailored for you.</p>
+    </div>
+    
+    <div class="feature" onclick="location.href='data_driven_health_trends.html'">
+        <h2>Data-Driven Health Trends</h2>
+        <p>Visualize patterns in your health metrics and get recommendations based on data.</p>
+    </div>
+
+    <div class="feature" onclick="location.href='personalized_safety_recommendations.html'">
+        <h2>Personalized Safety Recommendations</h2>
+        <p>Receive safety tips and best practices specific to your profile and role.</p>
+    </div>
+
+</div>
+
+</body>
+</html>
