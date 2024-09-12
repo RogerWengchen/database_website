@@ -1,0 +1,62 @@
+<html>
+    <head>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <title>Worker data manage system</title>
+        <style>
+            p.outset {border-style: outset;}
+        </style>
+        <link rel="stylesheet" href="poms.css" />
+    </head>
+    <body>
+        <h1>Worker Information control system</h1>
+        <a href="/">Home</a>
+        <a href="/addworker">Add New Worker</a>
+        <a href="/getworkers">List All Workers</a>
+        <a href="/delworker">Delete Worker</a>
+        <a href="/updateworker">Update Worker</a>
+        <p class="outset"></p>
+        
+        <h1>New Worker</h1>
+        <form method="post" action="addworker">
+            <table>
+                <tr>
+                    <td>WorkerID</td>
+                    <td><input type="number" name="WorkerID"/></td>
+                </tr>
+                <tr>
+                    <td>Age</td>
+                    <td><input type="number" name="Age"/></td>
+                </tr>
+                <tr>
+                    <td>Occupation</td>
+                    <td><input type="text" name="Occupation"/></td>
+                </tr>
+                <tr>
+                    <td>Is Current Employee?</td>
+                    <td>
+                        <select name="IsCurrentEmployee" type="boolean">
+                            <option value="true">true</option>
+                            <option value="false">false</option>
+                        </select>
+                    </td>
+                </tr>
+                <tr>
+                    <td>DateJoined</td>
+                    <td><input type="date" name="DateJoined"/></td>
+                </tr>
+                <tr>
+                    <td>DateLeft</td>
+                    <td><input type="date" name="DateLeft"/></td>
+                </tr>
+                <tr>
+                    <td>ReasonForLeaving</td>
+                    <td><input type="text" name="ReasonForLeaving"/></td>
+                </tr>
+                <tr>
+                    <td><button type="submit">submit</button></td>
+                </tr>
+            </table>          
+        </form>  
+    </body>
+</html>
