@@ -1,0 +1,16 @@
+body {
+    background-image: url('safety.jpeg');
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+}
+
+a{
+    margin-right: 1cm; /*each button 1cm space*/
+}
+
+#parcels{
+    font-family: Arial, Helvetica, sans-serif;
+    border-collapse: collapse;
+    width: 100%;
+}
